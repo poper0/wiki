@@ -12,7 +12,7 @@ music. WMFO alumni have distinguished themselves all over the world.
 5.  5.
     [Other](https://wiki.wmfo.org/About_WMFO/Station_History/Alumni#Other)
 
-### Broadcast {.editable}
+### Broadcast 
 
 -   Jonathan Tisch, 1976, Trustee of Tufts University, Treasurer of the
     New York Giants, CEO of Loews Hotels, numerous media positions
@@ -25,20 +25,20 @@ music. WMFO alumni have distinguished themselves all over the world.
 -   Tommy Hadges, 1971, WBCN
 -   LIsa Allen, NBC Springfield, MA
 
-### Recording {.editable}
+### Recording 
 
 -   Mike Scinon, 1971, Warner Brothers Records
 
-### Education {.editable}
+### Education 
 
 -   Mike Aronson, Recipient of National Endowment for the Arts
     Scholarship
 
-### Engineering {.editable}
+### Engineering 
 
 -   Roy Mallory, 1971, WMEX
 
-### Other {.editable}
+### Other 
 
 -   John Dinneen, 1975, Press Secretary for congressional candidate
     Arthur Mason

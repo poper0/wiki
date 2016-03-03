@@ -1,4 +1,4 @@
-Studio C Shielded Patch Panel {.editable}
+Studio C Shielded Patch Panel 
 -----------------------------
 
 This is a Studio Hub+ Hub16 Patch Panel
@@ -7,7 +7,7 @@ installed in the Studio C cabinet.\
  It utilizes a Studio Hub+ External Universal Power Supply (PS-EXTU) for
 +/- 15VDC, Power Grounding, and Shield Grounding.
 
-### Note: {.editable}
+### Note: 
 
 The Axia PowerStation Main and Aux units have ports that are designed to
 provide power for hardware yet to be released.  The power specification
@@ -18,7 +18,7 @@ this panel without the white brown and brown wires (pins 7 & 8) punched
 down to the terminal blocks.  If these cables are ever replaced, the
 replacement cables must not connect pins 7 & 8 to the PowerStation.
 
-#### Jumper Key {.editable}
+#### Jumper Key 
 
 JU1 - +15VDC Connect (per channel)\
  JU2 - -15VDC Connect (per channel)\
@@ -30,12 +30,12 @@ channel)\
 
 X - Jumper Connected
 
-#### JU33 Status {.editable}
+#### JU33 Status 
 
 Block 1 (top) - Connected\
  Block 2 (bottom) - Connected
 
-### Routing Table {.editable}
+### Routing Table 
 
 **Channel**
 

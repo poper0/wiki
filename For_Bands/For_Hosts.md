@@ -10,7 +10,7 @@ happen on your show.
 2.  2. [Host
     Responsibilities](https://wiki.wmfo.org/For_Bands/For_Hosts#Host_Responsibilities)
 
-First Steps {.editable}
+First Steps 
 -----------
 
 The first thing you should do is contact the band to see when they would
@@ -35,7 +35,7 @@ the third floor themselves. Timing is also critical so that the band is
 ready to go live at the desired time. The band should respect the
 timeline if they want to sound good.
 
-Host Responsibilities {.editable}
+Host Responsibilities 
 ---------------------
 
 As a host, you are in charge of the band while they are at the station.

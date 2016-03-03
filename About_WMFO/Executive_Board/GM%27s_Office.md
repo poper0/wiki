@@ -5,7 +5,7 @@ rules and policies, coordinating the station's staff, and any other
 necessary duties to ensure the smooth, legal, and effective pursuit of
 WMFO's mission and goals.
 
-General Manager {.editable}
+General Manager 
 ---------------
 
 +--------------------------------------+--------------------------------------+
@@ -47,7 +47,7 @@ General Manager {.editable}
 |                                      | -------------------                  |
 +--------------------------------------+--------------------------------------+
 
-Previous GMs {.editable}
+Previous GMs 
 ------------
 
  

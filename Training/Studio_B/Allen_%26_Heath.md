@@ -13,7 +13,7 @@ open Preferences with Ctrl-P, and go to Devices on the left. Select
 ASIO, and then select the desired interface. When switching to the ICE,
 you'll want to set the "last" to 16.
 
-Aux Outputs {.editable}
+Aux Outputs 
 -----------
 
   -------- ------------------ -------------------- ----------
@@ -31,7 +31,7 @@ Aux Outputs {.editable}
 
  
 
-Signal Flow Diagrams {.editable}
+Signal Flow Diagrams 
 --------------------
 
 -   [Recording
@@ -39,7 +39,7 @@ Signal Flow Diagrams {.editable}
 -   [Playback
     Diagram](https://docs.google.com/a/wmfo.org/drawings/d/10JwPqQPqzOd74Dkx0uNSCMqzbUqjKEMzD4O-wkuWVOM/edit "https://docs.google.com/a/wmfo.org/drawings/d/10JwPqQPqzOd74Dkx0uNSCMqzbUqjKEMzD4O-wkuWVOM/edit")
 
-Fader Inputs {.editable}
+Fader Inputs 
 ------------
 
 These tables are done "upside-down", from the perspective of someone
@@ -164,10 +164,10 @@ inserts available, where the audio is routed to an effects processor and
 then returns to the fader. The 16 mics are routed to the 16 channels on
 the ICE.
 
-Master I/O {.editable}
+Master I/O 
 ----------
 
-### First Layer {.editable}
+### First Layer 
 
   --------------- ------- ------- ------- -------
   **Stereo In**   **1**   **2**   **3**   **4**
@@ -204,7 +204,7 @@ SBRS1\
 
 Lamps: not connected
 
-### Second Layer {.editable}
+### Second Layer 
 
 **INSERT**
 
@@ -260,7 +260,7 @@ INS1 24
 
 NEARFIELD LVL
 
-### Third Layer {.editable}
+### Third Layer 
 
 TRS aux outs, ascending left to right. Refer to table above for
 destinations.
@@ -268,7 +268,7 @@ destinations.
 TB/GEN OUT: not connected\
  OUT M: not connected
 
-### Fourth Layer {.editable}
+### Fourth Layer 
 
 **GROUP**
 

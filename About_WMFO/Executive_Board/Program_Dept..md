@@ -9,7 +9,7 @@ attendance analysis each season. The Programming Department reports to
 the [General
 Manager](https://wiki.wmfo.org/About_WMFO/Executive_Board/GM's_Office "GM's Office").
 
-Director {.editable}
+Director 
 --------
 
 +--------------------------------------+--------------------------------------+
@@ -42,7 +42,7 @@ Director {.editable}
 |                                      | -----------------------------        |
 +--------------------------------------+--------------------------------------+
 
-Previous Directors {.editable}
+Previous Directors 
 ------------------
 
   ----------------------------- ------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,4 +1,4 @@
-About {.editable}
+About 
 -----
 
 We are in the process of moving all of our active coding project to
@@ -29,7 +29,7 @@ Director](https://wiki.wmfo.org/Executive_Board/Operations_Dept. "Operations Dep
 the [WMFO Ops
 E-List](https://wiki.wmfo.org/Staff_Info/Staff_Newsgroups "Staff Newsgroups").
 
-Contents {.editable}
+Contents 
 --------
 
 -   [Automatic CD Import

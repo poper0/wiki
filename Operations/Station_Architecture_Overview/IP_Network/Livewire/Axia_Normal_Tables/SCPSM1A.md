@@ -1,4 +1,4 @@
-Studio C PowerStation Main 1 Audio Node {.editable}
+Studio C PowerStation Main 1 Audio Node 
 ---------------------------------------
 
 **Credential Level:** Operations\
@@ -12,7 +12,7 @@ and [Diagrams &
 Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables "Diagrams & Tables")
 page for keys and abbreviation information.
 
-### Sources: {.editable}
+### Sources: 
 
   ---------- ----------------- ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ------------ ----------------- ------------------- ---------------------
   **Port**   **Name**          [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Shareable**   **Mode**   **Gain**   **Ph/AES**   **Direct Wire**   **Direct Device**   **Terminal Device**
@@ -26,7 +26,7 @@ page for keys and abbreviation information.
   D2         SC - CD1          13527                                                                                                                     N               SS         -9.0       A            7                 SCSHP 7             SC - CD1 MJ
   ---------- ----------------- ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ------------ ----------------- ------------------- ---------------------
 
-### Destinations: {.editable}
+### Destinations: 
 
   ---------- ---------------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ---------- ----------------- ------------------- ---------------------
   **Port**   **Name**         [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Type**   **Load**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**

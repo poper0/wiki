@@ -7,7 +7,7 @@ other WMFO web services (streaming, digital archives, DJ portal, etc).
 The Webmaster reports to the
 [Operations Director](https://wiki.wmfo.org/Executive_Board/Operations_Dept. "Operations Dept.").
 
-Webmaster {.editable}
+Webmaster 
 ---------
 
 +--------------------------------------+--------------------------------------+
@@ -31,7 +31,7 @@ Webmaster {.editable}
 |                                      | --------------------------           |
 +--------------------------------------+--------------------------------------+
 
-Previous Webmasters {.editable}
+Previous Webmasters 
 -------------------
 
 +--------------------------+--------------------------+--------------------------+

@@ -10,7 +10,7 @@ into the following categories:
 3.  Audio Peripherals and Signal Chain
 4.  Software Solutions and Computer Configurations
 
-#### Location Codes {.editable}
+#### Location Codes 
 
 AN - Annex\
  CON - Control Room/Master Control\
@@ -23,7 +23,7 @@ AN - Annex\
 
  
 
-Contents {.editable}
+Contents 
 --------
 
 -   [Code](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Code "Operations/Station_Architecture_Overview/Code")

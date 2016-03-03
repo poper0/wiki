@@ -5,7 +5,7 @@ knowing where you fall in the rank of show time preference, you should
 be able to use the information below to estimate what show times are
 most realistic for you to expect to receive.
 
-Animation {.editable}
+Animation 
 ---------
 
 Show
@@ -13,7 +13,7 @@ names: [http://schedule.wmfo.org/history.php](http://schedule.wmfo.org/history.
  Color Code (Key
 Below): [http://schedule.wmfo.org/\<wbr\>history2.php](http://schedule.wmfo.org/history2.php "http://schedule.wmfo.org/history2.php")
 
-Graphic {.editable}
+Graphic 
 -------
 
 Red: First 25% of Showtimes Assigned (Highest Demand)\

@@ -9,7 +9,7 @@ server) is the primary server.
  As of of January 2013, around 12.1TB of 17.5TB (70%) of the disk space
 is used.
 
-Rationale {.editable}
+Rationale 
 ---------
 
 We will attempt to keep each storage array a perfect mirror of the other
@@ -32,7 +32,7 @@ consult the [Operations
 Director](https://wiki.wmfo.org/Executive_Board/Operations_Dept. "Operations Dept.")
 before doing this.
 
-Data Drive Directory Structure {.editable}
+Data Drive Directory Structure 
 ------------------------------
 
 ---Directory---   ---------Description---------   --Hierarchy--  

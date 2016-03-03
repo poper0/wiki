@@ -8,7 +8,7 @@ Board election process and the associated WMFO Executive Board terms.
 3.  3. [Election
     Process](https://wiki.wmfo.org/About_WMFO/Executive_Board/Elections_and_Terms#Election_Process)
 
-General Info {.editable}
+General Info 
 ------------
 
 All WMFO Exec Board positions are elected at the Spring Staff meeting,
@@ -30,7 +30,7 @@ by the fact that only undergraduate students can hold office). All Exec
 board members are expected to put between 5 and 15 hours per week into
 the station, depending on their duties and position.
 
-Election Order {.editable}
+Election Order 
 --------------
 
 WMFO Exec Board Positions shall be elected in the following order.
@@ -71,7 +71,7 @@ is more information about the different positions.
 16. [Tickets
     Coordinator](https://wiki.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Tickets_Office "Tickets Office")
 
-Election Process {.editable}
+Election Process 
 ----------------
 
 1.  The WMFO General Manager commences the general election at the WMFO

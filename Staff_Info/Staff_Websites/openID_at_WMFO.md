@@ -2,7 +2,7 @@
 here sounds too complicated, feel free to ignore it and create separate
 accounts for each page.*
 
-What Is openID? {.editable}
+What Is openID? 
 ---------------
 
 openID is a collective effort eliminate the necessity of having a
@@ -15,7 +15,7 @@ visits: [http://openid.net/](http://openid.net/ "http://openid.net/") or
 view the [wikipedia
 page](http://en.wikipedia.org/wiki/OpenID "http://en.wikipedia.org/wiki/OpenID").
 
-How Do I Get One? {.editable}
+How Do I Get One? 
 -----------------
 
 Getting an openID is really easy, so much so that you probably already
@@ -32,14 +32,14 @@ author page URL
 as your openID and then provide your login credentials for the public
 site when prompted to.
 
-How Can I Use An openID with WMFO {.editable}
+How Can I Use An openID with WMFO 
 ---------------------------------
 
 Currently, both the [public website and the
 wiki](https://wiki.wmfo.org/Staff_Info/Staff_Websites "Staff Info/Staff Websites")
 support openID.
 
-### Public Website {.editable}
+### Public Website 
 
 To use an openID on the public website, **complete the [normal
 registration
@@ -59,7 +59,7 @@ webpage](http://www.tuftsfreeformradio.org/wp-login.php "http://www.tuftsfreefor
 If you are prompted to enter your openID credentials, please do so. You
 should then be able to proceed with the login process.
 
-### wiki {.editable}
+### wiki 
 
 To use an openID on the wiki, you must register your account with an
 openID. This process is far less flexible then the public website openID

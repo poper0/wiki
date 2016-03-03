@@ -1,7 +1,7 @@
 Help us celebrate WMFO's 40th anniversary by joining us for a free and
 public open house at the station!
 
-Details {.editable}
+Details 
 -------
 
 **Date**: Friday, December 3rd\
@@ -13,7 +13,7 @@ and in the lot between Bromfield-Pearson and Anderson Hall (across from
 the station). While some of these spaces are marked permit parking only,
 they will all be available for open parking during the event.
 
-Description {.editable}
+Description 
 -----------
 
 Join us to meet fellow WMFO affiliates, catch up with old friends, tour

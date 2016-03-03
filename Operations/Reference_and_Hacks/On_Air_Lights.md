@@ -3,7 +3,7 @@ This is the GPIO specification for the On Air Light control lines.
 Up to 4 independent light circuits can be driven from a single Cat6
 line. Each circuit uses its own D-sub 15 connector.
 
-Control PDU {.editable}
+Control PDU 
 -----------
 
 The grid is driven by an 8 port serial/contact closure Power
@@ -17,7 +17,7 @@ Stop: 1, Parity: 0.  Access to this device requries credentials found on
 the [Internal Credentials
 Page](https://wiki.wmfo.org/Operations/Credentials/Internal_Credentials "Internal Credentials").
 
-### Configuration {.editable}
+### Configuration 
 
 The following table is the current configuration of the device and
 intended purpose of each port. Currently only outlets 1, 5, and 6 are
@@ -35,7 +35,7 @@ connected to lights, although all control wiring has been done.
   8               Outlet8        Open       Distro - Always On
   --------------- -------------- ---------- ---------------------------
 
-### Changing Config {.editable}
+### Changing Config 
 
 To change the mode of the outlet call:
 `set outlet <outlet #> control.on <open/closed>`\
@@ -47,10 +47,10 @@ The current mode of an outlet can be checked by:
 
 The current status of all outlets can be checked by: `get outlets`
 
-Studio A Driven (connected to SAEGP1) {.editable}
+Studio A Driven (connected to SAEGP1) 
 -------------------------------------
 
-### D-sub Mapping {.editable}
+### D-sub Mapping 
 
 The D-subs are where the GPIO control signals leave the LiveWire
 network.
@@ -62,7 +62,7 @@ network.
   3              SC Internal             Line Input
   -------------- ----------------------- -----------------------
 
-### Pin Mapping {.editable}
+### Pin Mapping 
 
 **Wire Color**
 
@@ -158,14 +158,14 @@ NC
 
 -
 
-Studio B Driven {.editable}
+Studio B Driven 
 ---------------
 
 The lights driven by Studio B (B/Dee Externals) are controlled by a
 physical switch mounted above the board. This switch is driven by a 3
 conductor line spliced off of an 8 conductor Cat6 line.
 
-### Pin Mapping {.editable}
+### Pin Mapping 
 
 **Wire Color**
 
@@ -268,17 +268,17 @@ Note1: The LED - (negative) line is connected to Switch ON 1.\
 PowerStations; this could be reworked using 4 conductor line and making
 use of the two isolated switch lines provided by the mechanical switch.
 
-Studio C Driven (connected to SCPSA1) {.editable}
+Studio C Driven (connected to SCPSA1) 
 -------------------------------------
 
-### D-sub Mapping {.editable}
+### D-sub Mapping 
 
   -------------- ------------------------- -----------------------
   **D-sub \#**   **Lights Controlled**     **Axia GPIO Profile**
   1              SC External & 5V Supply   Control Room Monitor
   -------------- ------------------------- -----------------------
 
-### Pin Mapping {.editable}
+### Pin Mapping 
 
 **Wire Color**
 

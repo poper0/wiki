@@ -1,4 +1,4 @@
-Control Room Shielded Patch Bay {.editable}
+Control Room Shielded Patch Bay 
 -------------------------------
 
 This is the shielded Cat5E patch bay.

@@ -1,4 +1,4 @@
-Contents {.editable}
+Contents 
 --------
 
 -   [Constitution](https://wiki.wmfo.org/About_WMFO/Constitution "About_WMFO/Constitution")

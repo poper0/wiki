@@ -1,4 +1,4 @@
-Access back-end: {.editable}
+Access back-end: 
 ----------------
 
 1.  go to www.tuftsfreeformradio.org/wp-login.php

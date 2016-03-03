@@ -36,7 +36,7 @@ wiki - Resides on Smoothcriminal
 Eventually we'll have a file server in the tower (name TBA) and a GM
 terminal (name TBD).
 
-**Contents:** {.editable}
+**Contents:** 
 -------------
 
 ****

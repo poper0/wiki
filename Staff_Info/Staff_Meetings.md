@@ -1,6 +1,6 @@
 This page hosts information covered at the seasonal WMFO Staff Meetings.
 
-Contents {.editable}
+Contents 
 --------
 
 -   [2015 Fall

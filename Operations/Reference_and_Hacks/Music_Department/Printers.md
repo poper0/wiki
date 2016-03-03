@@ -1,11 +1,11 @@
-HP LaserJet {.editable}
+HP LaserJet 
 -----------
 
 The old printer is an HP LaserJet 3055. It has a scanner, faxer, copier,
 and B&W printer. Its IP is 192.168.5.90. It is functional and located in
 Storage.
 
-HP OfficeJet {.editable}
+HP OfficeJet 
 ------------
 
 We obtained an HP Officejet Pro L7780 All-in-one that had been tossed

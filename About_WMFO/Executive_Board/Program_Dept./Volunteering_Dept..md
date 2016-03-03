@@ -6,7 +6,7 @@ volunteering talent to all other WMFO department. The Volunteering
 Department reports to the [Programming
 Department](https://wiki.wmfo.org/Executive_Board/Programming_Dept. "Programming Dept.").
 
- Director {.editable}
+ Director 
 ---------
 
 +--------------------------------------+--------------------------------------+
@@ -47,7 +47,7 @@ Department](https://wiki.wmfo.org/Executive_Board/Programming_Dept. "Programming
 |                                      |                                      |
 +--------------------------------------+--------------------------------------+
 
-Previous Directors {.editable}
+Previous Directors 
 ------------------
 
   ------------------------------------------------------------------------ ------------- ----------------------------------------------------------------------------------------------------------------

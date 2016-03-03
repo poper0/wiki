@@ -5,7 +5,7 @@ necessary.
 
 High Priority:
 
-Medium Priority: {.editable}
+Medium Priority: 
 ----------------
 
 -   Old Bug: Remove DMCA archive warning from Logged-In DJ archive links
@@ -48,7 +48,7 @@ Medium Priority: {.editable}
 -   New-ish Bug: A white bar appears across the top of the website when
     logged in. Not a concern to the public. -Max
 
-Low Priority: {.editable}
+Low Priority: 
 -------------
 
 -   Speed - Optimize images, etc for quick page loads
@@ -62,7 +62,7 @@ Low Priority: {.editable}
     when switching between main and popout player
 -   Calendar tied into concert listings, etc
 
-Completed: {.editable}
+Completed: 
 ----------
 
 -   ~~Bug:  [http://www.wmfo.org/webcast/\<wbr\>wmfo.wax\</wbr\>](http://www.wmfo.org/webcast/wmfo.wax "http://www.wmfo.org/webcast/wmfo.wax") (the

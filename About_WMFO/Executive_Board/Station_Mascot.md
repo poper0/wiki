@@ -1,7 +1,7 @@
 The station mascot has no official duties, but can sometimes be seen at
 certain WMFO events, such as the annual spring open house.
 
-Station Mascot {.editable}
+Station Mascot 
 --------------
 
 +--------------------------------------+--------------------------------------+
@@ -19,7 +19,7 @@ Station Mascot {.editable}
 |                                      | --------------------------           |
 +--------------------------------------+--------------------------------------+
 
-Previous Holders {.editable}
+Previous Holders 
 ----------------
 
   ---------- ----------- -----------

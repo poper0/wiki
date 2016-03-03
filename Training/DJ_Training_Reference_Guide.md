@@ -1,4 +1,4 @@
-Also see: DJ Handbook {.editable}
+Also see: DJ Handbook 
 ---------------------
 
 This page is the main reference guide for training information. For a
@@ -57,12 +57,12 @@ Handbook](https://wiki.wmfo.org/Staff_Info/DJ_Handbook "DJ Handbook").
         2.  8.2.2. [Station Identification](#Station_Identification)
         3.  8.2.3. [PSAs](#PSAs)
 
-General Station Info {.editable}
+General Station Info 
 --------------------
 
 A brief overview of the station.
 
-### Rooms within WMFO {.editable}
+### Rooms within WMFO 
 
 -   Studios - Studio A is the primary on-air studio. Studio B is used
     for band mixing and recording proceedures. Studio C is the auxiliary
@@ -72,7 +72,7 @@ A brief overview of the station.
 -   Bathroom
 -   Libraries - Lots of music on the walls. Probably a fire hazard.
 
-### The Executive Board {.editable}
+### The Executive Board 
 
 Oversees WMFO and makes strategic decisions, improvements, and runs
 community events and relations. Also does the money stuff to keep the
@@ -80,52 +80,52 @@ station on the air.
 
 See the Executive Board page.
 
-Things you should/need to know  {.editable}
+Things you should/need to know  
 -------------------------------
 
-### The Public File {.editable}
+### The Public File 
 
 -   May be requested by listener
 -   It's on file in the GM's office
 
-### Card Access {.editable}
+### Card Access 
 
 -   IDs will be authorized at the end of the training process
 -   Make sure to sign up for training with the name on their ID to avoid
     confusion
 
-### Locked out? {.editable}
+### Locked out? 
 
 -   Call up to studio to be let in
 -   Go to Police Station under Dowling if no one is in the studio.\
       
 
-DJ Requirements {.editable}
+DJ Requirements 
 ---------------
 
-### Account Registration {.editable}
+### Account Registration 
 
-#### Google Groups {.editable}
+#### Google Groups 
 
 -   Sign up *before* first training session
 -   Mandatory groups: WMFO Staff, WMFO SubList
 -   Sign up through wmfo.org DJ Info Section
 
-#### Spinitron {.editable}
+#### Spinitron 
 
 -   Sign up *before* first training session
 -   Station: WMFO, (access code emailed and on TEMS)
 -   make sure to use real email addresses
 
-### Necessary Skills {.editable}
+### Necessary Skills 
 
-#### Spinitron Use {.editable}
+#### Spinitron Use 
 
 -   How to create and use playlist
 -   Spinitron use is mandatory (by law) and must be updated throughout
     show
 
-#### Rivendell Use {.editable}
+#### Rivendell Use 
 
 -   **Starting/Stopping automation** - Simply press "Automation ON" to
     turn it on, and "OFF" to turn it off. Rivendell fader must be up.
@@ -147,18 +147,18 @@ DJ Requirements {.editable}
     Now select the External 2 feed above the monitor volume knob. You
     should hear the rivendell preview coming over the monitors.
 
-### The Phone {.editable}
+### The Phone 
 
 -   If listener lines (7-3800, 7-3801) ring during your show, DJ is
     responsible for answering it: “WMFO, how can I help you?”
 
-#### Answering the Phone off-air {.editable}
+#### Answering the Phone off-air 
 
 -   Press phone button to "unhook" the phone.
 -   Hold preview and press talkback.
 -   Speak into DJ mic (1) and listen through DJ headphones
 
-#### Putting a Caller on Air {.editable}
+#### Putting a Caller on Air 
 
 How to put a phone call on air:
 
@@ -176,10 +176,10 @@ the person know that they will be put/are on the air.
 -   If you answer the call to air, you must tell them they are on the
     air right away: "WMFO, you're on the air!"
 
-General Policies {.editable}
+General Policies 
 ----------------
 
-### Visitors {.editable}
+### Visitors 
 
 -   DJs are responsible for all non-staff persons in the studio during
     their show. 
@@ -187,14 +187,14 @@ General Policies {.editable}
     or breaks during their show.
 -   This policy includes "Recurring Guests" or untrained Co-Hosts.
 
-### Volunteering Requirements {.editable}
+### Volunteering Requirements 
 
 -   Log hours in the book by the door. (Possibility of online system
     soon)
 -   5 hours a semester
 -   3 hours must come from activities other than on-air subbing
 
-### On-Air Subbing {.editable}
+### On-Air Subbing 
 
 You may request a sub by emailing a brief note to
 wmfo-sublist@googlegroups. You may accept a sub opportunity by
@@ -211,10 +211,10 @@ important:
 -   If you are going to miss more than three shows during a semester,
     please contact the Programming Director
 
-Equipment Description/Use {.editable}
+Equipment Description/Use 
 -------------------------
 
-### The Sound Board {.editable}
+### The Sound Board 
 
 -   Red "On" vs. Yellow "Off" Buttons
 -   **Laptop Instructions - **Make sure that you turn your laptop volume
@@ -234,7 +234,7 @@ Equipment Description/Use {.editable}
     (when you're searching and press play). All of these sources can be
     listened on either the DJ headphones or the Monitors.
 
-#### Sound Board Sources {.editable}
+#### Sound Board Sources 
 
 -   Rivendell Slider
 -   CD Player Sliders
@@ -245,7 +245,7 @@ Equipment Description/Use {.editable}
 -   Turntable
 -   DJ Mixer Setup (look left)
 
-#### Basic Sound Board Tips and Tricks {.editable}
+#### Basic Sound Board Tips and Tricks 
 
 -   **Reset the Profile to Default:** Press the "Profile" Button in the
     upper right. You can hold for 5 seconds to reload.
@@ -260,14 +260,14 @@ Equipment Description/Use {.editable}
     actual receiver listening to the air. If you hear static, call
     someone.). Headphones listen to Program 1.
 
-#### Broadcast Volume Levels {.editable}
+#### Broadcast Volume Levels 
 
 -   Put volume sliders near the red. Always remember, "Middle-ish is
     good-ish."
 -   The blue bars should never peak and the bars should not turn
     constantly red.
 
-#### Hosting bands live on air {.editable}
+#### Hosting bands live on air 
 
 -   If your trainees are interested in hosting bands and using these
     studios, make sure they know that they must be properly trained to
@@ -275,35 +275,35 @@ Equipment Description/Use {.editable}
     they should contact
     [wmfo-engineers@googlegroups.com](mailto:wmfo-engineers@googlegroups.com "mailto:wmfo-engineers@googlegroups.com")
 
-Music at WMFO {.editable}
+Music at WMFO 
 -------------
 
-### Physical Copies {.editable}
+### Physical Copies 
 
 WMFO has an extensive analog collection of audio, including lots of
 records and a few cassette tapes. CDs have been digitized and archived
 on hard drives for use with Rivendell.
 
-### New Music {.editable}
+### New Music 
 
 New Music Shelf (all music that is taken from the shelves must be
 re-filed before they leave) - It has new music on it.
 
-### Ticket Give-aways {.editable}
+### Ticket Give-aways 
 
 -   You are free to give away tickets to any show listed.
 -   You must take down the name of the winner
 
-### Stealing Music {.editable}
+### Stealing Music 
 
  
 
 Don't.
 
-On-air Responsibilities {.editable}
+On-air Responsibilities 
 -----------------------
 
-### Drug and Alcohol Policies {.editable}
+### Drug and Alcohol Policies 
 
 -   **No alcohol or drugs in the station.**
 -   **No being under the influence of alcohol or drugs in the station.**
@@ -311,11 +311,11 @@ On-air Responsibilities {.editable}
     station.**
 -   **Violation will lead to immediete dismissal from WMFO.**
 
-### FCC Responsibilities {.editable}
+### FCC Responsibilities 
 
 (average FCC fine: \$10,000 out of your pocket)
 
-#### Other Policies {.editable}
+#### Other Policies 
 
 -   Obscenity: No obscenity on the air at any time of day.  DJs may
     never curse or play music with obscenities on the air.  Be sure to
@@ -328,7 +328,7 @@ A complete list of policies is also on the DJ Contract you sign at the
 beginning of every semester. Please read through that contract to
 completion.
 
-#### Station Identification {.editable}
+#### Station Identification 
 
 within 5 minutes of the hour, every hour (ie between 3:55 and 4:05 and
 then between 4:55 and 5:05)
@@ -337,7 +337,7 @@ then between 4:55 and 5:05)
 -   Illegal station ID:  “WMFO 91.5FM Medford” or “WMFO Tufts Freeform
     Radio in Medford”
 
-#### PSAs {.editable}
+#### PSAs 
 
 -   Mandatory
 -   one per hour

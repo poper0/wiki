@@ -5,7 +5,7 @@ Access to these nodes will require either the Operations or Engineer
 credentials located on the [Internal Credentials
 Page](https://wiki.wmfo.org/Operations/Credentials/Internal_Credentials "Internal Credentials").
 
-#### Mode Key {.editable}
+#### Mode Key 
 
 LS - Live Stereo\
  SS - Standard Stereo\
@@ -14,12 +14,12 @@ LS - Live Stereo\
  SS - Standard Mono\
  D - Disabled
 
-###### AES Mode {.editable}
+###### AES Mode 
 
 A - Asynchronous\
  S - Synchronous
 
-#### Type Key {.editable}
+#### Type Key 
 
 FS - From Source\
  TS - To Source\
@@ -27,7 +27,7 @@ FS - From Source\
  FM - From Source: Dual Mono\
  TM - To Source: Dual Mono
 
-#### General Legend {.editable}
+#### General Legend 
 
 HP - Head Phone\
  MJ - Studio Hub Match Jack\
@@ -38,7 +38,7 @@ further reference.\
  L - Local Wire per wire labeling defined in SA cabinet\
  C - Control Room Wire per wire label defined in SA cabinet
 
-#### Direct and Terminal Devices {.editable}
+#### Direct and Terminal Devices 
 
 The **Direct Device** is a patch bay or cube. The **Terminal Device** is
 the device itself (if conected via dongle or directly) or an amp of
@@ -46,7 +46,7 @@ matchjack (MJ) of the device. The two should not be the same. There
 should always be a terminal device. However, it is necessary to balance
 standardization with what makes sense in context.
 
-#### Contents {.editable}
+#### Contents 
 
 -   [CONA1](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/IP_Network/Livewire/Axia_Normal_Tables/CONA1 "Operations/Station_Architecture_Overview/IP_Network/Livewire/Axia_Normal_Tables/CONA1")
 -   [CONASI1](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/IP_Network/Livewire/Axia_Normal_Tables/CONASI1 "Operations/Station_Architecture_Overview/IP_Network/Livewire/Axia_Normal_Tables/CONASI1")

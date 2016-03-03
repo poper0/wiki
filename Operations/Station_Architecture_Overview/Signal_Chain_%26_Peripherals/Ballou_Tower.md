@@ -2,7 +2,7 @@ This page will detail routing and equipment information from the WMFO
 equipment in Ballou. Signal chain will read roughly down the page, with
 some exceptions.
 
-### PDU {.editable}
+### PDU 
 
 This device is a network accessible power distributor, which runs off of
 a dedicated fibox line and will soon run out of the UPS. This allows you
@@ -20,7 +20,7 @@ hard kill switch. Outlets are labeled in software.
 7.  unused
 8.  Mozart Transmitter
 
-### Router Selector {.editable}
+### Router Selector 
 
 Currently also sends the output of the Inovonics Model 531 modulation
 meter back down as RF-TOW-MON livewire source. This will give garbage
@@ -29,7 +29,7 @@ the Belar if need arises.
 
 Allows you to listen to various sources over headphones which is good.
 
-### Omnia FM {.editable}
+### Omnia FM 
 
 Input: Livewire EAS Output
 
@@ -40,7 +40,7 @@ Also has other I/O and failover support.
 Basically just slams our normalized audio up to maximum volume and adds
 compression. Then the 
 
-#### Functionality: {.editable}
+#### Functionality: 
 
 1.  This terminates the livewire network (listens to the EAS output)
 2.  applies configurable multi-band compression
@@ -48,7 +48,7 @@ compression. Then the 
 4.  Outputs AES audio (turned down a few dB from max to lower
     modulation)
 
-#### MPX Signal Lesson: {.editable}
+#### MPX Signal Lesson: 
 
 MPX stands for multiplex and includes
 
@@ -65,7 +65,7 @@ The amplitude of this signal translates into carrier deviation inside
 the modulator where carier deviation is proportional to amplitude of MPX
 signal. Calibration is key.
 
-### Inovonics RDS Encoder {.editable}
+### Inovonics RDS Encoder 
 
 We have an IP enabled Inovonics RDS encoder. It is configured over IP
 Telnet (and a Windows utility installed on Smooth).
@@ -79,7 +79,7 @@ Telnet (and a Windows utility installed on Smooth).
 7.  RDS input to Mozart
 8.  Mozart adds RDS to transmitted signal
 
-### DB Broadcast Mozart 100 Transmitter {.editable}
+### DB Broadcast Mozart 100 Transmitter 
 
 Gets AES signal from Omnia. Generates stereo signal. Adds RDS either
 from internal RDS encoder or external. Provides control interface,
@@ -98,7 +98,7 @@ ratio of forward to reflected power. 1:1 is happy, 1:infinity is death.
 Should kick itself off if the VSWR gets too high (would be caused by
 antenna being destroyed).
 
-### Rereceive/Modulation Meter {.editable}
+### Rereceive/Modulation Meter 
 
 This is an Inovonics Model 531 FM modulation monitor
 ([manual](http://www.inovonicsbroadcast.com/wp-content/uploads/catablog/downloads/531Manual.pdf "http://www.inovonicsbroadcast.com/wp-content/uploads/catablog/downloads/531Manual.pdf")).
@@ -119,7 +119,7 @@ To calibrate modulation:
 3.  Switch back to regular modulation metering and make sure everything
     still looks good.
 
-#### Notes on Modulation Measurements: {.editable}
+#### Notes on Modulation Measurements: 
 
 The manual specifies the integration time of the modulation calculator
 is by default set to 100 microseconds, and can be adjusted with an

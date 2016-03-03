@@ -8,7 +8,7 @@ our listeners by allowing them to view what is currently playing on WMFO
 or what played at any previous point in time. The "Now Playing" and RRS
 feeds are all drawn form the Spinitron servers.
 
-Registration {.editable}
+Registration 
 ------------
 
 All WMFO staff are required to register for Spinitron.
@@ -21,7 +21,7 @@ Credentials](https://wiki.wmfo.org/Staff_Info/Staff_Services/Service_Credentials
 page. You must have a DJ WMFO staff account on the wiki to view this
 page.
 
-Usage {.editable}
+Usage 
 -----
 
 To use Spinitron during your show, please login

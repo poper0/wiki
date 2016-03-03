@@ -21,7 +21,7 @@ at
         4.  1.2.4. [Station
             Responsibilities](https://wiki.wmfo.org/Training/General_Information_for_New_Staff#Station_Responsibilities)
 
-General Staff Info {.editable}
+General Staff Info 
 ------------------
 
 This section contains information for WMFO's General Staff regarding
@@ -32,7 +32,7 @@ Constitution](https://wiki.wmfo.org/About_WMFO/Constitution "Constitution")
 and [Staff Information](https://wiki.wmfo.org/Staff_Info "Staff Info")
 wiki pages.
 
-### About the Station {.editable}
+### About the Station 
 
 WMFO is a student-run FM broadcast station owned by the Trustees of
 Tufts University and run entirely by Tufts students. WMFO is a home to
@@ -44,7 +44,7 @@ Staff. For more information on the Executive Board, please visit the
 Board](https://wiki.wmfo.org/About_WMFO/Executive_Board "Executive Board")
 page on the WMFO Wiki.
 
-### General Staff {.editable}
+### General Staff 
 
 WMFO DJs, Subs, and other volunteers constitute the station's General
 Staff. DJs can either host weekly or bi-weekly shows or be Substitutes
@@ -63,7 +63,7 @@ station policy initiatives. General Staff meetings are announced via
 Newsgroup](https://wiki.wmfo.org/Staff_Info/Staff_Newsgroups "Staff Newsgroups").
 Attendance is required.
 
-#### Becoming a DJ or Sub {.editable}
+#### Becoming a DJ or Sub 
 
 Training occurs once per semester, and is overseen by the [Training
 Coordinator](https://wiki.wmfo.org/About_WMFO/Executive_Board/Programming_Dept./Training_Office "Training Office").
@@ -85,7 +85,7 @@ Newsgroup](https://wiki.wmfo.org/Staff_Info/Staff_Newsgroups "Staff Newsgroups")
 all trainees are considered full General Staff members privy to all the
 rights and responsibilities that being a WMFO staff member entails.
 
-#### Becoming a Volunteer {.editable}
+#### Becoming a Volunteer 
 
 All volunteers are trained by their relevant departments. After trainees
 complete training, they must turn in a DJ Agreement and Information Form
@@ -98,7 +98,7 @@ Director](https://wiki.wmfo.org/About_WMFO/Executive_Board/Programming_Dept. "Pr
 all volunteers are considered full General Staff members privy to all
 the rights and responsibilities that being a WMFO staff member entails.
 
-#### Getting Access to the Station {.editable}
+#### Getting Access to the Station 
 
 Upon the completion of training and scheduling, Tufts ID cards are
 authorized to open the touch-acess exterior door to Curtis Hall as well
@@ -114,7 +114,7 @@ visit the [Card
 Access](https://wiki.wmfo.org/Staff_Info/Card_Access "Card Access") page
 on the Wiki.
 
-#### Station Responsibilities {.editable}
+#### Station Responsibilities 
 
 In order to retain membership at WMFO, General Staff members must adhere
 to station policies outlined in the [WMFO

@@ -1,4 +1,4 @@
-Control Room Analog Node 1 {.editable}
+Control Room Analog Node 1 
 --------------------------
 
 **Credential Level:** Operations\
@@ -12,7 +12,7 @@ and [Diagrams &
 Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables "Diagrams & Tables")
 page for keys and abbreviation information.
 
-### Sources: {.editable}
+### Sources: 
 
   ---------- ------------------ ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ----------------- ------------------- ---------------------
   **Port**   **Name**           [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Shareable**   **Mode**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**
@@ -26,7 +26,7 @@ page for keys and abbreviation information.
   8          SA - Tape          10007                                                                                                                     N               SS         0.0        -                 CONSHP 8            SA - TAPE1 - O
   ---------- ------------------ ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ----------------- ------------------- ---------------------
 
-### Destinations: {.editable}
+### Destinations: 
 
   ---------- ------------------ ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ---------- ----------------- ------------------- -----------------------
   **Port**   **Name**           [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Type**   **Load**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**

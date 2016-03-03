@@ -1,6 +1,6 @@
 Ringo is the primary file server for WMFO.
 
-Architecture {.editable}
+Architecture 
 ------------
 
 It's currently running the 14.04 LTS of Ubuntu.
@@ -8,7 +8,7 @@ It's currently running the 14.04 LTS of Ubuntu.
 The main RAID is installed on top of 8x6TB WD Red drives. These are all
 grouped under a single RAIDZ share using the ZFS filesystem.
 
-Services {.editable}
+Services 
 --------
 
 Ringo exposes several shares over Samba:

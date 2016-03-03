@@ -6,7 +6,7 @@ successfully. Trainees will always have the option to complete training
 during a later semester and receive training credit, except in cases of
 extenuating circumstances as determined by the executive board.
 
-Requirements {.editable}
+Requirements 
 ------------
 
 Any individual may train with WMFO, no affiliation with Tufts is
@@ -24,7 +24,7 @@ Programming Director ultimately have the final decision in who gets the
 first choice for a show time, generally based on a weighting which
 factors in seniority at the station and volunteer hours.*
 
-Responsibilities as Trainee {.editable}
+Responsibilities as Trainee 
 ---------------------------
 
 Students are responsible for fullfilling the necessary steps of training
@@ -66,7 +66,7 @@ The Training Coordinator has the authority but not the obligation to
 waive any of these requirements should special situations or needs
 arise.
 
-Resolving Confusion {.editable}
+Resolving Confusion 
 -------------------
 
 If any trainee is confused about the policies or required steps, it is

@@ -7,7 +7,7 @@ century communications techniques to further its mission and accomplish
 its goals. The New Media Office reports to the [Publicity
 Director](https://wiki.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept. "Publicity Dept.").
 
-Tycoon {.editable}
+Tycoon 
 ------
 
 +--------------------------------------+--------------------------------------+
@@ -30,7 +30,7 @@ Tycoon {.editable}
 |                                      | -----------------------              |
 +--------------------------------------+--------------------------------------+
 
-Previous Tycoons {.editable}
+Previous Tycoons 
 ----------------
 
 +--------------------------+--------------------------+--------------------------+

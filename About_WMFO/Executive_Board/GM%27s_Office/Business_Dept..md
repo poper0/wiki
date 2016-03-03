@@ -6,7 +6,7 @@ coordinating underwriting opportunities, and overseeing station
 advertising campaigns. The Business Department reports to the [General
 Manager](https://wiki.wmfo.org/Executive_Board/GM's_Office "GM's Office").
 
-Business/OTS Directors {.editable}
+Business/OTS Directors 
 ----------------------
 
 +--------------------------------------+--------------------------------------+
@@ -60,7 +60,7 @@ Business/OTS Directors {.editable}
 
  
 
-Previous Directors {.editable}
+Previous Directors 
 ------------------
 
   -------------------------------- ---------------- ----------------

@@ -8,7 +8,7 @@ collect, and curate significant WMFO history and materials. The Office
 of Archives reports to the [Operations
 Director](https://wiki.wmfo.org/About_WMFO/Executive_Board/Operations_Dept. "Operations Dept.").
 
-Archivist {.editable}
+Archivist 
 ---------
 
 +--------------------------------------+--------------------------------------+
@@ -35,7 +35,7 @@ Archivist {.editable}
 |                                      | -----------------------------        |
 +--------------------------------------+--------------------------------------+
 
-Previous Archivists {.editable}
+Previous Archivists 
 -------------------
 
   ----------------- ------------- -----------

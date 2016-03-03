@@ -33,7 +33,7 @@ So, a few rules and a few recommendations when selecting usernames for
 your assorted WMFO web presences... (Yes, names not following these
 conventions will be rejected. What of it?)
 
-### Rules {.editable}
+### Rules 
 
 -   **[wiki.wmfo.org](https://wiki.wmfo.org/Staff_Info/Staff_Websites "Staff Info/Staff Websites")
     -**Wiki etiquette calls for '*FirstnameLastname*' formatted user

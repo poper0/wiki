@@ -2,7 +2,7 @@ This is a report of the process used to upgrade our two data servers
 (SMOOTHCRIMINAL & SUPERTRAMP) from \~10TB RAID5 to \~20TB RAID6 in
 October of 2011.
 
-#### Initial Status: {.editable}
+#### Initial Status: 
 
 As of 9/28 capacity of mirror is at 7.70TB used out of 9.54TB total (in
 base2 bytes, not base10 bytes).
@@ -18,7 +18,7 @@ Smooth's array:
 -   8 - 1.5TB 5400 3.5" Seagate Drives
 -   1 - Highpoint RocketRAID 2320
 
-#### Final Status: {.editable}
+#### Final Status: 
 
 As of \<\<end date\>\> capacity of mirror is at \<\<end consumed\>\>
 used out of 16.3TB total (in base2 bytes, not base10 bytes)
@@ -35,7 +35,7 @@ Smooth's array:
 -   1 - Areca ARC-1220 8 channel RAID controller
 -   1 - Areca ARC-6120-3 controller backup battery
 
-#### Upgrade Process: {.editable}
+#### Upgrade Process: 
 
 1.  ~~Stop all ripping to tobeImported~~
 2.  ~~Wait for auto import to finish the backlog and confirm autoimport

@@ -15,7 +15,7 @@ streamed online through wmfo.org. Lastly, as WMFO and On the Side are
 college organizations, no alcohol or drugs are allowed in the building
 and our station is smoke free.
 
-Band Responsibilities {.editable}
+Band Responsibilities 
 ---------------------
 
 As the artist, there are a number of things you can do to ensure the
@@ -37,7 +37,7 @@ broadcast/recording. We will try to do our best to accommodate any
 requests, but a final decision will be made by the engineer based on the
 specific circumstances of the session.
 
-How Will the Live Session Go? {.editable}
+How Will the Live Session Go? 
 -----------------------------
 
 For the typical band, expect about an hour of load-in and set-up time.
@@ -53,7 +53,7 @@ that you may go live on time with the best possible sound. However,
 expect to take the entire two and a half hours.  If we are ready
 earlier-sweet. Enjoy some relaxation before rocking the airwaves!
 
-Key Points {.editable}
+Key Points 
 ----------
 
 • Show up on time\

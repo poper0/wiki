@@ -2,7 +2,7 @@ This page discusses basic WMFO Programming policies and station rules.
 Questions regarding this material should be directed to the [Programming
 Director](https://wiki.wmfo.org/About_WMFO/Executive_Board/Programming_Dept. "Programming Dept.").
 
-Broadcast Regulations {.editable}
+Broadcast Regulations 
 ---------------------
 
 -   Be aware of the [profanity and indecency
@@ -22,7 +22,7 @@ Broadcast Regulations {.editable}
     profanity policy, the DJ must immediately remove the caller from the
     air.
 
-Discrimination and Sexual Harassment {.editable}
+Discrimination and Sexual Harassment 
 ------------------------------------
 
 Violations of Tufts'
@@ -31,7 +31,7 @@ harassment](http://oeo.tufts.edu/wp-content/uploads/Sexual-Harassment-Policy-201
 will not be tolerated and may result in disciplinary action including
 suspension or dismissal, as well as criminal prosecution.
 
-Drugs and Alcohol {.editable}
+Drugs and Alcohol 
 -----------------
 
 WMFO has a zero tolerance drugs and alcohol policy. Staff members and/or
@@ -41,14 +41,14 @@ dismissal. In addition, no staff member or guest may pretend to be or
 claim to be under the influence of drugs and/or alcohol while in the
 station.
 
-Property {.editable}
+Property 
 --------
 
 Staff members and/or guests may not attempt to fix, modify, or remove
 any equipment or property at WMFO without written permission from the
 WMFO Executive Board.
 
-Graffiti {.editable}
+Graffiti 
 --------
 
 Staff members may not graffiti on or sticker over windows, window
@@ -58,14 +58,14 @@ WMFO. We admire our staff members' creativity, and know that all of our
 staff members can do better than that. All vulgar graffiti will be
 removed.
 
-Food and Drink {.editable}
+Food and Drink 
 --------------
 
 Food and drink **are not** permitted in any of WMFO’s studios. Food and
 drink **are** permitted in common areas, such as the hallway, vinyl
 library, and lounge.
 
-Shows {.editable}
+Shows 
 -----
 
 If applying for a show, DJs must submit a completed show application
@@ -77,7 +77,7 @@ responsible for creating the semester program schedule. The Executive
 Board may need to cancel shows during the season to accommodate special
 events.
 
-Subs {.editable}
+Subs 
 ----
 
 If assigned a show time, DJs must attend every show on time and for its
@@ -88,7 +88,7 @@ something unexpected happens, or if a DJ will otherwise be absent for
 more than three (3) shows and need more substitutions, the DJ must
 contact the Programming Director as soon as possible.
 
-Volunteering {.editable}
+Volunteering 
 ------------
 
 **All regular DJs **are required to complete at least five (5) hours of
@@ -99,7 +99,7 @@ access. Failure to complete volunteer hours will affect station access
 rights and future show times. All DJs are required to log all volunteer
 hours in the volunteering log by the station entrance.
 
-Guests {.editable}
+Guests 
 ------
 
 Staff members are responsible for the behavior of all guests while they
@@ -107,7 +107,7 @@ are at WMFO and/or on the air. Guests may not operate WMFO equipment or
 run a show on their own. Guests should not create Spinitron accounts and
 will not be granted card access to the station.
 
-Staff Meetings {.editable}
+Staff Meetings 
 --------------
 
 All WMFO staff members are required to attend all semester staff
@@ -116,7 +116,7 @@ staff member who misses a semester staff meeting is responsible for
 reading the meeting minutes and instructional documents posted on the
 WMFO Wiki after the meeting.
 
-Newsgroups {.editable}
+Newsgroups 
 ----------
 
 All staff members must be a member of and regularly read the WMFO-Staff
@@ -125,7 +125,7 @@ and WMFO-Sublist
 ([http://groups.google.com/group/wmfo-sublist](http://groups.google.com/group/wmfo-sublist "http://groups.google.com/group/wmfo-sublist"))
 Google groups.
 
-The Community File {.editable}
+The Community File 
 ------------------
 
 Any DJ who covers community-related topics on the air must file a report
@@ -147,7 +147,7 @@ write "WMFO Political Interview" in the Artist and/or Disk fields, and
 include a description of the interview in the Song and/or Song Notes
 fields. Please be as detailed as possible.
 
-The Public File {.editable}
+The Public File 
 ---------------
 
 If a member of the community calls the studio asking to be let into the
@@ -155,27 +155,27 @@ station to see WMFO’s public file during business hours, the DJ running
 the board must show him or her the public file. All staff members are
 required to know where the public file is located.
 
-Federal Agents {.editable}
+Federal Agents 
 --------------
 
 If a federal agent calls the studio asking to be let into the station
 during business hours, the DJ running the board must let him or her into
 the station.
 
-Emergency Alert System (EAS) Instructions {.editable}
+Emergency Alert System (EAS) Instructions 
 -----------------------------------------
 
 You must be able to produce the Emergency Alert System (EAS)
 instructions located under the desk in Studio A if asked by a federal
 agent from the Federal Communications Commission (FCC).
 
-Violations {.editable}
+Violations 
 ----------
 
 Violations of any of the binding rules and policies of WMFO are
 punishable at the discretion of the WMFO Executive Board.
 
-Policy Violations {.editable}
+Policy Violations 
 -----------------
 
 -   Any staff member who is caught in violation of station rules other

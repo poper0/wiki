@@ -21,7 +21,7 @@ been run, space has been left for expansion):
 All wires rows in the table below correspond to a wire that has been run
 from Control to its destination, even if not connected to.
 
-Control Room Wire Routing Table {.editable}
+Control Room Wire Routing Table 
 -------------------------------
 
 Legend: SHP - StudioHub+/Shielded Patch, P1 - Cat6 Patch 1 (24 port), P2

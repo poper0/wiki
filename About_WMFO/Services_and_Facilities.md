@@ -2,7 +2,7 @@ WMFO offers a number of services to the Tufts Community and the general
 public. We also maintain state of the art broadcast, recording, and
 performance facilites.
 
-Services {.editable}
+Services 
 --------
 
 -   Recording Services

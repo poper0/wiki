@@ -1,4 +1,4 @@
-Studio B Digital Node 1 {.editable}
+Studio B Digital Node 1 
 -----------------------
 
 *Current Status: *We originally planned on a second FastTrack with I/O,
@@ -17,7 +17,7 @@ and [Diagrams &
 Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables "Diagrams & Tables")
 page for keys and abbreviation information.
 
-### Sources: {.editable}
+### Sources: 
 
   ---------- ----------------- ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- --------- ----------------- ------------------- ---------------------
   **Port**   **Name**          [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Shareable**   **Mode**   **Gain**   **AES**   **Direct Wire**   **Direct Device**   **Terminal Device**
@@ -31,7 +31,7 @@ page for keys and abbreviation information.
   8          -                 12107                                                                                                                     N               D          0.0        A         -                 -                   -
   ---------- ----------------- ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- --------- ----------------- ------------------- ---------------------
 
-### Destinations: {.editable}
+### Destinations: 
 
   ---------- ---------------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ----------------- ------------------- ---------------------
   **Port**   **Name**         [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Type**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**

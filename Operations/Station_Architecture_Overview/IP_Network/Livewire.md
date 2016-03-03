@@ -1,4 +1,4 @@
-Livewire's Layers of Abstraction {.editable}
+Livewire's Layers of Abstraction 
 --------------------------------
 
 Livewire is an Audio over IP standard. Basically it allows any device on
@@ -19,7 +19,7 @@ devices. These perform one of two functions:
     Studio Engine and the Omnia audio processors (though the Omnia has
     support for digital audio output directly).
 
-Problems with IP Audio {.editable}
+Problems with IP Audio 
 ----------------------
 
 One of the critical issues with IP-based audio has to do with latency.

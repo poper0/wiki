@@ -26,7 +26,7 @@ spinpapi.inc.php is the SpinPapi Client Library.
 
  
 
-Automatic Startup {.editable}
+Automatic Startup 
 -----------------
 
 Started by watchdog.sh on ThinWhiteDuke.

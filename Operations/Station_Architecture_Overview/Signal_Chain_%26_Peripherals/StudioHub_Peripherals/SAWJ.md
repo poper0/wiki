@@ -1,4 +1,4 @@
-Studio A Wall Jack {.editable}
+Studio A Wall Jack 
 ------------------
 
 This is the modular wall jack installed in the computer bay of the

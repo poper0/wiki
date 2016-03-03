@@ -6,7 +6,7 @@ digital era.
 1.  1. [January
     2011](https://wiki.wmfo.org/About_WMFO/Station_History/Station_Renovations#January_2011)
 
-January 2011 {.editable}
+January 2011 
 ------------
 
 1.  1. [January 2011](#January_2011)

@@ -4,7 +4,7 @@ and how to register and access each outlet. Questions regarding these
 outlets would be most appropriately directed to the
 [webmaster](https://wiki.wmfo.org/Executive_Board/Operations_Dept./WebMaster's_Lair "Executive Board/Operations Dept./WebMaster's Lair").
 
-WMFO Websites {.editable}
+WMFO Websites 
 -------------
 
 -   **[www.wmfo.org](http://www.wmfo.org "http://www.wmfo.org")** (Also [www.tuftsfreeformradio.org/](http://tuftsfreeformradio.org/ "http://tuftsfreeformradio.org/"))

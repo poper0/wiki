@@ -1,7 +1,7 @@
 ***Now maintained on
 Github: ***[https://github.com/WMFO/Automation-Scheduler](https://github.com/WMFO/Automation-Scheduler "https://github.com/WMFO/Automation-Scheduler")
 
-Overview {.editable}
+Overview 
 --------
 
 The automatic log generation for Rivendell is done on TinMachine. Due to
@@ -14,7 +14,7 @@ in the schedule. Then, the music from WMFO's custom scheduler is
 "merged" in. See the Rivendell documenation for more info on using
 custom schedulers.
 
-Relevant Files {.editable}
+Relevant Files 
 --------------
 
 On TinMachine:
@@ -25,7 +25,7 @@ On TinMachine:
     scheduler to be imported into Rivendell)
 -   /opt/wmfo/scheduler/logs/generate\_log.sh
 
-Automatic Run {.editable}
+Automatic Run 
 -------------
 
 root's cronab on TinMachine
@@ -38,7 +38,7 @@ song selections and places the result in the logs directory. Then the
 rdlogmanager Rivendell utility is called and the Rivendell log is
 created. Logs are generated two days in advance.
 
-Misc {.editable}
+Misc 
 ----
 
 The custom scheduler requires mysql++ to compile.

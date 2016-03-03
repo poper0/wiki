@@ -1,6 +1,6 @@
 This is a guide for setting up a KVM guest on tupac.
 
-Disk Structure {.editable}
+Disk Structure 
 --------------
 
 /data/vm/{vmname} - one created per VM
@@ -18,7 +18,7 @@ To create a 20G block device:
 
 zfs create -V 20G data/vm/blah/etc
 
-Install Guest {.editable}
+Install Guest 
 -------------
 
 ~~~~ {.contents}
@@ -42,7 +42,7 @@ virsh {vm-name} edit
 
 then either shut off and start or do a reload.
 
-### Windows 10 Config {.editable}
+### Windows 10 Config 
 
     virt-install -n win10 -r 4096 --vcpus=4 --cpu core2duo --disk path=/dev/zvol/data/vm/win10/disk0,bus=virtio -c /data/iso/en_windows_10_enterprise_version_1511_x64_dvd_7224901.iso --network bridge=br1,model=virtio --graphics vnc,listen=0.0.0.0 --noautoconsole -v
 
@@ -72,7 +72,7 @@ the OS is booted but is necessary to conenct to the internet. Navigate
 to the ethernet device and select update driver, pointing it to the
 correct one and it should work just fine.
 
-PCIe Passthrough to Rivendell {.editable}
+PCIe Passthrough to Rivendell 
 -----------------------------
 
 See [this article on PCI

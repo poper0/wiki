@@ -1,4 +1,4 @@
-Studio C Wall Jack {.editable}
+Studio C Wall Jack 
 ------------------
 
 This is the modular wall jack installed under the countertop in Studio

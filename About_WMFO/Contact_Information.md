@@ -4,13 +4,13 @@ Board](https://wiki.wmfo.org/Executive_Board "Executive Board") members
 or departments using the information on their [respective
 pages](https://wiki.wmfo.org/Executive_Board "Executive Board").
 
-Phone Numbers {.editable}
+Phone Numbers 
 -------------
 
 **Studio Line** - 617-627-3800\
  **Studio Line** - 508-507-WMFO (508-507-9636)
 
-USPS Mailing Address {.editable}
+USPS Mailing Address 
 --------------------
 
 *For music submissions, regular mail, and press inquires. No packages
@@ -21,7 +21,7 @@ WMFO\
  PO Box 53065\
  Medford, MA 02155
 
-Campus Mailing Address {.editable}
+Campus Mailing Address 
 ----------------------
 
 *For packages and deliveries. No regular mail please.*
@@ -32,7 +32,7 @@ Office of Campus Life\
  44 Professors Row\
  Medford, MA 02155
 
-Street Address {.editable}
+Street Address 
 --------------
 
 *For visitors and Google StreetView stalking. No mail, packages, or

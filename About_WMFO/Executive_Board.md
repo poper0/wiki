@@ -19,7 +19,7 @@ are not a member but think you should be, register and e-mail the
 3.  3.
     [Picture](https://wiki.wmfo.org/About_WMFO/Executive_Board#Picture)
 
-Exec Board Organization {.editable}
+Exec Board Organization 
 -----------------------
 
 +--------------------------------------+--------------------------------------+
@@ -154,13 +154,13 @@ Exec Board Organization {.editable}
 for a description of the duties and division of labor associated with
 each.
 
-Elections and Terms {.editable}
+Elections and Terms 
 -------------------
 
 See [this
 page](https://wiki.wmfo.org/Executive_Board/Elections_and_Terms "Elections and Terms").
 
-Picture {.editable}
+Picture 
 -------
 
 WMFO Executive Board - 2012-2013. Picture taken January 2013

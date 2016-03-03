@@ -10,13 +10,13 @@ This page contains links to WMFO related news stories.
 8.  8. [2001](https://wiki.wmfo.org/About_WMFO/In_The_News#2001)
 9.  9. [2000](https://wiki.wmfo.org/About_WMFO/In_The_News#2000)
 
-2012 {.editable}
+2012 
 ----
 
 "Local DJ's bring expertise, charisma to WFMO." 16 February
 2012. [http://www.tuftsdaily.com/local-djs-bring-expertise-charisma-to-wmfo-1.2701943\#.T3umqqtAbDY](http://www.tuftsdaily.com/local-djs-bring-expertise-charisma-to-wmfo-1.2701943#.T3umqqtAbDY "http://www.tuftsdaily.com/local-djs-bring-expertise-charisma-to-wmfo-1.2701943#.T3umqqtAbDY")
 
-2011 {.editable}
+2011 
 ----
 
 "New OCL Policy Allows Outside Guests at Events." 20 September
@@ -32,7 +32,7 @@ Show." 3 March
 "WMFO broadcasts major studio renovations."  *Tufts Dail*y: 9 Feb
 2011. [http://www.tuftsdaily.com/features/wmfo-broadcasts-major-studio-renovations-1.2462334](http://www.tuftsdaily.com/features/wmfo-broadcasts-major-studio-renovations-1.2462334 "http://www.tuftsdaily.com/features/wmfo-broadcasts-major-studio-renovations-1.2462334 ")
 
-2010 {.editable}
+2010 
 ----
 
 "WMFO marks 40 years in operation." *Tufts Daily*. 6 December
@@ -49,7 +49,7 @@ Show." 3 March
 2010. [http://www.tufts.edu/alumni/magazine/fall2010/planet-tufts/good-morning.html](http://www.tufts.edu/alumni/magazine/fall2010/planet-tufts/good-morning.html "http://www.tufts.edu/alumni/magazine/fall2010/planet-tufts/good-morning.html").
  100-year history of Tufts Radio.
 
-2009 {.editable}
+2009 
 ----
 
 "Slideshow | An inside look at WMFO." *Tufts Daily*. 23 September
@@ -61,7 +61,7 @@ Show." 3 March
 "WMFO gets a makeover." *Tufts Daily*.  24 March 2009.
  [http://www.tuftsdaily.com/wmfo-gets-a-makeover-1.1625416](http://www.tuftsdaily.com/wmfo-gets-a-makeover-1.1625416 "http://www.tuftsdaily.com/wmfo-gets-a-makeover-1.1625416")
 
-2008 {.editable}
+2008 
 ----
 
 "DJ Spotlight: Freestyle Cyphers." 1 December
@@ -74,20 +74,20 @@ Daily*. 24 September 2009.
 "WMFO Acoustic Cafe." *Tufts Daily*. 31 January
 2008. [http://www.tuftsdaily.com/2.5516/wmfo-acoustic-cafe-1.589030](http://www.tuftsdaily.com/2.5516/wmfo-acoustic-cafe-1.589030 "http://www.tuftsdaily.com/2.5516/wmfo-acoustic-cafe-1.589030")
 
-2006 {.editable}
+2006 
 ----
 
 "A new, fresh face for WMFO: Station continues drive for increased
 visibility." *Tufts Daily*. 20 April
 2006. [http://www.tuftsdaily.com/2.5511/a-new-fresh-face-for-wmfo-1.594675](http://www.tuftsdaily.com/2.5511/a-new-fresh-face-for-wmfo-1.594675 "http://www.tuftsdaily.com/2.5511/a-new-fresh-face-for-wmfo-1.594675")
 
-2004 {.editable}
+2004 
 ----
 
 "WMFO is an individual spirit against commercial radio." 3 March
 2004. [http://www.tuftsdaily.com/2.5541/wmfo-is-an-individual-spirit-against-commercial-radio-1.600874\#.Tphsb3O4KsI](http://www.tuftsdaily.com/2.5541/wmfo-is-an-individual-spirit-against-commercial-radio-1.600874#.Tphsb3O4KsI "http://www.tuftsdaily.com/2.5541/wmfo-is-an-individual-spirit-against-commercial-radio-1.600874#.Tphsb3O4KsI")
 
-2001 {.editable}
+2001 
 ----
 
 "WMFO reveals Fall lineup." *Tufts Daily*. 17 August
@@ -99,7 +99,7 @@ visibility." *Tufts Daily*. 20 April
 "WMFO getting \$20,000 antenna transfusion." 10 February
 2004. [http://www.tuftsdaily.com/2.5541/wmfo-getting-20-000-antenna-transfusion-1.601207\#.TphtUHO4KsI](http://www.tuftsdaily.com/2.5541/wmfo-getting-20-000-antenna-transfusion-1.601207#.TphtUHO4KsI "http://www.tuftsdaily.com/2.5541/wmfo-getting-20-000-antenna-transfusion-1.601207#.TphtUHO4KsI")
 
-2000 {.editable}
+2000 
 ----
 
 "Student sued after June WMFO clash." 1 September

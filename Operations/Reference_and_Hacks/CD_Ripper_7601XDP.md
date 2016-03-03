@@ -17,7 +17,7 @@ Auto-Loading Ripper that WMFO uses for digitizing our CD collection.
     2.  3.2. [Documented
         Issues](https://wiki.wmfo.org/Operations/Reference_and_Hacks/CD_Ripper_7601XDP#Documented_Issues)
 
-General Info {.editable}
+General Info 
 ------------
 
 **Model:** [Ripstation 7601XDP](http://www.ripstation.com/7601xdp.html "http://www.ripstation.com/7601xdp.html")\
@@ -57,12 +57,12 @@ need to account for time zones when contacting.*
 -   MF
     Digital: [http://www.mfdigital.com/](http://www.mfdigital.com/ "http://www.mfdigital.com/")
 
-Troubleshooting {.editable}
+Troubleshooting 
 ---------------
 
 If you are having issues, try...
 
-### Basic Troubleshooting Process {.editable}
+### Basic Troubleshooting Process 
 
 1.  Shutdown the MD Machine
 2.  Shutdown the Ripper
@@ -77,7 +77,7 @@ If you are having issues, try...
 10. Launch Ripstation Software and see if the Ripstation drive is
     appearing with a check-mark in the Use box
 
-### More Troubleshooting {.editable}
+### More Troubleshooting 
 
 If the above steps don't fix it, try the following:
 
@@ -87,12 +87,12 @@ If the above steps don't fix it, try the following:
     are reporting errors
 -   Contact the WMFO-Ops list
 
-Service Record {.editable}
+Service Record 
 --------------
 
 Information related to servicing and maintaining this unit.
 
-### RMA {.editable}
+### RMA 
 
 We've had to RMA the ripper on a number of occasions:
 
@@ -104,7 +104,7 @@ We've had to RMA the ripper on a number of occasions:
   02/08/2012   [RW-1196](https://wiki.wmfo.org/@api/deki/files/405/=RA%2523RW-1196.pdf "/@api/deki/files/405/=RA%2523RW-1196.pdf")   Loading Mechanism Failure     Realigned Drive and Adjusted Picker
   ------------ --------------------------------------------------------------------------------------------------------------------- ----------------------------- -------------------------------------
 
-### Documented Issues {.editable}
+### Documented Issues 
 
 Previous issues with this unit include:
 

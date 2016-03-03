@@ -10,7 +10,7 @@ flyering, tabling, and whatever other creative attention-grabbing stunts
 we can pull off. The Publicity Department reports to the [General
 Manager](https://wiki.wmfo.org/About_WMFO/Executive_Board/GM's_Office "GM's Office").
 
-Directors {.editable}
+Directors 
 ---------
 
 +--------------------------------------+--------------------------------------+
@@ -64,7 +64,7 @@ Directors {.editable}
 
  
 
-Previous Directors {.editable}
+Previous Directors 
 ------------------
 
 +--------------------------+--------------------------+--------------------------+

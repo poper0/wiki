@@ -3,7 +3,7 @@ and to record them for production releases. These pages describe the
 equipment setup for reference. Studio B operation is restricted to
 trained audio engineers.
 
-Contents {.editable}
+Contents 
 --------
 
 -   [Adjusting Audio Levels: Five Visual

@@ -1,4 +1,4 @@
-Studio B Wall Jack 2 {.editable}
+Studio B Wall Jack 2 
 --------------------
 
 This is the modular wall jack installed in the wall above the main

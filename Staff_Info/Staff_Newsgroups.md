@@ -5,7 +5,7 @@ opportunity to create a Google account. Before registering, please read
 this [note on
 usernames](https://wiki.wmfo.org/Staff_Info/Staff_Usernames "Staff Info/Staff Usernames").
 
-Mandatory Newsgroups {.editable}
+Mandatory Newsgroups 
 --------------------
 
 -   **WMFO General Staff Newsgroup
@@ -37,7 +37,7 @@ post.\
 
 *Website:* [http://groups.google.com/group/wmfo-sublist](http://groups.google.com/group/wmfo-sublist "http://groups.google.com/group/wmfo-sublist")
 
-Optional Newsgroups {.editable}
+Optional Newsgroups 
 -------------------
 
 -   **[wmfo-alumni@googlegroups.com](mailto:wmfo-alumni@googlegroups.com "mailto:wmfo-alumni@googlegroups.com")**
@@ -119,7 +119,7 @@ Optional Newsgroups {.editable}
     to
     post. *Website: *[https://groups.google.com/forum/?hl=en\#!forum/wmfo-newmusic](https://groups.google.com/forum/?hl=en#!forum/wmfo-newmusic "https://groups.google.com/forum/?hl=en#!forum/wmfo-newmusic")
 
-Contact Only {.editable}
+Contact Only 
 ------------
 
 -   [**wmfo-exec@googlegroups.com**](mailto:wmfo-exec@googlegroups.com "mailto:wmfo-exec@googlegroups.com")

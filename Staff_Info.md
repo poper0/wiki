@@ -17,7 +17,7 @@ Manager](https://wiki.wmfo.org/Executive_Board/GM's_Office "Executive Board/Gene
 or
 [Webmaster](https://wiki.wmfo.org/Executive_Board/Operations_Dept./WebMaster's_Lair "Executive Board/Operations Dept./WebMaster's Lair").
 
-Contents {.editable}
+Contents 
 --------
 
 -   [Card

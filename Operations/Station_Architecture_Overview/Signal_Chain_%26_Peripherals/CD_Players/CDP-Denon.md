@@ -2,7 +2,7 @@ This is the GPIO specification for the Denon DN-C635 & C620 CD Players.
 
 Axia GPIO Profile: Line Input
 
-#### Pin Mapping {.editable}
+#### Pin Mapping 
 
 **Wire Color**
 

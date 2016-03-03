@@ -6,7 +6,7 @@ booking talent for WMFO sponsored events. The Booking Office reports to
 the [Programming
 Director](https://wiki.wmfo.org/Executive_Board/Programming_Dept. "Programming Dept.").
 
-Coordinator {.editable}
+Coordinator 
 -----------
 
 +--------------------------------------+--------------------------------------+
@@ -14,7 +14,7 @@ Coordinator {.editable}
 | @api/deki/files/457/=piccc.jpg?size= |                                      |
 | webview)](https://wiki.wmfo.org/@api |   ------------------ --------------- |
 | /deki/files/457/=piccc.jpg "piccc.jp | ------------------------------------ |
-| g") {.editable}                      | --------------------                 |
+| g")                       | --------------------                 |
 | ------------------------------------ |   **Name**                           |
 | ------------------------------------ |   **Joined MFO**                     |
 | ------------------------------------ |   **Held Since**                     |
@@ -33,7 +33,7 @@ Coordinator {.editable}
 |                                      | --------------------                 |
 +--------------------------------------+--------------------------------------+
 
-Previous Coordinator {.editable}
+Previous Coordinator 
 --------------------
 
   ----------------- -------------------- ----------------------------------------------------------------------------------------------------------------------

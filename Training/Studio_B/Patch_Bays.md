@@ -1,4 +1,4 @@
-Studio B Patch Bays {.editable}
+Studio B Patch Bays 
 -------------------
 
 These are the 1/4" TS patch bays in the rack above the counter in Studio
@@ -24,7 +24,7 @@ The format is:
 -   Input explanation
 -   Input label
 
-### Insert 1 {.editable}
+### Insert 1 
 
 OT1
 
@@ -184,7 +184,7 @@ IN L
 
 IN R
 
-### Insert 2 {.editable}
+### Insert 2 
 
 OT17
 
@@ -364,7 +364,7 @@ EQ2IN
 
 -
 
-### Patch 1 {.editable}
+### Patch 1 
 
 G1
 
@@ -540,7 +540,7 @@ ST4L
 
 ST4R
 
-### Patch 2 {.editable}
+### Patch 2 
 
 This patch bay contains input from the Livewire network (Axia) on the
 left, which can be changed as

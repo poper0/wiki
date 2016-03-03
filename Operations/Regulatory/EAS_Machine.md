@@ -1,4 +1,4 @@
-Overview {.editable}
+Overview 
 --------
 
 WMFO uses a SAGE Digital ENDEC as its EAS Encoder/Decoder. The unit is
@@ -11,7 +11,7 @@ for the State of Massachusetts: 104.1 FM and 1030 AM. These are the two
 stations WMFO is required to monitor in order to relay EAS alerts. Each
 has an associated antenna.
 
-Configuration {.editable}
+Configuration 
 -------------
 
 The EAS has inputs and outputs on the Control side. The output is the
@@ -35,7 +35,7 @@ unit reboots (takes around two minutes) when settings are updated. It
 likely ceases to function during this time - consider temporarily
 routing around it in Livewire.
 
-Required Tests {.editable}
+Required Tests 
 --------------
 
 WMFO is required to send out weekly tests of the EAS encoder. Luckily,
@@ -50,7 +50,7 @@ this feature to insert the test into programming, but WMFO does not, so
 tests play a few minutes after they are received. An actual emergency
 alert would be played immediately.
 
-Logging Configuration {.editable}
+Logging Configuration 
 ---------------------
 
 WMFO is required to log certain EAS events. The SAGE Digital ENDEC will
@@ -76,7 +76,7 @@ The webpage http://\<EAS Address here\>/mailerr willl show any errors
 (since the last reboot) the EAS machine has with logging via email or
 ftp. It is useful for debugging.
 
-Miscellaneous {.editable}
+Miscellaneous 
 -------------
 
 During the first national test of the National Emergency EAS code, it

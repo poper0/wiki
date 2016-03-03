@@ -1,4 +1,4 @@
-Studio C PowerStation Aux 1 {.editable}
+Studio C PowerStation Aux 1 
 ---------------------------
 
 **Credential Level:** Operations\
@@ -12,7 +12,7 @@ and [Diagrams &
 Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables "Diagrams & Tables")
 page for keys and abbreviation information.
 
-### Sources: {.editable}
+### Sources: 
 
   ---------- ------------------ ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ------------ ----------------- ------------------- ---------------------
   **Port**   **Name**           [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Shareable**   **Mode**   **Gain**   **Ph/AES**   **Direct Wire**   **Direct Device**   **Terminal Device**
@@ -26,7 +26,7 @@ page for keys and abbreviation information.
   D2         SC - CD2           13537                                                                                                                     N               SS         0.0        A            15                SCSHP 15            SC - CD 2 MJ
   ---------- ------------------ ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ------------ ----------------- ------------------- ---------------------
 
-### Destinations: {.editable}
+### Destinations: 
 
   ---------- ----------------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ---------- ----------------- ------------------- ---------------------
   **Port**   **Name**          [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Type**   **Load**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**

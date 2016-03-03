@@ -2,7 +2,7 @@ All the things to look for in Studio A. This list is for small problems;
 for big problems, see [How To Fix The
 Board](https://wiki.wmfo.org/Operations/Axia_and_Telos/Fixing_the_Board "Fixing the Board").
 
-### Facilities {.editable}
+### Facilities 
 
 -   Are the counters free of trash? Do they need to be wiped down?
     Abandoned property should be put on the DJ mailbox.
@@ -23,7 +23,7 @@ Board](https://wiki.wmfo.org/Operations/Axia_and_Telos/Fixing_the_Board "Fixing 
 -   Is the thermostat set properly, at 72 degrees? Is the window AC unit
     secure, and set correctly?
 
-### Equipment {.editable}
+### Equipment 
 
 -   Are the headphones all present, not broken (spares in tech 1, turn
     right), and tied down correctly? Are they on the table and not on

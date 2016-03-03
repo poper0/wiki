@@ -1,4 +1,4 @@
-AC Electrical Service {.editable}
+AC Electrical Service 
 ---------------------
 
 Hall Panel Breakers:
@@ -47,7 +47,7 @@ Unknown:
 
 -   Annex AC Unit (side outlet) might be from downstairs panel
 
-Air Conditioners {.editable}
+Air Conditioners 
 ----------------
 
 1.  Control: 5K BTU GE unit \~5 Amps

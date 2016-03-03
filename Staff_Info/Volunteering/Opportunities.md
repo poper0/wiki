@@ -5,7 +5,7 @@ station. To view a calendar listing upcoming volunteer opportunities,
 please visit the [Staff
 Calendar](https://wiki.wmfo.org/Staff_Info/Staff_Calendar "Staff Calendar").
 
-### Volunteer Days {.editable}
+### Volunteer Days 
 
 Volunteer days take place on certain weekend afternoons. They will be
 announced via [WMFO's General Staff
@@ -22,7 +22,7 @@ to be completed.
 -   Saturday, November 22        (12 p.m. to 4 p.m.)
 -   Sunday, December 7            (1 p.m. to 5 p.m.)
 
-### Quality Control {.editable}
+### Quality Control 
 
 Listen to radio shows and fill out surveys in exchange for volunteer
 hours! Instructions may be found on the [Quality Control
@@ -37,7 +37,7 @@ and Assistant General Manager in Creative Content sessions, held from
 new publicity materials, on-air promos, and station content. All are
 welcome!
 
-### Ops Meetings {.editable}
+### Ops Meetings 
 
 The [Operations
 Department](https://wiki.wmfo.org/About_WMFO/Executive_Board/Operations_Dept. "Operations Dept.")

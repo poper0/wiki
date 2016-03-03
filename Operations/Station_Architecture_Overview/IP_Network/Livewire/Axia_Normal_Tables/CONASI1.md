@@ -1,4 +1,4 @@
-Control Audio Science Inc. 6585 PCI Sound Card {.editable}
+Control Audio Science Inc. 6585 PCI Sound Card 
 ----------------------------------------------
 
 Think of it as a node that resides inside Duke. It's mostly invisible to
@@ -19,7 +19,7 @@ and [Diagrams &
 Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables "Diagrams & Tables")
 page for keys and abbreviation information.
 
-### Sources: {.editable}
+### Sources: 
 
   ---------- ---------------- ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ----------------- ------------------- ---------------------
   **Port**   **Name**         [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Shareable**   **Mode**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**
@@ -33,7 +33,7 @@ page for keys and abbreviation information.
   8          DUKE-RD All      10307                                                                                                                     N               SS         3.0        -                 -                   Duke Rivendell
   ---------- ---------------- ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ----------------- ------------------- ---------------------
 
-### Destinations: {.editable}
+### Destinations: 
 
   ---------- ----------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ---------- ----------------- ------------------- ---------------------
   **Port**   **Name**    [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Type**   **Load**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**
@@ -47,7 +47,7 @@ page for keys and abbreviation information.
   8          -           0                                                                                                                         FS         hi-Z       0.0        -                 -                   -
   ---------- ----------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ---------- ----------------- ------------------- ---------------------
 
-### GPIO: {.editable}
+### GPIO: 
 
   ---------- -------------- ------------------------------------------------------------------------------------------------------------------------- ------------------
   **Port**   **Name**       [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   Notes

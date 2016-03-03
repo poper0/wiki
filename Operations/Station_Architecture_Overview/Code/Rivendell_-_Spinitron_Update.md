@@ -1,7 +1,7 @@
 ***Now maintained on
 Github:*** [https://github.com/WMFO/Rivendell-Spinitron-Update](https://github.com/WMFO/Rivendell-Spinitron-Update "https://github.com/WMFO/Rivendell-Spinitron-Update")
 
-About {.editable}
+About 
 -----
 
 This is a Rivendell loadable module made to report the current playing
@@ -25,7 +25,7 @@ a Macro cart on the Rivendell cart screen to turn Automation 'on' or
 For questions or to contribute,
 contact: [ops@wmfo.org](mailto:ops@wmfo.org "mailto:ops@wmfo.org")
 
-Comments {.editable}
+Comments 
 --------
 
 /\*
@@ -73,7 +73,7 @@ file 
 
  \*/
 
-Notes: {.editable}
+Notes: 
 ------
 
 Username and password hard-coded in (So, it's a little hacked
@@ -86,7 +86,7 @@ fields before compiling the file:
 
 \<YOUR\_STATION\_ID\_HERE\>
 
-Changelog: {.editable}
+Changelog: 
 ----------
 
 8-11-10 - Original Upload

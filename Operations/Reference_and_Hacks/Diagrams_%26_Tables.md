@@ -1,6 +1,6 @@
 Wiring Diagrams, Floor Plans, and Blueprints Attached.
 
-#### Location Codes {.editable}
+#### Location Codes 
 
 AN - Annex\
  CON - Control Room/Master Control\
@@ -11,7 +11,7 @@ AN - Annex\
  SC - Studio C\
  TOW - Tower (4rd Floor Ballou Hall HVAC Closet) 
 
-#### Contents {.editable}
+#### Contents 
 
 1.  1. [Location Codes](#Location_Codes)
 2.  2. [Contents](#Contents)

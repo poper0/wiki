@@ -5,7 +5,7 @@ staff, and following up on tickets giveaways with the lucky winners. The
 Tickets Office reports to the [Publicity
 Director](https://wiki.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept. "Publicity Dept.").
 
-Coordinator {.editable}
+Coordinator 
 -----------
 
 +--------------------------------------+--------------------------------------+
@@ -29,7 +29,7 @@ Coordinator {.editable}
 |                                      | ---------------------                |
 +--------------------------------------+--------------------------------------+
 
-Previous Coordinators {.editable}
+Previous Coordinators 
 ---------------------
 
   ---------------- ------------- -------------------------------------------------

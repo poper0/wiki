@@ -1,7 +1,7 @@
 The following page contains WMFO produced Donation PSAs, organized by
 subject.
 
-Donations {.editable}
+Donations 
 ---------
 
 -   [1920s](https://wiki.wmfo.org/@api/deki/files/250/=PSA-Donations-1920.wav "PSA-Donations-1920.wav") -

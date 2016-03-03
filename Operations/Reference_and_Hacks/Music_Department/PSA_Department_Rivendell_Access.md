@@ -1,4 +1,4 @@
-Overview {.editable}
+Overview 
 --------
 
 The WMFO PSA department has access to the Rivendell system in order to
@@ -7,7 +7,7 @@ library and placing relevant PSAs on the sound panels of Rivendell.
 
  
 
-PSA Drive Space {.editable}
+PSA Drive Space 
 ---------------
 
 The PSA department has a personal spot on the Supertramp/Smoothcriminal
@@ -16,7 +16,7 @@ place where a Rivendell program can access them.
 
  
 
-PSA Accounts {.editable}
+PSA Accounts 
 ------------
 
 PSA has user accounts on the MD computer, TinMachine (Studio A computer)
@@ -37,7 +37,7 @@ permissions to do this.
 
  
 
-WatchPup {.editable}
+WatchPup 
 --------
 
 WatchPup is a script on TinMachine that monitors if someone has logged

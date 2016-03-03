@@ -4,7 +4,7 @@ all radio stations in the state. The process is fairly simple in nature
 
 The primary concerns:
 
-Public Comment Period and Announcements {.editable}
+Public Comment Period and Announcements 
 ---------------------------------------
 
 The radio station is required to play a ton of announcements with
@@ -31,7 +31,7 @@ announcement manually. If a DJ "opted out," we would remove the override
 during the DJ's time slot and request that they notify us upon
 completion of the announcement and provide an approximate timestamp.
 
-Paperwork {.editable}
+Paperwork 
 ---------
 
 There are several forms that need to be filled out, again visible on the
@@ -51,7 +51,7 @@ by the trustees of Tufts College, those who ask for the relicensing
 services from the laywers should pay for those services upon their
 property).
 
-Public File {.editable}
+Public File 
 -----------
 
 At the point of relicensing, more than ever, you must have all the
@@ -64,7 +64,7 @@ radio stations get screwed over by the FCC."
 The PD should maintain the public issue reports with guidance from the
 Chief Operator.
 
-Other {.editable}
+Other 
 -----
 
 That's basically the extent of the requirements. There is no ridiculous

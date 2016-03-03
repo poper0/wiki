@@ -1,4 +1,4 @@
-About the Drive {.editable}
+About the Drive 
 ---------------
 
 The Donations Drive lasts two weeks, and occurs in the spring semester.
@@ -13,13 +13,13 @@ P.O. Box 53065
 
 Medford, MA
 
-Before the Drive {.editable}
+Before the Drive 
 ----------------
 
 The GM or AGM(s) should contact Advancement prior to the drive to ensure
 that donations will be reported correctly.
 
-During the Drive {.editable}
+During the Drive 
 ----------------
 
 The drive should be announced on the WMFO website and via the WMFO Staff

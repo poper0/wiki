@@ -3,7 +3,7 @@ transfered to this page.*
 
  
 
-### Fixing archives not streaming {.editable}
+### Fixing archives not streaming 
 
 On a more recent level, there has been a reccuring (3 times) issue with
 archives not playing due to the web server not keeping the proper time.

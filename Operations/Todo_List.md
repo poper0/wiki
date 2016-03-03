@@ -15,7 +15,7 @@ starting points for undertaking such a project.
 We try to keep this page updated, but it's not crazy updated. Ask the
 ops director for the lastest info.
 
-Short Term ToDo {.editable}
+Short Term ToDo 
 ---------------
 
 Projects with components currently underway or scheduled for completion
@@ -27,7 +27,7 @@ The number 1 ops priority is to fix any existing systems that break.
 
  
 
-### Nick's List {.editable}
+### Nick's List 
 
 1.  Print out RF report and transmitter report: replace Radiation
     exposure signage
@@ -51,7 +51,7 @@ The number 1 ops priority is to fix any existing systems that break.
 17. Shoutcast V2 streaming VM on new Duke
 18. Clean up and organize filesystems (See Duke /home/wmfo-admin/)
 
-### To Buy {.editable}
+### To Buy 
 
 -   [Second Storage
     Server](http://www.thinkmate.com/system/rax-xs8-1260v3 "http://www.thinkmate.com/system/rax-xs8-1260v3")
@@ -70,12 +70,12 @@ The number 1 ops priority is to fix any existing systems that break.
 -   Headphone monitor solution for Dee
 -   2000 CD-Rs
 
-#### Facilites {.editable}
+#### Facilites 
 
 -   Improve [MD sticker
     dispenser](https://groups.google.com/d/topic/wmfo-ops/6vWPCxxavFc/discussion "https://groups.google.com/d/topic/wmfo-ops/6vWPCxxavFc/discussion")
 
-#### Equipment {.editable}
+#### Equipment 
 
 -   Review and modify UPS and auto power-up/down settings and systems
 -   ~~~~Studio C - Set up ~~Automation Scheduler~~ (loads logs generated
@@ -84,7 +84,7 @@ The number 1 ops priority is to fix any existing systems that break.
 -   Research and install phone menu system - All - 2013 (meh?)
 -   Build and configure GM computer - Or not.
 
-#### Tower {.editable}
+#### Tower 
 
 -   Power
     -   Document tower
@@ -94,7 +94,7 @@ The number 1 ops priority is to fix any existing systems that break.
 -   Purchase, build, configure, install, test tower server - Now!
 -   Silence detection and automatic failover - next fall or spring
 
-#### System Software {.editable}
+#### System Software 
 
 -   Set up Pathfinder to detect silence
 -   Document and review backup system - 2013
@@ -103,7 +103,7 @@ The number 1 ops priority is to fix any existing systems that break.
 -   [Automatically clean home
     folders](https://groups.google.com/d/topic/wmfo-ops/0PAB15Ct3SA/discussion "https://groups.google.com/d/topic/wmfo-ops/0PAB15Ct3SA/discussion")
 
-#### In-House Software {.editable}
+#### In-House Software 
 
 -   Fix bugs, test, and redeploy as necessary
 -   ~~[Watchdog](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Code/Watchdog "Watchdog")
@@ -133,7 +133,7 @@ The number 1 ops priority is to fix any existing systems that break.
 -   Automatic silence detect and notification/correction system
     (see [here](https://groups.google.com/forum/?fromgroups=#!searchin/wmfo-ops/silence$20detection/wmfo-ops/xgi29gPGHb4/tza7liojeS8J "https://groups.google.com/forum/?fromgroups=#!searchin/wmfo-ops/silence$20detection/wmfo-ops/xgi29gPGHb4/tza7liojeS8J") and [here](https://groups.google.com/forum/?fromgroups=#!searchin/wmfo-ops/silence$20detect/wmfo-ops/-W5WQwYnTck/dp_ejtYDxbsJ "https://groups.google.com/forum/?fromgroups=#!searchin/wmfo-ops/silence$20detect/wmfo-ops/-W5WQwYnTck/dp_ejtYDxbsJ") and [here](https://groups.google.com/forum/?fromgroups=#!searchin/wmfo-ops/silence$20detect/wmfo-ops/sZIKt4ITPe8/xnd9o5KUTMQJ "https://groups.google.com/forum/?fromgroups=#!searchin/wmfo-ops/silence$20detect/wmfo-ops/sZIKt4ITPe8/xnd9o5KUTMQJ") and [here](https://groups.google.com/forum/?fromgroups=#!searchin/wmfo-ops/silence$20detect/wmfo-ops/e7A3Vc70e0c/6VdOMApiCqUJ "https://groups.google.com/forum/?fromgroups=#!searchin/wmfo-ops/silence$20detect/wmfo-ops/e7A3Vc70e0c/6VdOMApiCqUJ"))
 
-#### Web-specific Projects {.editable}
+#### Web-specific Projects 
 
 -   Refresh website layout - Nate, Nick, Sam - summer
     -   Re-work homepage: possible splash page
@@ -159,7 +159,7 @@ The number 1 ops priority is to fix any existing systems that break.
     [end](https://wiki.wmfo.org/forms.wmfo.org/form2.html "forms.wmfo.org/form2.html") -
     2013 - with PD
 
-#### Other {.editable}
+#### Other 
 
 -   ~~Create training videos on Rivendell, the board, the phones - Max
     and Nick~~ Completed by Ben Stern
@@ -173,7 +173,7 @@ The number 1 ops priority is to fix any existing systems that break.
 
  
 
-#### Big Purchases for FY14 {.editable}
+#### Big Purchases for FY14 
 
 -   Tower server
 -   RDS
@@ -183,7 +183,7 @@ The number 1 ops priority is to fix any existing systems that break.
 -   Mic preamps etc for B
 -   Carpet?
 
-Long Term ToDo {.editable}
+Long Term ToDo 
 --------------
 
 Not yet launched and unscheduled projects with no set completion dates.

@@ -2,7 +2,7 @@ We get asked to play music at various campus events, and it's also a
 great publicity tool. Here's how to work the required equipment. It's
 heavy, so you'll want a car to trek it around the hill.
 
-### Allen & Heath for DJs {.editable}
+### Allen & Heath for DJs 
 
 The mobile Allen & Heath board is what you'll do your mixing on, and
 works rather differently from the Axia baord in Studio A. For starters,
@@ -11,7 +11,7 @@ your iPod out), don't worry about the yellow one, and the red faders are
 the master volume. The input jacks, knobs, and fader in a vertical strip
 all go together.
 
-### What to bring {.editable}
+### What to bring 
 
 -   The Allen & Heath from Tech 2, in its big Gator case. It should have
     a power cable and two aux cables (dual 1/4" TS to single 1/8" TRS
@@ -26,7 +26,7 @@ all go together.
 
 Keep track of it (especially the mics) and make sure they all get home.
 
-### Setup {.editable}
+### Setup 
 
 -   Connect the mic(s) to mono faders via XLR.
 -   Connect the aux cables to stereo faders. They go to the connectors
@@ -38,7 +38,7 @@ Keep track of it (especially the mics) and make sure they all get home.
 -   Plug in the board and press the power switch on the back.
 -   Also, hang the banner on the table.
 
-### Operation {.editable}
+### Operation 
 
 -   For faders you are using, unmute them (above the fader), put the
     gain up (red knob at top of fader, in different spots for mono and
@@ -47,7 +47,7 @@ Keep track of it (especially the mics) and make sure they all get home.
 -   Optionally, mess around with the frequency controls until the source
     sounds good.
 
-###   {.editable}
+###   
 
 1.  1. [Allen & Heath for DJs](#Allen_.26_Heath_for_DJs)
 2.  2. [What to bring](#What_to_bring)

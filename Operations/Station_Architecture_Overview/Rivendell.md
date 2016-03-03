@@ -64,7 +64,7 @@ updating Rivendell.
     2.  3.2. [Restart Rivendell
         Remotely](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Restart_Rivendell_Remotely)
 
-General References {.editable}
+General References 
 ------------------
 
 In general, Rivendell documentation can be incomplete and out of date.
@@ -101,18 +101,18 @@ Installing and packages (see in-house documentation below first):
     guide](http://blog.aukondk.com/2014/02/rivendell-install-guide.html "http://blog.aukondk.com/2014/02/rivendell-install-guide.html") -
     Install packages on Xubuntu, 2/12/14
 
-WMFO Setup {.editable}
+WMFO Setup 
 ----------
 
 An overview of WMFO's Rivendell system setup. This is a technical guide
 to Rivendell, not a user's guide.
 
-### Architecture {.editable}
+### Architecture 
 
 WMFO uses Rivendell in a distributed architecture setup with multible
 servers and one or more clients.
 
-#### Servers {.editable}
+#### Servers 
 
 -   ***ThinWhiteDuke*** - Our primary Linux server, also our primary
     Rivendell server. Resides in Control. It can be used for playback
@@ -136,7 +136,7 @@ servers and one or more clients.
     an offsite backup of the library, and be able to play automation if
     silence is detected from Curtis. (Ballou has a backup generator.)
 
-#### Clients {.editable}
+#### Clients 
 
 -   ***Studio A (TinMachine)*** - Primary Studio RDAirPlay client
     system. Plays audio to Livewire network via the RD engine on
@@ -147,7 +147,7 @@ servers and one or more clients.
 -   ***MD Office (Floodland)*** - Primary RD import and ripping station.
     Imported files are kept the in the data stores.
 
-#### ASI SoundCard {.editable}
+#### ASI SoundCard 
 
 WMFO uses
 the [AudioScience](http://www.audioscience.com/ "http://www.audioscience.com/") HPI [Livewire
@@ -180,7 +180,7 @@ Prior to getting the card, Rivendell out was done from Tinmachine's
 webbrowser over to digital but the analog out is still connected. If the
 card ever fails, you can return to this system as a backup.
 
-##### Virtual GPIO {.editable}
+##### Virtual GPIO 
 
 The soundcard also provides eight channels of GPIO. We currently use two
 of them for Rivendell preview to enable the board's external preview.
@@ -206,9 +206,9 @@ someone turned off the fader (or clicked the button) when automation was
 off. Because they could have manually cued songs, we do not overwrite
 them with a blank log.
 
-### Configuration {.editable}
+### Configuration 
 
-#### Processes {.editable}
+#### Processes 
 
 These are simply shell commands. Use the `-X` option when ssh'ing in, or
 better yet use a remote desktop client.
@@ -231,7 +231,7 @@ Password required on startup.
 `caed, ripcd, rdcatchd` -
 Rivendell [daemons](http://rivendell.tryphon.org/wiki/Rivendell_daemons "http://rivendell.tryphon.org/wiki/Rivendell_daemons")
 
-#### Network Share Mounts {.editable}
+#### Network Share Mounts 
 
 Mounting file shares allows files physically hosted on Supertramp (and
 backed up on Smoothcriminal) to be logically part of ThinWhiteDuke's
@@ -254,9 +254,9 @@ we're on the topic, this is where imported
 [PSAs](https://wiki.wmfo.org/Operations/Reference_and_Hacks/Music_Department/PSA_Department_Rivendell_Access "PSA Department Rivendell Access")
 go. 
 
-### Scripts {.editable}
+### Scripts 
 
-#### Watchdog {.editable}
+#### Watchdog 
 
 [Watchdog](https://github.com/WMFO/Watchdog "https://github.com/WMFO/Watchdog")
 is a script that runs on ThinWhiteDuke that ensures the network shares
@@ -268,7 +268,7 @@ Watchpup is a far simpler script that runs on Tinmachine. All it does is
 make sure the Rivendell PSA account is properly logged out after a
 certain amount of time. It is not yet on Github.
 
-#### Import {.editable}
+#### Import 
 
 Ripping is done on Floodland in accordance to Music Department
 standards. The current import script is run by cron regularly, taking
@@ -300,7 +300,7 @@ playing song, and system where volunteers can find the lyrics on the web
 manually. This family of software uses the Notes field to keep track of
 what (e.g. scraper of a certain version) last tagged the cart.
 
-#### Spinitron and Automation {.editable}
+#### Spinitron and Automation 
 
 Songs are logged to Spinitron by [Rivendell-Spinitron
 Update](https://github.com/WMFO/Rivendell-Spinitron-Update "https://github.com/WMFO/Rivendell-Spinitron-Update"),
@@ -324,9 +324,9 @@ overwritten by the day's log (which will exist provided the scheduler
 was run). The scheduler runs on TinMachine but connects to
 ThinWhiteDuke.
 
-### How To... {.editable}
+### How To... 
 
-#### Start and/or Stop Rivendell {.editable}
+#### Start and/or Stop Rivendell 
 
 The DJ interface, `rdairplay`, should be in the GUI Launcher and should
 never be closed.
@@ -343,7 +343,7 @@ and then on duke. Ensure they are not running and kill them by hand in
 the right order if necessary. Restart Tinmachine. Bring the daemons up
 on Duke and then tinmachine - hopefully it works now.
 
-#### Import a Track Manually {.editable}
+#### Import a Track Manually 
 
 Barring equipment failure, you should rely on the automatic nightly
 import system for general music. This procedure is what you'll use for
@@ -367,14 +367,14 @@ to take effect there.
 
 Be sure to log out with `rdlogin` when you're done.
 
-#### View library remotely {.editable}
+#### View library remotely 
 
 Go
 to [rivendell.wmfo.org](http://rivendell.wmfo.org/ "http://rivendell.wmfo.org/").
 The code is on
 [GitHub](https://github.com/WMFO/Rivendell-Metadata "https://github.com/WMFO/Rivendell-Metadata").
 
-#### Add/Remove/Verify SMB Mounts {.editable}
+#### Add/Remove/Verify SMB Mounts 
 
 One sanity check for the mounts is to run `df` on ThinWhiteDuke, which
 should include:
@@ -387,7 +387,7 @@ capacity of the array.
 
 Watchdog ensures the mounts are mounted exactly once.
 
-#### Recompile the ASI driver {.editable}
+#### Recompile the ASI driver 
 
 **DKMS has been set up (see next section) and you shouldn't have to do
 this manually anymore. But in case you do...**
@@ -437,7 +437,7 @@ If things don't go smoothly, you can debug with
 
 `sudo asihpi``test`
 
-#### Building the ASI driver using DKMS {.editable}
+#### Building the ASI driver using DKMS 
 
  
 
@@ -533,7 +533,7 @@ A note of scheduler codes: Each *must* be 11 characters long followed by
 a period. Create new ones in `rdadmin` first. Rivendell permits multiple
 scheduler codes per cart but WMFO schema does not.
 
-#### Remove Duplicates {.editable}
+#### Remove Duplicates 
 
 First create the group DUPLICATES in `rdadmin`, if it does not already
 exist. Then log into mysql as root. At the mysql prompt,
@@ -554,7 +554,7 @@ Duplicate cart removal is not automated and should be done every 6
 months or so. The script detects exact duplicates (title, album, artist,
 length) and yes, it keeps one copy.
 
-#### Run donations PSAs in automation {.editable}
+#### Run donations PSAs in automation 
 
 Configure the logs using `rdlogmanager`. There should be a clock set up
 for donations, which you need to place into the schedule. Using
@@ -562,7 +562,7 @@ for donations, which you need to place into the schedule. Using
 donations PSAs start on the right days. It may be necessary to delete
 and rebuild the logs for days during or after the drive.
 
-#### Backup/restore the mySQL Database {.editable}
+#### Backup/restore the mySQL Database 
 
 Backups are done nightly automatically by a ThinWhiteDuke cron job
 calling `/opt/wmfo/mysql_backup/backup.sh`. This script is readable only
@@ -591,7 +591,7 @@ servers, but you'll need to rearchitect the system on the fly and change
 a number of settings in RDAdmin and conf files referencing
 ThinWhiteDuke's IP.
 
-Build Rivendell from Source {.editable}
+Build Rivendell from Source 
 ---------------------------
 
 Not every release of Rivendell need be installed. Unless there is a new
@@ -603,7 +603,7 @@ Although this guide is intended to be as bullet-proof as possible with
 explicit shell commands, stay alert and don't dismiss anything
 unexpected.
 
-##### Rebase wmfo-patches {.editable}
+##### Rebase wmfo-patches 
 
 We maintain [a
 fork](https://github.com/WMFO/rivendell "https://github.com/WMFO/rivendell")
@@ -635,7 +635,7 @@ figure out what's going on.
 
 Now our fork is ready for download and use.
 
-#### For New Installs {.editable}
+#### For New Installs 
 
 **MAKE SURE YOU HAVE THE CORRECT VERSION OF RIVENDELL**
 
@@ -731,7 +731,7 @@ computer hosting rivendell.
 **After the install**, create a new host in rdadmin by cloning an old
 one and setting the IP.
 
-##### For All Installs (Including Upgrades) {.editable}
+##### For All Installs (Including Upgrades) 
 
 Download our clone of of Rivendell and run the autogen script:
 
@@ -789,7 +789,7 @@ And assuming it says 4, run
 And wait 10-20 minutes. You should get this far on every Rivendell
 machine before installation. 
 
-##### Installing Rivendell {.editable}
+##### Installing Rivendell 
 
 Installing Rivendell needs to happen **simultaneously** across all
 machines. Bad things can happen if two different versions interact
@@ -857,7 +857,7 @@ few days. You can view logs for upcoming days using `rdlogedit`.
 Best practice is to send an email to the staff list telling them to be
 on the lookout for any strange behaviour.
 
-### Restart Rivendell Remotely {.editable}
+### Restart Rivendell Remotely 
 
 If the rivendell fader on the board in studio A is on and up, but for
 instance the computer has crashed, you can execute a reboot (either over

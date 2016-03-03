@@ -2,7 +2,7 @@ Tables of the Studio B racks. Essentially all of this equipment is wired
 to the Studio B [patch and insert
 bays](https://wiki.wmfo.org/Training/Studio_B/Patch_Bays "Patch Bays").
 
-### Upper Rack {.editable}
+### Upper Rack 
 
 [![Upper
 Rack.jpg](https://wiki.wmfo.org/@api/deki/files/480/=Upper_Rack.jpg?size=webview)](https://wiki.wmfo.org/@api/deki/files/480/=Upper_Rack.jpg "Upper Rack.jpg")
@@ -133,7 +133,7 @@ Axia Analog Node
 
 [SBA1](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/Axia_Normal_Tables/SBA1 "SBA1")
 
-### Left Lower Rack {.editable}
+### Left Lower Rack 
 
 [![Lower
 Rack.JPG](https://wiki.wmfo.org/@api/deki/files/481/=Lower_Rack.JPG?size=webview)](https://wiki.wmfo.org/@api/deki/files/481/=Lower_Rack.JPG "Lower Rack.JPG")

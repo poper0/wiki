@@ -1,4 +1,4 @@
-Control Room Digital Node 1 {.editable}
+Control Room Digital Node 1 
 ---------------------------
 
 **Credential Level:** Operations\
@@ -12,7 +12,7 @@ and [Diagrams &
 Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables "Diagrams & Tables")
 page for keys and abbreviation information.
 
-### Sources: {.editable}
+### Sources: 
 
 **Port**
 
@@ -192,7 +192,7 @@ A
 
 BB - EAS - O
 
-### Destinations: {.editable}
+### Destinations: 
 
   ---------- ---------------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ----------------- ------------------- ---------------------
   **Port**   **Name**         [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Type**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**

@@ -1,19 +1,19 @@
-[2005 Training Director Description](https://wiki.wmfo.org/@api/deki/files/408/=Training_Director.doc "Training Director.doc") {.editable}
+[2005 Training Director Description](https://wiki.wmfo.org/@api/deki/files/408/=Training_Director.doc "Training Director.doc") 
 ------------------------------------------------------------------------------------------------------------------------------
 
-[2005 GM Position Description](https://wiki.wmfo.org/@api/deki/files/407/=GM_Position_Description.doc.dot "GM Position Description.doc.dot") {.editable}
+[2005 GM Position Description](https://wiki.wmfo.org/@api/deki/files/407/=GM_Position_Description.doc.dot "GM Position Description.doc.dot") 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-[2003 WMFO Station Manual](https://wiki.wmfo.org/@api/deki/files/378/=2003_WMFO_Radio_Station_Manual.pdf "2003 WMFO Radio Station Manual.pdf") {.editable}
+[2003 WMFO Station Manual](https://wiki.wmfo.org/@api/deki/files/378/=2003_WMFO_Radio_Station_Manual.pdf "2003 WMFO Radio Station Manual.pdf") 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-[Exec Board Meeting Guidelines 2001](https://wiki.wmfo.org/@api/deki/files/379/=WMFO_E-Board_Meeting_Procedure.docx "WMFO E-Board Meeting Procedure.docx") {.editable}
+[Exec Board Meeting Guidelines 2001](https://wiki.wmfo.org/@api/deki/files/379/=WMFO_E-Board_Meeting_Procedure.docx "WMFO E-Board Meeting Procedure.docx") 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[WMFO Station Newsletter Fall 2000](https://wiki.wmfo.org/@api/deki/files/380/=Newsletter.pdf "Newsletter.pdf") {.editable}
+[WMFO Station Newsletter Fall 2000](https://wiki.wmfo.org/@api/deki/files/380/=Newsletter.pdf "Newsletter.pdf") 
 ---------------------------------------------------------------------------------------------------------------
 
-[WMFO Show Form Fall 2000](https://wiki.wmfo.org/@api/deki/files/234/=WMFO_Show_Scheduling_Form.pdf "WMFO Show Scheduling Form.pdf") {.editable}
+[WMFO Show Form Fall 2000](https://wiki.wmfo.org/@api/deki/files/234/=WMFO_Show_Scheduling_Form.pdf "WMFO Show Scheduling Form.pdf") 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 1.  1. [2005 Training Director

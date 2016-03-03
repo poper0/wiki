@@ -1,4 +1,4 @@
-Studio B Analog Node 1 {.editable}
+Studio B Analog Node 1 
 ----------------------
 
 **Credential Level:** Engineer\
@@ -23,7 +23,7 @@ destinations when no patch cables are inserted. On these tables only,
 tick marks for "Direct Device" indicate that the name of the source
 gives the relevant information.
 
-### Sources: {.editable}
+### Sources: 
 
   ---------- ----------------- ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ------------------- ---------------------
   **Port**   **Name**          [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Shareable**   **Mode**   **Gain**   **Direct Device**   **Normaled Source**
@@ -37,7 +37,7 @@ gives the relevant information.
   8          SB - R2R1 - Out   12007                                                                                                                     N               LS         0.0        SB - RTR1           -
   ---------- ----------------- ------------------------------------------------------------------------------------------------------------------------- --------------- ---------- ---------- ------------------- ---------------------
 
-### Destinations: {.editable}
+### Destinations: 
 
   ---------- ----------------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ---------- -------------------- ------------------- --------------------------
   **Port**   **Name**          [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Type**   **Load**   **Gain**   **Channel Source**   **Direct Device**   **Normaled Destination**

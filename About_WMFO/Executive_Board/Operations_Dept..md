@@ -11,7 +11,7 @@ management, archiving, and disposal of all physical station property.
 The Operations Department reports to the [General
 Manager](https://wiki.wmfo.org/About_WMFO/Executive_Board/GM's_Office "GM's Office").
 
-Director {.editable}
+Director 
 --------
 
 +--------------------------------------+--------------------------------------+
@@ -92,7 +92,7 @@ Shortly after this picture was taken everyone in the other studio began
 insisting that I answer the phone (flashers look similar to flashes
 apparently).
 
-Previous Holders {.editable}
+Previous Holders 
 ----------------
 
   -------------------------- ------------- -----------------------

@@ -1,4 +1,4 @@
-Studio A Shielded Patch Panel {.editable}
+Studio A Shielded Patch Panel 
 -----------------------------
 
 This is a Studio Hub+ Hub16 Patch Panel
@@ -7,7 +7,7 @@ installed in the back of the Studio A in cabinet rack.\
  It utilizes a Studio Hub+ External Universal Power Supply (PS-EXTU) for
 +/- 15VDC, Power Grounding, and Shield Grounding.
 
-#### Jumper Key {.editable}
+#### Jumper Key 
 
 JU1 - +15VDC Connect (per channel)\
  JU2 - -15VDC Connect (per channel)\
@@ -19,12 +19,12 @@ channel)\
 
 X - Jumper Connected
 
-#### JU33 Status {.editable}
+#### JU33 Status 
 
 Block 1 (left) - Connected\
  Block 2 (right) - Connected
 
-### Routing Table {.editable}
+### Routing Table 
 
 **Channel**
 

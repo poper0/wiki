@@ -1,6 +1,6 @@
 For SAPDU1, you can manipulate outlets with the following schema:
 
-Telnet {.editable}
+Telnet 
 ------
 
     <?php

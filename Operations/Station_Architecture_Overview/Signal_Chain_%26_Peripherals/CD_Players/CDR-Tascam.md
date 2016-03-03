@@ -6,7 +6,7 @@ This is the GPIO specification for the Tascam CD-RW901SL CD Recorders
 
 Axia GPIO Profile: Recording Device
 
-#### Pin Mapping {.editable}
+#### Pin Mapping 
 
 **Wire Color**
 
@@ -102,7 +102,7 @@ STOP Indicator
 
 READY TALLY OUT
 
-#### Axia Side Loop Connections {.editable}
+#### Axia Side Loop Connections 
 
   ------------ ----------------- ------------ -----------------
   **Pin \#**   **Description**   **Pin \#**   **Description**

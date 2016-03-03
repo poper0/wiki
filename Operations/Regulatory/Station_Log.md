@@ -1,4 +1,4 @@
-Station Log {.editable}
+Station Log 
 -----------
 
 Transmitter shutdowns and other station events of regulatory interest
@@ -17,7 +17,7 @@ down until the midafternoon. Transmitter down: 4:25AM Up: 6:30AM
 
  
 
-### 8/11/2012 {.editable}
+### 8/11/2012 
 
 Transmitter went down at around 8AM today. (Apparent power surge from
 Tufts grid?) Transmitter back up by about 8:30 AM. Super can be pinged
@@ -32,7 +32,7 @@ unaffected. -- Max Goldstein
 
  
 
-### 8/28/2012 {.editable}
+### 8/28/2012 
 
 Unexpected power down to station and transmitter. Utility outage. Down:
 5:15AM, up: 7:05AM. Computers on UPSs did not shut down. -- Max
@@ -40,7 +40,7 @@ Goldstein
 
  
 
-### 9/15/2012 {.editable}
+### 9/15/2012 
 
 Controlled transmitter shutdowns due to scheduled power outages at
 Ballou (replacing transfer switch). Curtis equipment and webstream
@@ -49,7 +49,7 @@ Goldstein
 
  
 
-### 11/15/12 {.editable}
+### 11/15/12 
 
 Unexpected power down of transmitter. Cause unknown, possibily utility
 outage. Downtime unknown, prior to 9:00 AM. Up: 11:13 AM. Studio
@@ -57,84 +57,84 @@ unaffected. -- Max Goldstein
 
  
 
-### 12/20/2012 {.editable}
+### 12/20/2012 
 
 Controlled shutdown due to automation software malfunction. Down around
 10:00AM and up around 10:27AM. -- Max Goldstein
 
  
 
-### 1/22/2012 {.editable}
+### 1/22/2012 
 
 Scheduled maintanence between 3:45 and 4:15 for fiber work. Transmitter
 powered down and up per proceedure. --Nick Andre
 
  
 
-### 4/19/2013 {.editable}
+### 4/19/2013 
 
 Unexpected utility power outage. Down at 11:50AM, electrical power
 restored 12:05PM, broadcast resumed at 12:24PM. -- Max Goldstein
 
  
 
-### 5/25/13 {.editable}
+### 5/25/13 
 
 Planned shutdown of the Tuft electrical grid. Down: 5:39AM, up: 5:00PM.
 -- Max Goldstein
 
-### 10/20/13 {.editable}
+### 10/20/13 
 
 Unexpected utility brownout at 11:54PM. -- Max Goldstein
 
-### 11/30/13 {.editable}
+### 11/30/13 
 
 Down for Tufts electrical maintanence between 05:30 to 12:30. -- Nick
 Andre
 
-### 1/13/14 {.editable}
+### 1/13/14 
 
 EAS missed weekly test from FEMA due to equipment problem that has been
 corrected with a firmware update. (SAGE ENDEC) -- Max Goldstein
 
-### 2/16/14 {.editable}
+### 2/16/14 
 
 Controlled shutdown of transmitter to fix other equipment problem.
 1:40am - 1:55am.  -- Nick Andre
 
-### 5/3/14 {.editable}
+### 5/3/14 
 
 Controlled shutdown due to Tufts fiber improvements, 5:39am to 6:00pm.
 -- Max Goldstein
 
-### 5/5/14 {.editable}
+### 5/5/14 
 
 Shutdown at 3:17pm due to unexpected equipment failure (tripped breaker)
 at approximately 3pm. Up at 4:01pm. -- Max Goldstein
 
-### 5/13/14 {.editable}
+### 5/13/14 
 
 Shutdown for 5 minutes at 9:40PM due to problems with the Element. Back
 up at 9:45.
 
-6/22/14 {.editable}
+6/22/14 
 -------
 
 Planned Maintenance: Shutdown 9:27AM back up 9:42AM to swap devices to
 the UPS in Control.
 
-8/11/14 {.editable}
+8/11/14 
 -------
 
 Power outage. Lost power between 3 and 4PM. Transmitter turned back on
 just after 8PM.
 
-8/13-26/14 {.editable}
+8/13-26/14 
 ----------
 
 At some point TTS cut our analog phone lines.
 
-### 3/14-15/15 {.editable}
+### 3/14-15/15 
 
 Transmitter powered off at 8PM, back up 8AM. Internet outage. --Nick
 Andre
@@ -144,13 +144,13 @@ Andre
 Down at 10:10PM 3/20, powered up 2:07AM 3/22. Power outage Saturday.
 --Nick Andre
 
-### 4/26/15 {.editable}
+### 4/26/15 
 
 Down at 1:07PM, up at 1:30PM for power cable shuffling. --Nick Andre
 
  
 
-4/26/15 {.editable}
+4/26/15 
 -------
 
 New transmitter unit installed at \~ 8:30PM 4/26/15; fully up at about
@@ -168,12 +168,12 @@ output of the transmitter unit. The VRC2500 unit is no longer connected
 to anything as the new transmitter has its own full web interface and
 SNMP protocol. --Benjamin Yu 9:29 AM 4/27/2015'
 
-5/9 {.editable}
+5/9 
 ---
 
 5:02PM off air, on air 5:14PM for Rivendell upgrades. --Nick Andre
 
-5/29/15 {.editable}
+5/29/15 
 -------
 
 Power outage starting at 6:50:12 according to Control UPS. 7:12:49 the

@@ -1,6 +1,6 @@
 Subpages have historical interest and are likely out of date.
 
-Contents {.editable}
+Contents 
 --------
 
 -   [1992 Construction Permit

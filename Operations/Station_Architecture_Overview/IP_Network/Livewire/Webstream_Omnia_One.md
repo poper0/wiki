@@ -24,7 +24,7 @@ feeding audio through the system at -36 dBFS instead of -12 as the
 system expects, and in that case the compressor functions solely as a
 volume increase because it doesn't it any gain reduction.
 
-### Problems {.editable}
+### Problems 
 
 The Omnia was put into service in late 11/13 and it was noted by
 mid-December that the built in Java metering system had stopped

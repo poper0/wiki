@@ -1,4 +1,4 @@
-Contents {.editable}
+Contents 
 --------
 
 -   [Audio Engineering

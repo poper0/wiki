@@ -5,7 +5,7 @@ them.
 We've seen Rivendell freeze up during the backup run, most likely due to
 overtaxing Super's read/write ability, so play something else.
 
-Backing up {.editable}
+Backing up 
 ----------
 
 1.  Log into Smooth using the Windows credentials, and then into the VM
@@ -21,7 +21,7 @@ Backing up {.editable}
 
  
 
-Updating Software {.editable}
+Updating Software 
 -----------------
 
 1.  Back up the wiki as described above.

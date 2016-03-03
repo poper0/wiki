@@ -1,7 +1,7 @@
 A high level overview of the signal chain is depicted in [this google
 drawing](https://docs.google.com/drawings/d/1ZioPk_CP5EZg8U6Jix9IY1ol_1xH6u0A_kD7RZt3h1g/edit?usp=sharing "https://docs.google.com/drawings/d/1ZioPk_CP5EZg8U6Jix9IY1ol_1xH6u0A_kD7RZt3h1g/edit?usp=sharing").
 
-Common Signal Chain {.editable}
+Common Signal Chain 
 -------------------
 
 1.  Audio starts out as:
@@ -16,7 +16,7 @@ Common Signal Chain {.editable}
     alerts received from other stations in the area. The EAS output goes
     to either the webstream or the transmitter.
 
-### Transmitter {.editable}
+### Transmitter 
 
 1.  The Tower Omnia with the FM image provides processing of the audio
     data. It compresses the everything to increase signal volume and
@@ -35,7 +35,7 @@ Common Signal Chain {.editable}
 4.  The feed is monitored by the Modulation Monitors in the Tower and in
     Studio A.
 
-### Webstream {.editable}
+### Webstream 
 
 1.  The control Omnia compresses the audio data and feeds it back to the
     Livewire network.

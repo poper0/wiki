@@ -75,7 +75,7 @@ Most of our code is or will/should be on
 And sometimes you just need to [fix the
 board](https://wiki.wmfo.org/Operations/Axia_and_Telos/Fixing_the_Board "Fixing the Board").
 
-Contents {.editable}
+Contents 
 --------
 
 -   [Annual

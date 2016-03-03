@@ -1,4 +1,4 @@
-Studio C PowerStation Main 1 Program and Moniter Out {.editable}
+Studio C PowerStation Main 1 Program and Moniter Out 
 ----------------------------------------------------
 
   ------------------- ------------- ----------

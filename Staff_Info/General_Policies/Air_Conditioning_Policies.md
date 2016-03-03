@@ -13,7 +13,7 @@ please follow all the below instructions. The Operations Director will
 notify you about these in an almost annoying fashion over email, sign,
 and wiki update.
 
-Policies {.editable}
+Policies 
 --------
 
 Please do not:
@@ -36,7 +36,7 @@ Here is what you can and should do:
 4.  Alert [ops@wmfo.org](mailto:ops@wmfo.org "mailto:ops@wmfo.org") if
     someone has violated any of the policies above.
 
-Bad Excuses for Violating Policies {.editable}
+Bad Excuses for Violating Policies 
 ----------------------------------
 
 We are very fortunate to have the AC this summer but we need your
@@ -55,12 +55,12 @@ you:
 -   If you have a philosophical problem with AC units, sorry but you'll
     have to leave the units on.
 
-Instructions for Engineers (B, Dee) {.editable}
+Instructions for Engineers (B, Dee) 
 -----------------------------------
 
 These are best practices for making AC happy in B, Dee.
 
-### Setup {.editable}
+### Setup 
 
 There are two systems:
 
@@ -68,7 +68,7 @@ There are two systems:
 2.  A wireless thermostat which drives the built-in AC system to keep B
     at optimal temperature.
 
-### When you leave {.editable}
+### When you leave 
 
 -   Dee should be set according to the mark, sign, or instructions next
     to the unit.
@@ -76,7 +76,7 @@ There are two systems:
 -   B's thermostat should be set as marked and left in B.
 -   B's door should be closed.
 
-### During sets {.editable}
+### During sets 
 
 A few recommendations:
 
@@ -89,7 +89,7 @@ A few recommendations:
     setting.
 5.  Do not forget to return the temperature to its default setting.
 
-### Other instructions, questions {.editable}
+### Other instructions, questions 
 
 Please contact the director of operations.
 

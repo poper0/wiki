@@ -6,7 +6,7 @@ but not limited to, fundraising and station outreach. The AGM's Office
 reports to the [General
 Manager](https://wiki.wmfo.org/About_WMFO/Executive_Board/GM's_Office "GM's Office").
 
-Assistant GMs {.editable}
+Assistant GMs 
 -------------
 
 +--------------------------------------+--------------------------------------+
@@ -81,7 +81,7 @@ by email
 [ben@wmfo.org](mailto:ben@wmfo.org "mailto:ben@wmfo.org")\
   
 
-Previous AGMs {.editable}
+Previous AGMs 
 -------------
 
 +--------------------------+--------------------------+--------------------------+

@@ -5,7 +5,7 @@ training sessions, and organizing regular advanced training
 opportunities. The Training Office reports to the [Programming
 Director](https://wiki.wmfo.org/About_WMFO/Executive_Board/Program_Dept. "Programming Dept.").
 
-Coordinator {.editable}
+Coordinator 
 -----------
 
 +--------------------------------------------------------------------------+
@@ -32,10 +32,10 @@ Coordinator {.editable}
 | ------------------------------------------                               |
 +--------------------------------------------------------------------------+
 
-  {.editable}
+  
 -
 
-Previous Coordinators {.editable}
+Previous Coordinators 
 ---------------------
 
 +--------------------------+--------------------------+--------------------------+

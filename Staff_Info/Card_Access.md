@@ -1,4 +1,4 @@
-Card Access Basics {.editable}
+Card Access Basics 
 ------------------
 
 A list of station members is submitted to the Tufts University Policy
@@ -8,14 +8,14 @@ and swipe their ID cards on both the tap and swipe styles of card
 readers in order to prevent card expiry. Cards expire if not used
 frequently. Access does not carry over between seasons.
 
-What To Do If Your Card Stops Working {.editable}
+What To Do If Your Card Stops Working 
 -------------------------------------
 
 If your card stops working, please contact the Program Director at
 [pd@wmfo.org](mailto:pd@wmfo.org "mailto:pd@wmfo.org") as soon as
 possible. It can take several days to have card access reinstated.
 
-What To Do If Your Card Stops Working, And You Need To Get Into The Station To Do Your Show {.editable}
+What To Do If Your Card Stops Working, And You Need To Get Into The Station To Do Your Show 
 -------------------------------------------------------------------------------------------
 
 First try calling the WMFO studio line at (617) 627-3800 or (508)
@@ -30,7 +30,7 @@ card. Once you are in the station, email the Programming Director at
 know that you do not have card access and need it reactivated. It can
 take several days to have card access reinstated.
 
-What To Do If You Can't Access The Music Department Office or Studio B {.editable}
+What To Do If You Can't Access The Music Department Office or Studio B 
 ----------------------------------------------------------------------
 
 If you have already been trained, make sure you submitted a DJ

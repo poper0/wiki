@@ -5,7 +5,7 @@ and advancing the stations physical state. The Facilities Office reports
 to the [Operations
 Director](https://wiki.wmfo.org/Executive_Board/Operations_Dept. "Operations Dept.").
 
-Facilities Director {.editable}
+Facilities Director 
 -------------------
 
 +--------------------------------------+--------------------------------------+
@@ -44,7 +44,7 @@ Facilities Director {.editable}
 |                                      | ---------------------------------    |
 +--------------------------------------+--------------------------------------+
 
-Previous Directors {.editable}
+Previous Directors 
 ------------------
 
   --------------- ------------- ---------------------------------------------------------------------------------------------------------------

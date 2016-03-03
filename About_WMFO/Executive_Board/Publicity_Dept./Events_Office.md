@@ -9,7 +9,7 @@ Office](https://wiki.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Booking_Off
 and reports to the [Programming
 Director](https://wiki.wmfo.org/About_WMFO/Executive_Board/Programming_Dept. "Programming Dept.").
 
-Coordinator {.editable}
+Coordinator 
 -----------
 
 +--------------------------------------+--------------------------------------+
@@ -81,7 +81,7 @@ Coordinator {.editable}
 |                                      | ------+                              |
 +--------------------------------------+--------------------------------------+
 
-Previous Coordinators {.editable}
+Previous Coordinators 
 ---------------------
 
 +--------------------------+--------------------------+--------------------------+

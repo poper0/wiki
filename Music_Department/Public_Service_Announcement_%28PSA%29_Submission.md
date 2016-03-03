@@ -3,7 +3,7 @@ Announcement (PSA) each hour. If you have a PSA you would like us to
 broadcast on you or your organization's behalf, please submit it via the
 guidelines below.
 
-### WMFO Public Service Announcement Guidelines {.editable}
+### WMFO Public Service Announcement Guidelines 
 
 WMFO accepts both audio and hardcopy Public Service Announcements for
 informing our listener audience about non-commercial activities and

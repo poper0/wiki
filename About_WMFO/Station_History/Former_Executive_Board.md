@@ -10,7 +10,7 @@ to the executive board. Traditional titles include Generan Manager,
 Assistant General Manager, Music Director, Operations, and Publicity.
 
 \
- Members {.editable}
+ Members 
 --------
 
 1.  1.
@@ -68,9 +68,9 @@ Assistant General Manager, Music Director, Operations, and Publicity.
     26. 1.26.
         [2001](https://wiki.wmfo.org/About_WMFO/Station_History/Former_Executive_Board#2001)
 
-### 1970 {.editable}
+### 1970 
 
-### 1971 {.editable}
+### 1971 
 
 General Manager - Michael Symonds
 
@@ -78,7 +78,7 @@ Operations Director - Harry Levy
 
 Chief Engineer - Roy Mallory
 
-### 1972 {.editable}
+### 1972 
 
 General Manager - Harry Levy
 
@@ -88,7 +88,7 @@ Chief Engineer - Bill Spadafora
 
 News Director - John Dineen
 
-### 1973 {.editable}
+### 1973 
 
 General Manager - Steve Thibodeau
 
@@ -96,7 +96,7 @@ Chief Engineer - Paul Yamartino
 
 News Director - John Dineen
 
-### 1974 {.editable}
+### 1974 
 
 General Manager - Paul Yamartino
 
@@ -106,19 +106,19 @@ Chief Engineer - Jeff Goldsmith
 
 News Director - John Dineen (the News Machine)
 
-### 1975 {.editable}
+### 1975 
 
 General Manager -  Steve Fiorentino
 
-### 1978 {.editable}
+### 1978 
 
 General Manager - Seth Miller
 
-### 1979 {.editable}
+### 1979 
 
 General Manager - Edward Bean
 
-### 1980 {.editable}
+### 1980 
 
 General Manager - Edward Bean
 
@@ -126,15 +126,15 @@ Program Director - Gordon O'Hara
 
 News and Public Affairs Director - John Cuming
 
-### 1981 {.editable}
+### 1981 
 
 General Manager - Lori Heyman
 
-### 1982 {.editable}
+### 1982 
 
 General Manager - Jim Shanahan
 
-### 1983 {.editable}
+### 1983 
 
 General Manager - Noah Osnos
 
@@ -142,13 +142,13 @@ Program Director - Len DiFranza
 
 News and Public Affairs Director - John Roosa
 
-### 1986 {.editable}
+### 1986 
 
 General Manager - Fred Biebesheimer
 
 Program Director - Chris Daveta
 
-### 1987 {.editable}
+### 1987 
 
 General Manager - Maryellen McPhee
 
@@ -160,7 +160,7 @@ Program Director - Ric Schellhorn
 
 Public Affairs Director - Eric Bove
 
-### 1988 {.editable}
+### 1988 
 
 General Manager - Michael Knoblach
 
@@ -178,7 +178,7 @@ Operations Director - Akira Kamiya
 
 Engineer - Michael LeClair
 
-### 1989 {.editable}
+### 1989 
 
 General Manager - Adam Conn
 
@@ -194,7 +194,7 @@ Operations Director - Akira Kamiya
 
 Music Librarian - Michael Knoblach
 
-### 1990 {.editable}
+### 1990 
 
 General Manager - Bret Bicoy
 
@@ -206,7 +206,7 @@ Operations Director - Akira Kamiya
 
 Publicity Director - Rich Robins
 
-### 1991 {.editable}
+### 1991 
 
 General Manager - Kurt Maitland
 
@@ -224,7 +224,7 @@ Assistant Program Director - Ashley Serotta
 
 Assistant Music Directors - Chris D'Aveta & Teresa Flavin
 
-### 1992 {.editable}
+### 1992 
 
 Fundraising Coordinator - Ashley Serotta
 
@@ -232,13 +232,13 @@ Music Director - Ben Paulos? 
 
 Summer Music Director - Teresa Flavin
 
-### 1993 {.editable}
+### 1993 
 
 General Manager: Josef Dustin Tracy
 
 Music Director - Derek Smith 
 
-### 1995 {.editable}
+### 1995 
 
 Engineer - Michael LeClair
 
@@ -266,7 +266,7 @@ Operations Manager - John Grebe - 
 
 General Manager - Justin Lunin-Pack
 
-### 1996 {.editable}
+### 1996 
 
 General Manager - Kathryn Tillet
 
@@ -294,7 +294,7 @@ News Director Spring - John Grebe 
 
  
 
-### 1997 {.editable}
+### 1997 
 
 Music Director - Derek Smith
 
@@ -302,7 +302,7 @@ Community Music Director - Morgan Huke
 
 Music Director - Joe O'Gam
 
-### 1999 {.editable}
+### 1999 
 
 Public Affairs Director - Morgan Huke
 
@@ -310,11 +310,11 @@ Music Director - Levi Novey
 
 Program Director - David Dougan
 
-### 2000 {.editable}
+### 2000 
 
 Music Director - Morgan Huke
 
-### 2001 {.editable}
+### 2001 
 
 Operations Director - John Grebe
 

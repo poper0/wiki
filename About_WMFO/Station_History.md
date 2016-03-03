@@ -11,7 +11,7 @@ Shows](https://wiki.wmfo.org/History/Station_History/Former_Shows "History/Stati
 and [Promotional
 Materials](https://wiki.wmfo.org/History/Station_History/Promotional_Materials "History/Station History/Promotional Materials").
 
-Contents {.editable}
+Contents 
 --------
 
 1.  1.
@@ -32,7 +32,7 @@ Contents {.editable}
 2.  2.
     [References](https://wiki.wmfo.org/About_WMFO/Station_History#References)
 
-### Early History {.editable}
+### Early History 
 
 WMFO's earlies iteration came as WTCR (Tufts Community Radio), an
 amateur radio station between 1956 and 1961. After becoming a
@@ -40,7 +40,7 @@ campus-sponsored organization, WTCR operated out of Braker Hall. The
 station broadcast on AM bands, reaching the campus proper at peak
 power.^[1](#endnote_1)^
 
-### Shutdown {.editable}
+### Shutdown 
 
 Despite the efforts of the staff, WTCR's dependance on dated military
 equipment led to the station's shutdown. After various radiation leaks
@@ -48,7 +48,7 @@ were detected by FCC inspectors, the station was forced to disband.
 Station programming dwindled until 1961, when the group officially
 split.
 
-### Reincarnation as WTUR {.editable}
+### Reincarnation as WTUR 
 
 The fall of WTCR left a body of funds that, until 1967, were left
 unused. In 1967, a group of students again formed a radio club, this
@@ -63,7 +63,7 @@ jazz.^[1](#endnote_1)^
 
 DJ at WTUR Studios, ca 1968^[2](#endnote_2)^.
 
-### Second Shutdown {.editable}
+### Second Shutdown 
 
 In 1970, students in WTUR's membership planned a prank involving the
 local MBTA commuter rail connections. By utilizing the rails as a
@@ -72,7 +72,7 @@ Massachusetts and Nashua, New Hampshire. Though effective, the prank
 violated FCC rules and WTUR's alloted signal range. As a result, WTUR's
 license was revoked and the group was disbanded by university officials.
 
-### WMFO {.editable}
+### WMFO 
 
 Soon after the dismissal of WTUR's broadcasting license, interest was
 renewed in creating a campus-run radio station. On February 6th, 1971,
@@ -82,7 +82,7 @@ version of WTUR, playing "Here Comes the Sun" by the Beatles. In late
 time, the station received its mandate as an education, community
 outreach station, requiring it to broadcast national news and services.
 
-### Fire {.editable}
+### Fire 
 
 In 1974, WMFO expanded to 24 hour programming, fully developing its
 freeform nature. Station operations continued to grow until April 2,
@@ -98,7 +98,7 @@ university and community.
 2.jpg](https://wiki.wmfo.org/@api/deki/files/266/=Tufts_2.jpg?size=webview)](https://wiki.wmfo.org/@api/deki/files/266/=Tufts_2.jpg "Tufts 2.jpg")[![Tufts
 3.jpg](https://wiki.wmfo.org/@api/deki/files/267/=Tufts_3.jpg?size=webview)](https://wiki.wmfo.org/@api/deki/files/267/=Tufts_3.jpg "Tufts 3.jpg")
 
-References {.editable}
+References 
 ----------
 
 [1. ↑](#ref_1) Tufts Digital Library -

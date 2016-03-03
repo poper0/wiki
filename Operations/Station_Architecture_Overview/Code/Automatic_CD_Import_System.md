@@ -3,7 +3,7 @@ there will contain the practical deployment information. This page
 serves as a design document and arcitectural overview. Its subpages are
 largely historical.
 
-Contents {.editable}
+Contents 
 --------
 
 -   [Filename
@@ -12,7 +12,7 @@ Contents {.editable}
 -   [Profanity-Detecting
     Regex](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Code/Automatic_CD_Import_System/Profanity-Detecting_Regex "Operations/Station_Architecture_Overview/Code/Automatic_CD_Import_System/Profanity-Detecting_Regex")
 
-Design Document {.editable}
+Design Document 
 ---------------
 
 The music import system is composed of three distinct programs. In
@@ -65,7 +65,7 @@ The Sanitzer and Importer will be in one git repo, and the lyrics
 flagger in another. This is because they will be coupled by the
 sanitized folder, and the Flagger can be used more widely.
 
-Duke root's crontab {.editable}
+Duke root's crontab 
 -------------------
 
 will be posted here when the project is done.

@@ -1,4 +1,4 @@
-Overview {.editable}
+Overview 
 --------
 
 WMFO is required to record telemetry readings from its transmitter. The
@@ -11,7 +11,7 @@ touch-tone phones. Full details can be found in the [VRC2500
 menu](http://www.burk.com/Support/Vrc2500.aspx "http://www.burk.com/Support/Vrc2500.aspx")
 supplied by Burk.
 
-Historical Telemetry Readings {.editable}
+Historical Telemetry Readings 
 -----------------------------
 
 In the past, no automated telemetry readings were taken by the VRC2500.
@@ -20,7 +20,7 @@ telemetry readings, which they then recorded into a book. Unfortunately,
 DJs were unreliable and were even caught with full evidence of copying
 over older readings to new times.
 
-Old Modem Telemetry System {.editable}
+Old Modem Telemetry System 
 --------------------------
 
 The VRC2500 is currently programmed to record telemetry readings every
@@ -33,7 +33,7 @@ into an Access database file. A WMFO program (contact Ben Yu for
 technical support) reads in these values via OBDC, and then outputs them
 to a text file, which is published on Smoothcriminal's webserver. 
 
-Current Telemetry System (IP) {.editable}
+Current Telemetry System (IP) 
 -----------------------------
 
 The VRC2500 unit is attached to an IP Unit from Burke which allows it to
@@ -41,7 +41,7 @@ maintain connectivity over a Fiber Box to download readings. The Lynx
 software has also been moved to Smoothcriminal following the untimely
 death of Windows on Supertramp.
 
-Online access {.editable}
+Online access 
 -------------
 
 The Linux Server, ThinWhiteDuke, contains an apache website where the
@@ -50,7 +50,7 @@ she has ascertained telemetry has been recorded correctly in the
 previous week. The telemetry readings themselves are accessed [on
 Smoothcriminal](http://wmfo-smooth.orgs.tufts.edu/data.txt "http://wmfo-smooth.orgs.tufts.edu/data.txt").
 
-Calibration {.editable}
+Calibration 
 -----------
 
 The VRC2500 unit takes it readings from GPIO with the other rack-mounted
@@ -59,7 +59,7 @@ memory is wiped and/or when the equipment in the transmitter line
 changes. Details on the calibration procedure can be found in the Lynx 5
 manual from Burk.
 
-Miscellaneous {.editable}
+Miscellaneous 
 -------------
 
 The Lynx software is set to startup automatically on Supertramp.
@@ -70,7 +70,7 @@ kill the background Lynx and start a Lynx session in a Desktop logon on
 Supertramp. Once started, it is only necessary to keep the LynxLogger
 window minimized in the system tray.
 
-Troubleshooting {.editable}
+Troubleshooting 
 ---------------
 
 If when firing up the Lynx 5 software, it doesn't see the modem, try

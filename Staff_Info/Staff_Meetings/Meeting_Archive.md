@@ -1,7 +1,7 @@
 WMFO Staff meetings information from previous seasons years is stored
 here for reference and posterity.
 
-Contents {.editable}
+Contents 
 --------
 
 -   [2010-Fall

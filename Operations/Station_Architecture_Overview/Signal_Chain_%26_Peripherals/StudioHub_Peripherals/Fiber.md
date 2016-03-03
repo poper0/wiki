@@ -21,7 +21,7 @@ to the transmitter (by way of a router selector), as well as ethernet
 a PDU, and (one day) a server. The primary connection is between two
 Cisco Catalyst 2960G switches.
 
-### Strands {.editable}
+### Strands 
 
 -   The **Curtis Number (C\#)** is the number on the wall box in
     Control, in English reading order
@@ -49,7 +49,7 @@ Note that Datacom swapped strands 3&4, which have been swapped back in
 Control to a working connection (tested over netsys fiboxes). However,
 the dB loss for the lines is likely flipped from what is reported above.
 
-### Curtis Connections {.editable}
+### Curtis Connections 
 
   Strand (Curtis Number)   Interface         Device
   ------------------------ ----------------- ----------------------------------
@@ -58,12 +58,12 @@ the dB loss for the lines is likely flipped from what is reported above.
   4                        Fibox 1           Airfeed
   6                        Fibox 3           Tower Server (to be built/moved)
 
-### Saturation tests {.editable}
+### Saturation tests 
 
 Saturation tests can be done using `iperf -s|-c IP `run on Duke (for
 CONS1) and a laptop connected to TOWS1. 
 
-### Fiber resources {.editable}
+### Fiber resources 
 
 -   [Single Mode vs. Multi-Mode: What’s the
     Difference?](http://www.imakenews.com/drs/e_article001146955.cfm "http://www.imakenews.com/drs/e_article001146955.cfm")

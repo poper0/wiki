@@ -2,7 +2,7 @@ This is an attempt to organize and maintain transition guides and
 documentation for events like the annual Donations Drive in a sensible
 fashion. Permissions should be kept as private.
 
-Contents {.editable}
+Contents 
 --------
 
 -   [Guide to the Donations

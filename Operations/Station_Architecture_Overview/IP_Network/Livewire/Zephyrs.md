@@ -8,7 +8,7 @@ Control and Studio A. The mobile unit resides in Storage when not in
 use. The units can "call" each other over the internet, and send audio
 in each direction.
 
-Log {.editable}
+Log 
 ---
 
 Log uses and test calls of the Zephyrs here and report any problems.
@@ -21,10 +21,10 @@ This allows us to make sure test calls happen often enough.
 
  
 
-  {.editable}
+  
 -
 
-Remote Broadcasting {.editable}
+Remote Broadcasting 
 -------------------
 
 If you just want to have up to 4 people talking with mics headphones,
@@ -96,7 +96,7 @@ both (it won't save higher values). The decoder buffer has defaults of
 them back down if you experience choppiness indicating dropped packets.
 Put them back on the defaults when you're done.
 
-Test Calls {.editable}
+Test Calls 
 ----------
 
 Make test calls *more frequently than every 6 months*. (This ensures all
@@ -115,7 +115,7 @@ appropriate channel to the Studio A board. Preview on that channel. If
 the audio you're feeding into the mobile board comes through the DJ
 headphones, you're all set. If not, contact the ops list.
 
-Troubleshooting {.editable}
+Troubleshooting 
 ---------------
 
 If the Zephyrs haven't been used in longer than six months, start from

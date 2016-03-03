@@ -5,7 +5,7 @@ out. If you feel your project requires special services or rates, please
 us](https://wiki.wmfo.org/Executive_Board/GM's_Office/Business_Dept. "Business Dept.")
 and we can discuss it.
 
-Recording Rates {.editable}
+Recording Rates 
 ---------------
 
 +--------------------------------------+--------------------------------------+
@@ -18,7 +18,7 @@ Recording Rates {.editable}
 |   --------- --------------------     |   --------- --------------------     |
 +--------------------------------------+--------------------------------------+
 
-***Please Note:*** {.editable}
+***Please Note:*** 
 ------------------
 
 Tufts Bands contain at least 50% Tufts students. Tufts Student Groups
@@ -29,7 +29,7 @@ If a secondary engineer is required to help with the session because of
 the size or complexity of the set-up, the charge will be increased by
 \$5/hr.
 
-Mastering {.editable}
+Mastering 
 ---------
 
 We provide mastering services through Sonic Enhancement Specialists at
@@ -43,7 +43,7 @@ Contact
 [ontheside@wmfo.org](mailto:ontheside@wmfo.org "mailto:ontheside@wmfo.org")
 for more details.
 
-CD Production {.editable}
+CD Production 
 -------------
 
 We currently do not provide any deals for CD production. If you are

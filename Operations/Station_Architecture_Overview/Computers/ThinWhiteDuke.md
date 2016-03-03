@@ -1,15 +1,15 @@
-Functionality {.editable}
+Functionality 
 -------------
 
-### Rivendell {.editable}
+### Rivendell 
 
 This hosts Rivendell.
 
-### Websites {.editable}
+### Websites 
 
-### Webstream {.editable}
+### Webstream 
 
-### Backup Scripts {.editable}
+### Backup Scripts 
 
 1.  1. [Functionality](#Functionality)
     1.  1.1. [Rivendell](#Rivendell)

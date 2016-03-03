@@ -3,7 +3,7 @@ affordable recording services to the Tufts community and the general
 public. We also provide engineers for bands looking to play live on
 WMFO.
 
-Information: {.editable}
+Information: 
 ------------
 
 -   [For
@@ -12,7 +12,7 @@ Information: {.editable}
     Hosts](https://wiki.wmfo.org/For_Bands/For_Hosts "For_Bands/For_Hosts")
 -   [Rates](https://wiki.wmfo.org/For_Bands/Rates "For_Bands/Rates")
 
-Contact: {.editable}
+Contact: 
 --------
 
 [Business

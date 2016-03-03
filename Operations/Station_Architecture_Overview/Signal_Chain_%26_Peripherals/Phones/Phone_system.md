@@ -1,9 +1,9 @@
 WMFO has two phone lines for DJs, whose inetgration into the LiveWire
 network is described here. It also has a phone line to the transmitter.
 
-### Current System {.editable}
+### Current System 
 
-#### Instructions to DJs {.editable}
+#### Instructions to DJs 
 
 To **answer the phone**, press the phone button once it lights up. Then
 hold talkback, press preview, then release both buttons. Then talk to
@@ -21,7 +21,7 @@ there’s no long distance.
 Please note that the lines cannot be on the board in Studio A and Studio
 C simulataneously.
 
-#### Operations documentation {.editable}
+#### Operations documentation 
 
 The phone system requires Euro-style faders with four buttons above
 ON/OFF. We have 4 of these faders on the Studio A board and 2 on the
@@ -45,7 +45,7 @@ through the telemetry modem first) and the other goes to the phone
 flashers. The flashers in Studio A are phones, from the perspective on
 the phone lines. A single ethernet cable carries both lines into A.
 
-### Old system {.editable}
+### Old system 
 
 The old phone system consisted of custom board of voicecoils and cable
 connectors, and two rackmount hybrids. These were connected via
@@ -59,7 +59,7 @@ attached GPIO ethernet line that used to go to P1 8.
 To answer the phone on the old system, one would hold talkback, press
 preview, and release, and then turn the fader on.
 
-### Blue-sky spec {.editable}
+### Blue-sky spec 
 
 This is the wish list of the phone system written up before we had
 settled on a specific unit.

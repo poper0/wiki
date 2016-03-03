@@ -4,7 +4,7 @@ tools.**
 **While not as sensitive as some other information, make sure this page
 is set to "private" with ops and exec as contributors.**
 
-Ridgid {.editable}
+Ridgid 
 ------
 
 The Ridgid set includes a drill, an impact wrench, two batteries, and a
@@ -97,7 +97,7 @@ replaced, the customer has 90 days to call
 and re-register that piece of equipment from the date of replacement.
 Proof of replacement required.
 
-Ryobi {.editable}
+Ryobi 
 -----
 
 The Ryobi tools are older than the Ridgids and are in poor condition.

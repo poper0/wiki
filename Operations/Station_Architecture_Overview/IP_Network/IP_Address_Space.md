@@ -7,7 +7,7 @@ conventions are adopted/droped.
 
 page not found
 
-IPv4 Local Network Info {.editable}
+IPv4 Local Network Info 
 -----------------------
 
 Subnet Mask: 255.255.0.0\
@@ -16,7 +16,7 @@ Subnet Mask: 255.255.0.0\
  Min Address: 192.168.0.1\
  Max Address: 192.168.255.254
 
-### Internal DHCP Info {.editable}
+### Internal DHCP Info 
 
 Addresses: 192.168.10.\*\
  Subnet Mask: 255.255.0.0\
@@ -24,14 +24,14 @@ Addresses: 192.168.10.\*\
  DNS: 192.168.0.210\
  Search domains: wmfo.local
 
-Basic IPv4 Conventions {.editable}
+Basic IPv4 Conventions 
 ----------------------
 
 A method for the madness... Set as of 05/2012. The conventions are
 desgined to allow for future expansion. If adding new equipment, please
 follow them to maintain consistency.
 
-### IPv4 Third Byte {.editable}
+### IPv4 Third Byte 
 
 *Designates Device Location*
 
@@ -50,11 +50,11 @@ follow them to maintain consistency.
   DHCP/Wireless         192.168.10.XXX
   --------------------- -----------------------
 
-### IPv4 Fourth Byte Ranges {.editable}
+### IPv4 Fourth Byte Ranges 
 
 *Designates Device Type*
 
-#### *General Device Class Ranges* {.editable}
+#### *General Device Class Ranges* 
 
   ------------------------- ------------------------ -----------------------------------
   **Device Type**           **IPv4 Address Range**   **Notes**
@@ -64,7 +64,7 @@ follow them to maintain consistency.
   General Computer/Server   192.168.YYY.2XX          See Subclass Range Info
   ------------------------- ------------------------ -----------------------------------
 
-##### Network Device Subclass Ranges {.editable}
+##### Network Device Subclass Ranges 
 
   -------------------- ------------------------ -------------------
   **Device Subtype**   **IPv4 Address Range**   **Notes**
@@ -78,7 +78,7 @@ follow them to maintain consistency.
   Regulatory           192.168.YYY.09X          Split up one day?
   -------------------- ------------------------ -------------------
 
-##### Livewire/Axia Device Subclass Ranges {.editable}
+##### Livewire/Axia Device Subclass Ranges 
 
   --------------------------------- ---------------------------------- ---------------------------
   **Device Subtype**                **IPv4 Address Range**             **Notes**
@@ -92,7 +92,7 @@ follow them to maintain consistency.
   \<Unassigned\>                    192.168.YYY.19X                    -
   --------------------------------- ---------------------------------- ---------------------------
 
-##### General Computer/Server Subclass Ranges {.editable}
+##### General Computer/Server Subclass Ranges 
 
   ---------------------------- ------------------------ -----------
   **Device Subtype**           **IPv4 Address Range**   **Notes**
@@ -104,10 +104,10 @@ follow them to maintain consistency.
   \<Unassigned\>               192.168.YYY.25X          -
   ---------------------------- ------------------------ -----------
 
-IPv4 Address Space {.editable}
+IPv4 Address Space 
 ------------------
 
-### WMFO LAN {.editable}
+### WMFO LAN 
 
   **IPv4 Address**   **FQDN**                    **Name**          **Adapter**              **Description**             **Speed**     **MAC**
   ------------------ --------------------------- ----------------- ------------------------ --------------------------- ------------- --------------------
@@ -159,7 +159,7 @@ IPv4 Address Space {.editable}
   192.168.9.142                                  TowerOmnia1                                Axia Omnia One              10/100         
   192.168.255.255    -                           BROADCAST         -                        BROADCAST                   -             BROADCAST
 
-### WMFO WAN {.editable}
+### WMFO WAN 
 
   **IPv4 Address**   **FQDN**                                                                                         **Computer**      **Adapter**           **Description**      **Speed**     **MAC**
   ------------------ ------------------------------------------------------------------------------------------------ ----------------- --------------------- -------------------- ------------- --------------------
@@ -172,7 +172,7 @@ IPv4 Address Space {.editable}
   DHCP               -                                                                                                MOBZP1            LiveWire RJ-45        Telos Zepher         10/100        00:E0:4B:1B:D7:08
   DHCP               -                                                                                                MOBZP1 dongle     IOgear WiFi USB 2.0   WiFi dongle          ?             00:21:79:C3:19:ED
 
-### WMFO Server-to-Server {.editable}
+### WMFO Server-to-Server 
 
   ------------------ ---------- ---------------- ----------------------- ----------------- ------------- -------------------
   **IPv4 Address**   **FQDN**   **Computer**     **Adapter**             **Description**   **Speed**     **MAC**
@@ -181,7 +181,7 @@ IPv4 Address Space {.editable}
   10.0.4.210         -          Smoothcriminal   Intel PRO/1000 GT       Server PCI        10/100/1000   00:1B:21:C1:F1:44
   ------------------ ---------- ---------------- ----------------------- ----------------- ------------- -------------------
 
-IPv4 DNS Servers {.editable}
+IPv4 DNS Servers 
 ----------------
 
 In order of preference. Linux config is done in `/etc/resolv.conf​` or
@@ -196,7 +196,7 @@ In order of preference. Linux config is done in `/etc/resolv.conf​` or
   8.8.8.8         Google
   --------------- -------------------------
 
-NTP Servers {.editable}
+NTP Servers 
 -----------
 
 In order of preference. Linux config is done in `/etc/ntp.conf`

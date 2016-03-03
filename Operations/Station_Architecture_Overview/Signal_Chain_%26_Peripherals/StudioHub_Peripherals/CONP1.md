@@ -1,4 +1,4 @@
-Control Room Patch Bay 1 {.editable}
+Control Room Patch Bay 1 
 ------------------------
 
 This is the 24 port Cat6 patch bay located in the right corner of the

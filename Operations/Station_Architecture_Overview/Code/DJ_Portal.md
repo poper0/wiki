@@ -2,7 +2,7 @@ The DJ Portal is currently in the planning stage. It is expected, but
 not firmly decided, that the DJ Portal will be for on-air real-time
 access.
 
-Feature List (Tentative) {.editable}
+Feature List (Tentative) 
 ------------------------
 
 -   Flag songs in Rivendell as unsuitable for automation (prfoanity,

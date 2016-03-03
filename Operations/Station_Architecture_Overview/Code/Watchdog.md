@@ -3,12 +3,12 @@ Github: [https://github.com/WMFO/Watchdog](https://github.com/WMFO/Watchdog "ht
 
 **The rest of this page is historical.**
 
-### TODO: Update Info to watchdog2 {.editable}
+### TODO: Update Info to watchdog2 
 
 We are now using Watchdog2. The original script no longer works. This
 page needs to be updated to reflect the new version of the script.
 
-### Overview {.editable}
+### Overview 
 
 The watchdog process is started at reboot by cron on ThinWhiteDuke.
 (root's crontab) Every 3 seconds it checks for the existence of
