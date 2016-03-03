@@ -1,8 +1,7 @@
-Control Room Patch Bay 2 
+Control Room Patch Bay 2
 ------------------------
 
-This is the 16 port Cat6 patch bay located in the right corner of the
-Control Room.
+This is the 16 port Cat6 patch bay located in the right corner of the Control Room.
 
 **Port**
 

@@ -1,31 +1,17 @@
-***Now maintained on
-Github:*** [https://github.com/WMFO/Rivendell-Spinitron-Update](https://github.com/WMFO/Rivendell-Spinitron-Update "https://github.com/WMFO/Rivendell-Spinitron-Update")
+***Now maintained on Github:*** [https://github.com/WMFO/Rivendell-Spinitron-Update](https://github.com/WMFO/Rivendell-Spinitron-Update "https://github.com/WMFO/Rivendell-Spinitron-Update")
 
-About 
+About
 -----
 
-This is a Rivendell loadable module made to report the current playing
-song to Spinitron. It was made for Rivendell 1.5. It is Free software
-licensed under GNU GPL version 2. Download and compile the attached file
-to use.
+This is a Rivendell loadable module made to report the current playing song to Spinitron. It was made for Rivendell 1.5. It is Free software licensed under GNU GPL version 2. Download and compile the attached file to use.
 
-Consult the Rivendell documentation for more information on teh
-Rivendell RLM SDK. Some info can be found
-[here](http://rivendell.tryphon.org/wiki/index.php/Rivendell_Loadable_Module_(RLM)_SDK_-_For_Sending_Now_%26_Next_Data_to_external_systems "http://rivendell.tryphon.org/wiki/index.php/Rivendell_Loadable_Module_(RLM)_SDK_-_For_Sending_Now_&_Next_Data_to_external_systems").
+Consult the Rivendell documentation for more information on teh Rivendell RLM SDK. Some info can be found [here](http://rivendell.tryphon.org/wiki/index.php/Rivendell_Loadable_Module_(RLM)_SDK_-_For_Sending_Now_%26_Next_Data_to_external_systems "http://rivendell.tryphon.org/wiki/index.php/Rivendell_Loadable_Module_(RLM)_SDK_-_For_Sending_Now_&_Next_Data_to_external_systems").
 
-Please note: when the on-air signal is on, the module posts to the
-current playlist of the active Spinitron user; when it is off, it posts
-to the account provided in the parameters. This was made to support
-automated playback when no 'live' Spinitron user is logged in. It
-effectively logs all automated playlists under a 'fake' automated user.
-This user should be set up in Spinitron just like a regular user. We use
-a Macro cart on the Rivendell cart screen to turn Automation 'on' or
-'off' and switch between the active DJ and the automation user.
+Please note: when the on-air signal is on, the module posts to the current playlist of the active Spinitron user; when it is off, it posts to the account provided in the parameters. This was made to support automated playback when no 'live' Spinitron user is logged in. It effectively logs all automated playlists under a 'fake' automated user. This user should be set up in Spinitron just like a regular user. We use a Macro cart on the Rivendell cart screen to turn Automation 'on' or 'off' and switch between the active DJ and the automation user.
 
-For questions or to contribute,
-contact: [ops@wmfo.org](mailto:ops@wmfo.org "mailto:ops@wmfo.org")
+For questions or to contribute, contact: [ops@wmfo.org](mailto:ops@wmfo.org "mailto:ops@wmfo.org")
 
-Comments 
+Comments
 --------
 
 /\*
@@ -38,8 +24,7 @@ Comments
 
  \*
 
- \*   This program is free software; you can redistribute it and/or
-modify
+ \*   This program is free software; you can redistribute it and/or modify
 
  \*   it under the terms of the GNU General Public License version 2
 
@@ -55,8 +40,7 @@ modify
 
  \* This is a Rivendell Loadable Module.  It sends Now&Next PAD data via
 
- \* UDP packets to the destination(s) specified in the configuration
-file 
+ \* UDP packets to the destination(s) specified in the configuration file 
 
  \* pointed to by the plugin argument.
 
@@ -66,19 +50,16 @@ file 
 
  \* 
 
- \*   gcc -shared -o rlm\_spinitro.rlm rlm\_spinitron.c -Wall -Werror
--fPIC
+ \*   gcc -shared -o rlm\_spinitro.rlm rlm\_spinitron.c -Wall -Werror -fPIC
 
  \*
 
  \*/
 
-Notes: 
+Notes:
 ------
 
-Username and password hard-coded in (So, it's a little hacked
-together.). To set them for your station, find and change the following
-fields before compiling the file:
+Username and password hard-coded in (So, it's a little hacked together.). To set them for your station, find and change the following fields before compiling the file:
 
 \<YOUR\_ACCOUNT\_HERE\>
 
@@ -86,7 +67,7 @@ fields before compiling the file:
 
 \<YOUR\_STATION\_ID\_HERE\>
 
-Changelog: 
+Changelog:
 ----------
 
 8-11-10 - Original Upload

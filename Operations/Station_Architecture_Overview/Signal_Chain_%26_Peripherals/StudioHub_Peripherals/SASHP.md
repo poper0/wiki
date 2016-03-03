@@ -1,30 +1,26 @@
-Studio A Shielded Patch Panel 
+Studio A Shielded Patch Panel
 -----------------------------
 
-This is a Studio Hub+ Hub16 Patch Panel
-([manual](https://wiki.wmfo.org/@api/deki/files/422/=HUB16-DC.pdf "/@api/deki/files/422/=HUB16-DC.pdf"))
-installed in the back of the Studio A in cabinet rack.\
- It utilizes a Studio Hub+ External Universal Power Supply (PS-EXTU) for
-+/- 15VDC, Power Grounding, and Shield Grounding.
+This is a Studio Hub+ Hub16 Patch Panel ([manual](https://wiki.wmfo.org/@api/deki/files/422/=HUB16-DC.pdf "/@api/deki/files/422/=HUB16-DC.pdf")) installed in the back of the Studio A in cabinet rack.
+ It utilizes a Studio Hub+ External Universal Power Supply (PS-EXTU) for +/- 15VDC, Power Grounding, and Shield Grounding.
 
-#### Jumper Key 
+#### Jumper Key
 
-JU1 - +15VDC Connect (per channel)\
- JU2 - -15VDC Connect (per channel)\
- JU3 - Shield to Common Chassis Connect (per channel)\
- JU4 - Shield to Common Shield Bus/Power Supply Shield Connect (per
-channel)\
- JU33 - Chassis to Shield Bus Connect (per 8 block)\
+JU1 - +15VDC Connect (per channel)
+ JU2 - -15VDC Connect (per channel)
+ JU3 - Shield to Common Chassis Connect (per channel)
+ JU4 - Shield to Common Shield Bus/Power Supply Shield Connect (per channel)
+ JU33 - Chassis to Shield Bus Connect (per 8 block)
  JU34 - Common Power Ground Bus Connect (per channel)
 
 X - Jumper Connected
 
-#### JU33 Status 
+#### JU33 Status
 
-Block 1 (left) - Connected\
+Block 1 (left) - Connected
  Block 2 (right) - Connected
 
-### Routing Table 
+### Routing Table
 
 **Channel**
 

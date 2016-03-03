@@ -1,17 +1,11 @@
-From Sunday Jan 9th through Tuesday Jan 18th all normal station
-operations will cease while Studio A and the Front Hallway are
-refurbished.  The plan is to work from 9 am to 10 pm each day until
-project is completed (times may change to match staging delays of
-materials)
+From Sunday Jan 9th through Tuesday Jan 18th all normal station operations will cease while Studio A and the Front Hallway are refurbished.  The plan is to work from 9 am to 10 pm each day until project is completed (times may change to match staging delays of materials)
 
-Schedule of work is as follows; unless otherwise noted all times are
-approximate and pipeline dependent:
+Schedule of work is as follows; unless otherwise noted all times are approximate and pipeline dependent:
 
 Sunday 1/9 - Clear Studio A and Hallway
 
 -   ~~8am Rivendell Handoff~~
--   ~~9am Remove studio A doors, disassemble interior doorway, & stage
-    vinyl library~~
+-   ~~9am Remove studio A doors, disassemble interior doorway, & stage vinyl library~~
 -   10am Volunteer day starts
     1.  ~~Finish urethaning~~
     2.  ~~move hallway vinyl to vinyl library~~
@@ -25,8 +19,7 @@ Sunday 1/9 - Clear Studio A and Hallway
 
  
 
-Monday 1/10 - Begin to rebuild (patching and painting tool loans
-appreciated)
+Monday 1/10 - Begin to rebuild (patching and painting tool loans appreciated)
 
 Morning
 

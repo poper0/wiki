@@ -1,6 +1,6 @@
 For SAPDU1, you can manipulate outlets with the following schema:
 
-Telnet 
+Telnet
 ------
 
     <?php
@@ -46,11 +46,9 @@ cURL
 
 **OPERATIONs**: 2-ON, 4-OFF, 6-Reboot
 
-**OUTLET** should be the outlet number plus one (so outlet 8 is
-9...don't ask why...)
+**OUTLET** should be the outlet number plus one (so outlet 8 is 9...don't ask why...)
 
-And yes, you have to download the rPDUoconf.htm page or else it rejects
-the final confirmation command.
+And yes, you have to download the rPDUoconf.htm page or else it rejects the final confirmation command.
 
 The final command allows you to view the status of all the outlets.
 

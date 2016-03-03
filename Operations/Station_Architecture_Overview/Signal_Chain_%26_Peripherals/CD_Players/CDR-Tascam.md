@@ -1,12 +1,10 @@
-DEPRECATED: THIS SPEC WAS WRITTEN USING OUTDATED INFORMATION ON THE AXIA
-PROFILES AND MUST BE REVISED.  FURTHERMORE IT HAS NEVER BEEN CONFIRMED
-THAT THE CD-RW901SL IS COMPATIBLE WITH THE AXIA GPIO SYSTEM.
+DEPRECATED: THIS SPEC WAS WRITTEN USING OUTDATED INFORMATION ON THE AXIA PROFILES AND MUST BE REVISED.  FURTHERMORE IT HAS NEVER BEEN CONFIRMED THAT THE CD-RW901SL IS COMPATIBLE WITH THE AXIA GPIO SYSTEM.
 
 This is the GPIO specification for the Tascam CD-RW901SL CD Recorders
 
 Axia GPIO Profile: Recording Device
 
-#### Pin Mapping 
+#### Pin Mapping
 
 **Wire Color**
 
@@ -102,13 +100,12 @@ STOP Indicator
 
 READY TALLY OUT
 
-#### Axia Side Loop Connections 
+#### Axia Side Loop Connections
 
-  ------------ ----------------- ------------ -----------------
-  **Pin \#**   **Description**   **Pin \#**   **Description**
-  7            Source Common     8            GND Source
-  10           Input Common      9            +5V
-  ------------ ----------------- ------------ -----------------
+||
+|**Pin \#**|**Description**|**Pin \#**|**Description**|
+|7|Source Common|8|GND Source|
+|10|Input Common|9|+5V|
 
 1.  1. [Pin Mapping](#Pin_Mapping)
 2.  2. [Axia Side Loop Connections](#Axia_Side_Loop_Connections)

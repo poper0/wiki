@@ -1,10 +1,8 @@
 A few tips on computer setup:
 
-Configure the network interface: call it WMFO LAN and set a static IP
-address to match the current schema and avoid conflicts.
+Configure the network interface: call it WMFO LAN and set a static IP address to match the current schema and avoid conflicts.
 
-If you're using a headless host (server without network-manager) use the
-following /etc/network/interfaces:
+If you're using a headless host (server without network-manager) use the following /etc/network/interfaces:
 
     # The primary network interface
     auto eth0
@@ -27,9 +25,7 @@ Disable the avahi service daemon to enable .local domain resolution
 -   ssh-keygen -t rsa -C "carlos"
 -   ssh-copy-id duke (repeat for super, smooth, adele, etc)
 -   mkdir \~/src (for keeping all your source files for things)
--   git clone
-    [https://github.com/WMFO/rivendell.git](https://github.com/WMFO/rivendell.git "https://github.com/WMFO/rivendell.git")
-    (into your \~/src)
+-   git clone [https://github.com/WMFO/rivendell.git](https://github.com/WMFO/rivendell.git "https://github.com/WMFO/rivendell.git") (into your \~/src)
 
  
 

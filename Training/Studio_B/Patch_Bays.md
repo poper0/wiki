@@ -1,20 +1,11 @@
-Studio B Patch Bays 
+Studio B Patch Bays
 -------------------
 
-These are the 1/4" TS patch bays in the rack above the counter in Studio
-B. This table is done from an engineer's perspective. Where appropriate
-LiveWire sources and destinations are from
-[SBA1](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/Axia_Normal_Tables/SBA1 "SBA1").
+These are the 1/4" TS patch bays in the rack above the counter in Studio B. This table is done from an engineer's perspective. Where appropriate LiveWire sources and destinations are from [SBA1](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/Axia_Normal_Tables/SBA1 "SBA1").
 
-The panels are half-normaled, so audio flows from the output (above) to
-the input below it unless something it patched into the input, even
-something is patched into the output.
+The panels are half-normaled, so audio flows from the output (above) to the input below it unless something it patched into the input, even something is patched into the output.
 
-The insert bays (top two) use unbalanced (TS) cables. Inserts are used
-to divert audio through a compressor, limiter, EQ, or other processing
-device and then return it to the fader. The patch bays (bottom two) use
-balanced (TRS) cables. Patches are used to route audio from one device
-to another in the signal chain.
+The insert bays (top two) use unbalanced (TS) cables. Inserts are used to divert audio through a compressor, limiter, EQ, or other processing device and then return it to the fader. The patch bays (bottom two) use balanced (TRS) cables. Patches are used to route audio from one device to another in the signal chain.
 
 The format is:
 
@@ -24,7 +15,7 @@ The format is:
 -   Input explanation
 -   Input label
 
-### Insert 1 
+### Insert 1
 
 OT1
 
@@ -184,7 +175,7 @@ IN L
 
 IN R
 
-### Insert 2 
+### Insert 2
 
 OT17
 
@@ -364,7 +355,7 @@ EQ2IN
 
 -
 
-### Patch 1 
+### Patch 1
 
 G1
 
@@ -540,14 +531,9 @@ ST4L
 
 ST4R
 
-### Patch 2 
+### Patch 2
 
-This patch bay contains input from the Livewire network (Axia) on the
-left, which can be changed as
-[SBA1](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/Axia_Normal_Tables/SBA1 "SBA1")'s
-destinations. The explanations refer to the standard setup. Patch
-outputs correspond to LiveWire sources; patch inputs correspond to
-LiveWire destinations.
+This patch bay contains input from the Livewire network (Axia) on the left, which can be changed as [SBA1](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/Axia_Normal_Tables/SBA1 "SBA1")'s destinations. The explanations refer to the standard setup. Patch outputs correspond to LiveWire sources; patch inputs correspond to LiveWire destinations.
 
 A1L
 
@@ -735,8 +721,7 @@ DUAL1
 
 DUAL2
 
-\*LiveWire source 12000, which is routed to the Dee monitors. The other
-LiveWire sources are not typically used [citation needed].
+\*LiveWire source 12000, which is routed to the Dee monitors. The other LiveWire sources are not typically used [citation needed].
 
 1.  1. [Studio B Patch Bays](#Studio_B_Patch_Bays)
     1.  1.1. [Insert 1](#Insert_1)

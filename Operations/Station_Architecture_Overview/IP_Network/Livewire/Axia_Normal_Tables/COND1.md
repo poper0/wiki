@@ -1,18 +1,12 @@
-Control Room Digital Node 1 
+Control Room Digital Node 1
 ---------------------------
 
-**Credential Level:** Operations\
- **[IP
-Address](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/IP_Address_Space "IP Address Space"):**
-192.168.0.110
+**Credential Level:** Operations
+ **[IP Address](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/IP_Address_Space "IP Address Space"):** 192.168.0.110
 
-See [Axia Normal
-Tables](/Operations/Diagrams_%26_Tables/Axia_Normal_Tables "Operations/Diagrams_%26_Tables/Axia_Normal_Tables") page
-and [Diagrams &
-Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables "Diagrams & Tables")
-page for keys and abbreviation information.
+See [Axia Normal Tables](/Operations/Diagrams_%26_Tables/Axia_Normal_Tables "Operations/Diagrams_%26_Tables/Axia_Normal_Tables") page and [Diagrams & Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables "Diagrams & Tables") page for keys and abbreviation information.
 
-### Sources: 
+### Sources:
 
 **Port**
 
@@ -192,19 +186,18 @@ A
 
 BB - EAS - O
 
-### Destinations: 
+### Destinations:
 
-  ---------- ---------------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ----------------- ------------------- ---------------------
-  **Port**   **Name**         [**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")   **Type**   **Gain**   **Direct Wire**   **Direct Device**   **Terminal Device**
-  1          SA - CDR1 - In   10500                                                                                                                     FS         0.0        -                 CONSHP 7            SA - CDR1 - I
-  2          -                0                                                                                                                         FS         0.0        -                 -                   -
-  3          -                0                                                                                                                         FS         0.0        -                 -                   -
-  4          -                0                                                                                                                         FS         0.0        -                 -                   -
-  5          -                0                                                                                                                         FS         0.0        -                 -                   -
-  6          -                0                                                                                                                         FS         0.0        -                 -                   -
-  7          -                0                                                                                                                         FS         0.0        -                 -                   -
-  8          EAS Input        10500                                                                                                                     FS         0.0        77                -                   BB - EAS - I
-  ---------- ---------------- ------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ----------------- ------------------- ---------------------
+||
+|**Port**|**Name**|[**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")|**Type**|**Gain**|**Direct Wire**|**Direct Device**|**Terminal Device**|
+|1|SA - CDR1 - In|10500|FS|0.0|-|CONSHP 7|SA - CDR1 - I|
+|2|-|0|FS|0.0|-|-|-|
+|3|-|0|FS|0.0|-|-|-|
+|4|-|0|FS|0.0|-|-|-|
+|5|-|0|FS|0.0|-|-|-|
+|6|-|0|FS|0.0|-|-|-|
+|7|-|0|FS|0.0|-|-|-|
+|8|EAS Input|10500|FS|0.0|77|-|BB - EAS - I|
 
 1.  1. [Control Room Digital Node 1](#Control_Room_Digital_Node_1)
     1.  1.1. [Sources:](#Sources:)

@@ -4,7 +4,7 @@
 
  
 
-### Freeform Magazine 
+### Freeform Magazine
 
 [![Freeform1992.jpeg](https://wiki.wmfo.org/@api/deki/files/244/=Freeform1992.jpeg?size=webview)](https://wiki.wmfo.org/@api/deki/files/244/=Freeform1992.jpeg "Freeform1992.jpeg")[![FreeformMay1990.jpeg](https://wiki.wmfo.org/@api/deki/files/247/=FreeformMay1990.jpeg?size=webview)](https://wiki.wmfo.org/@api/deki/files/247/=FreeformMay1990.jpeg "FreeformMay1990.jpeg")[![FreeformNov1990.jpeg](https://wiki.wmfo.org/@api/deki/files/246/=FreeformNov1990.jpeg?size=webview)](https://wiki.wmfo.org/@api/deki/files/246/=FreeformNov1990.jpeg "FreeformNov1990.jpeg")
 

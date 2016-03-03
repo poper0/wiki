@@ -1,15 +1,15 @@
-Functionality 
+Functionality
 -------------
 
-### Rivendell 
+### Rivendell
 
 This hosts Rivendell.
 
-### Websites 
+### Websites
 
-### Webstream 
+### Webstream
 
-### Backup Scripts 
+### Backup Scripts
 
 1.  1. [Functionality](#Functionality)
     1.  1.1. [Rivendell](#Rivendell)

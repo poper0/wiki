@@ -1,4 +1,4 @@
-AC Electrical Service 
+AC Electrical Service
 ---------------------
 
 Hall Panel Breakers:
@@ -15,7 +15,7 @@ Hall Panel Breakers:
 
 11 - All other outlets in Studio A, Control outlet below Studio A window
 
-13 - GM desk outlet and MD outlet\
+13 - GM desk outlet and MD outlet
 
 15 - Studio C outlets off hall
 
@@ -47,7 +47,7 @@ Unknown:
 
 -   Annex AC Unit (side outlet) might be from downstairs panel
 
-Air Conditioners 
+Air Conditioners
 ----------------
 
 1.  Control: 5K BTU GE unit \~5 Amps

@@ -1,9 +1,9 @@
-Mandatory 
+Mandatory
 ---------
 
 -   [Spinitron](https://wiki.wmfo.org/Staff_Info/Staff_Services/Spinitron "Staff Info/Staff Services/Spinitron")
 
-Optional 
+Optional
 --------
 
 -   twitter

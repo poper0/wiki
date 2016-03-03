@@ -1,41 +1,30 @@
-Studio C Shielded Patch Panel 
+Studio C Shielded Patch Panel
 -----------------------------
 
-This is a Studio Hub+ Hub16 Patch Panel
-([manual](/@api/deki/files/422/=HUB16-DC.pdf "/@api/deki/files/422/=HUB16-DC.pdf"))
-installed in the Studio C cabinet.\
- It utilizes a Studio Hub+ External Universal Power Supply (PS-EXTU) for
-+/- 15VDC, Power Grounding, and Shield Grounding.
+This is a Studio Hub+ Hub16 Patch Panel ([manual](/@api/deki/files/422/=HUB16-DC.pdf "/@api/deki/files/422/=HUB16-DC.pdf")) installed in the Studio C cabinet.
+ It utilizes a Studio Hub+ External Universal Power Supply (PS-EXTU) for +/- 15VDC, Power Grounding, and Shield Grounding.
 
-### Note: 
+### Note:
 
-The Axia PowerStation Main and Aux units have ports that are designed to
-provide power for hardware yet to be released.  The power specification
-on these ports is incompatible with Studio Hub+ power specification.
- These ports can not have pins 7 and 8 connected to a powered Studio
-Hub+ device.  To protect these ports we have connected all of them to
-this panel without the white brown and brown wires (pins 7 & 8) punched
-down to the terminal blocks.  If these cables are ever replaced, the
-replacement cables must not connect pins 7 & 8 to the PowerStation.
+The Axia PowerStation Main and Aux units have ports that are designed to provide power for hardware yet to be released.  The power specification on these ports is incompatible with Studio Hub+ power specification.  These ports can not have pins 7 and 8 connected to a powered Studio Hub+ device.  To protect these ports we have connected all of them to this panel without the white brown and brown wires (pins 7 & 8) punched down to the terminal blocks.  If these cables are ever replaced, the replacement cables must not connect pins 7 & 8 to the PowerStation.
 
-#### Jumper Key 
+#### Jumper Key
 
-JU1 - +15VDC Connect (per channel)\
- JU2 - -15VDC Connect (per channel)\
- JU3 - Shield to Common Chassis Connect (per channel)\
- JU4 - Shield to Common Shield Bus/Power Supply Shield Connect (per
-channel)\
- JU33 - Chassis to Shield Bus Connect (per 8 block)\
+JU1 - +15VDC Connect (per channel)
+ JU2 - -15VDC Connect (per channel)
+ JU3 - Shield to Common Chassis Connect (per channel)
+ JU4 - Shield to Common Shield Bus/Power Supply Shield Connect (per channel)
+ JU33 - Chassis to Shield Bus Connect (per 8 block)
  JU34 - Common Power Ground Bus Connect (per channel)
 
 X - Jumper Connected
 
-#### JU33 Status 
+#### JU33 Status
 
-Block 1 (top) - Connected\
+Block 1 (top) - Connected
  Block 2 (bottom) - Connected
 
-### Routing Table 
+### Routing Table
 
 **Channel**
 

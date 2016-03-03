@@ -1,4 +1,4 @@
-Control Room Shielded Patch Bay 
+Control Room Shielded Patch Bay
 -------------------------------
 
 This is the shielded Cat5E patch bay.
@@ -401,6 +401,5 @@ NC
 
 -
 
-1.  1. [Control Room Shielded Patch
-    Bay](#Control_Room_Shielded_Patch_Bay)
+1.  1. [Control Room Shielded Patch Bay](#Control_Room_Shielded_Patch_Bay)
 

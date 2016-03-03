@@ -1,14 +1,11 @@
-Studio C Wall Jack 
+Studio C Wall Jack
 ------------------
 
-This is the modular wall jack installed under the countertop in Studio
-C.
+This is the modular wall jack installed under the countertop in Studio C.
 
-Ports are located x,y (ie 1,1 is the top-leftmost port and 4,3 is the
-bottom-rightmost port) but are grouped by type.
+Ports are located x,y (ie 1,1 is the top-leftmost port and 4,3 is the bottom-rightmost port) but are grouped by type.
 
-Note: there is no pull line. The speaker lines are not connected on the
-hardwired side.
+Note: there is no pull line. The speaker lines are not connected on the hardwired side.
 
 **Port**
 
@@ -180,7 +177,7 @@ BANANA
 
 Alesis - L
 
-ART-SLA 1\
+ART-SLA 1
  Channel 1
 
 Clear
@@ -211,7 +208,7 @@ BANANA
 
 Alesis - R
 
-ART-SLA 1\
+ART-SLA 1
  Channel 2
 
 White

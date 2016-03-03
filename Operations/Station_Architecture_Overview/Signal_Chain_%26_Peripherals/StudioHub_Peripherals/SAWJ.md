@@ -1,11 +1,9 @@
-Studio A Wall Jack 
+Studio A Wall Jack
 ------------------
 
-This is the modular wall jack installed in the computer bay of the
-Studio A cabinetry.
+This is the modular wall jack installed in the computer bay of the Studio A cabinetry.
 
-Ports are located x,y (ie 1,1 is the top-leftmost port and 3,2 is the
-bottom-rightmost port)
+Ports are located x,y (ie 1,1 is the top-leftmost port and 3,2 is the bottom-rightmost port)
 
 **Port**
 

@@ -1,11 +1,9 @@
-Studio B Wall Jack 2 
+Studio B Wall Jack 2
 --------------------
 
-This is the modular wall jack installed in the wall above the main
-counter and behind the rack in Studio B.
+This is the modular wall jack installed in the wall above the main counter and behind the rack in Studio B.
 
-Ports are located x,y (ie 1,1 is the top-leftmost port and 3,2 is the
-bottom-rightmost port)
+Ports are located x,y (ie 1,1 is the top-leftmost port and 3,2 is the bottom-rightmost port)
 
 **Port**
 

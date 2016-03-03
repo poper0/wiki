@@ -1,15 +1,14 @@
-This page contains the routing/normalization of the patch bays, panels,
-and wall jacks across the station.
+This page contains the routing/normalization of the patch bays, panels, and wall jacks across the station.
 
-#### General Legend 
+#### General Legend
 
-HP - Headphone\
- MJ - Studio Hub+ Match Jack\
- TT - Turntable\
- L - Local Wire per wire labeling defined in SA cabinet\
+HP - Headphone
+ MJ - Studio Hub+ Match Jack
+ TT - Turntable
+ L - Local Wire per wire labeling defined in SA cabinet
  C - Control Room Wire per wire label defined in SA cabinet
 
-#### Contents 
+#### Contents
 
 -   [CONP1](https://wiki.wmfo.org/index.php?title=Operations/Station_Architecture_Overview/Signal_Chain_%26_Peripherals/StudioHub_Peripherals/CONP1 "Operations/Station_Architecture_Overview/Signal_Chain_&_Peripherals/StudioHub_Peripherals/CONP1")
 -   [CONP2](https://wiki.wmfo.org/index.php?title=Operations/Station_Architecture_Overview/Signal_Chain_%26_Peripherals/StudioHub_Peripherals/CONP2 "Operations/Station_Architecture_Overview/Signal_Chain_&_Peripherals/StudioHub_Peripherals/CONP2")
