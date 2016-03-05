@@ -76,8 +76,9 @@ Previous GMs
 
  
 
-||
-|**Name**|**Years**|**Notes**|
+
+| Name | Years | Notes |
+|------|-------|-------|
 |Parker MacLure|2014-2015| |
 |Graham Starr|2013 - 2014| |
 |Jameelah Morris|2012 - 2013| |
