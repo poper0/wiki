@@ -113,5 +113,7 @@ Previous Tycoons
 2.  2. [Previous Tycoons](#Previous_Tycoons)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./New_Media_Office)
+
 ![mattD.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./New_Media_Office/mattD.jpg)
+
 ![IMG_0195_2.JPG](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./New_Media_Office/IMG_0195_2.JPG)

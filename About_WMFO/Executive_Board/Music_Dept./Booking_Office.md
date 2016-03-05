@@ -81,5 +81,7 @@ Previous Coordinator
 3.  3. [Previous Coordinator](#Previous_Coordinator)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Booking_Office)
+
 ![piccc.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Booking_Office/piccc.jpg)
+
 ![321194_2508384744347_2134490860_n.jpeg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Booking_Office/321194_2508384744347_2134490860_n.jpeg)

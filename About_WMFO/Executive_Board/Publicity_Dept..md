@@ -235,5 +235,7 @@ Previous Directors
 2.  2. [Previous Directors](#Previous_Directors)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept.)
+
 ![alyce.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./alyce.jpg)
+
 ![mical.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./mical.jpg)

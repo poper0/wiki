@@ -126,6 +126,9 @@ Previous Coordinators
 3.  3. [Previous Coordinators](#Previous_Coordinators)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Program_Dept./Training_Office)
+
 ![DSC00127.JPG](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Program_Dept./Training_Office/DSC00127.JPG)
+
 ![419275_10150736343067193_479356770_n.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Program_Dept./Training_Office/419275_10150736343067193_479356770_n.jpg)
+
 ![garrett.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Program_Dept./Training_Office/garrett.jpg)

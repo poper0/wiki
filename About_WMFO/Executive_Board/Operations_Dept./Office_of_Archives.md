@@ -77,7 +77,11 @@ Previous Archivists
 2.  2. [Previous Archivists](#Previous_Archivists)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Office_of_Archives)
+
 ![wmfopic.png](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Office_of_Archives/wmfopic.png)
+
 ![gavin_matthews_2010.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Office_of_Archives/gavin_matthews_2010.jpg)
+
 ![alex_most_2012.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Office_of_Archives/alex_most_2012.jpg)
+
 ![laura_rathsmill_2011.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Office_of_Archives/laura_rathsmill_2011.jpg)

@@ -22,4 +22,5 @@ Red: First 25% of Showtimes Assigned (Highest Demand)
 2.  2. [Graphic](#Graphic)
 
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Scheduling)
+
 ![AssignmentOrder.png](https://wiki-files.wmfo.org/Staff_Info/Scheduling/AssignmentOrder.png)

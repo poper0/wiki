@@ -52,4 +52,5 @@ Previous Holders
 2.  2. [Previous Holders](#Previous_Holders)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Station_Mascot)
+
 ![solo.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Station_Mascot/solo.jpg)

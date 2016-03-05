@@ -4,4 +4,5 @@ Link to station info: [http://transition.fcc.gov/fcc-bin/fmq?list=0&facid=68320
 
 *No headers*
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Public_File/Authorizations)
+
 ![1985_License.png](https://wiki-files.wmfo.org/About_WMFO/Public_File/Authorizations/1985_License.png)
