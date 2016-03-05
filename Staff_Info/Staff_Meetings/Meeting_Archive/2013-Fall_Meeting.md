@@ -9,3 +9,4 @@ Scheduling will take place on Tuesday, September 10th, from 9 p.m. to midnight
 The existing summer schedule will end on Saturday, September 14th at 11:59 p.m., and the new fall schedule will begin on Sunday, September 15th at 12:01 a.m.
 
 *No headers*
+[Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2013-Fall_Meeting)

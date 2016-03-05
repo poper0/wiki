@@ -17,3 +17,4 @@ Inner letter-to-nonalphabetic substitutions (e.g. cover f\*\*k or p\*\*\*y)
 Cover the original spelling variations, and randomly inserted or repeated characters (e.g. fuk, fuck, fuuuuck, fu--c032k)
 
 *No headers*
+[Page Attachments](https://wiki-files.wmfo.org/Operations/Station_Architecture_Overview/Code/Automatic_CD_Import_System/Profanity-Detecting_Regex)

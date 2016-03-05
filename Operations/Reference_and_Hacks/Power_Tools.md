@@ -86,3 +86,4 @@ The Ryobi tools are older than the Ridgids and are in poor condition. They are s
 1.  1. [Ridgid](#Ridgid)
 2.  2. [Ryobi](#Ryobi)
 
+[Page Attachments](https://wiki-files.wmfo.org/Operations/Reference_and_Hacks/Power_Tools)

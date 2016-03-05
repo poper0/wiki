@@ -8,3 +8,4 @@ Contents
 
 1.  1. [Contents](#Contents)
 
+[Page Attachments](https://wiki-files.wmfo.org/Operations/Regulatory)

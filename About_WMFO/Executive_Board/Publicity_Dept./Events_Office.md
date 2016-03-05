@@ -105,3 +105,4 @@ Previous Coordinators
 1.  1. [Coordinator](#Coordinator)
 2.  2. [Previous Coordinators](#Previous_Coordinators)
 
+[Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./Events_Office)

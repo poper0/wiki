@@ -13,3 +13,4 @@ On a more recent level, there has been a reccuring (3 times) issue with archives
 
 1.  1. [Fixing archives not streaming](#Fixing_archives_not_streaming)
 
+[Page Attachments](https://wiki-files.wmfo.org/Operations/Historical/Archive_%26_Streaming_%28old%29)

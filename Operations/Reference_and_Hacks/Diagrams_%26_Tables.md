@@ -16,3 +16,4 @@ AN - Annex
 1.  1. [Location Codes](#Location_Codes)
 2.  2. [Contents](#Contents)
 
+[Page Attachments](https://wiki-files.wmfo.org/Operations/Reference_and_Hacks/Diagrams_%26_Tables)

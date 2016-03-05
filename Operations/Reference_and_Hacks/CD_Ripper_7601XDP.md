@@ -98,3 +98,4 @@ Previous issues with this unit include:
     2.  3.2. [Documented Issues](#Documented_Issues)
 
 
+[Page Attachments](https://wiki-files.wmfo.org/Operations/Reference_and_Hacks/CD_Ripper_7601XDP)

@@ -112,3 +112,4 @@ Previous Tycoons
 1.  1. [Tycoon](#Tycoon)
 2.  2. [Previous Tycoons](#Previous_Tycoons)
 
+[Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./New_Media_Office)

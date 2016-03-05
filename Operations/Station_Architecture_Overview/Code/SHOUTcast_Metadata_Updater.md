@@ -23,3 +23,4 @@ Started by watchdog.sh on ThinWhiteDuke.
 
 1.  1. [Automatic Startup](#Automatic_Startup)
 
+[Page Attachments](https://wiki-files.wmfo.org/Operations/Station_Architecture_Overview/Code/SHOUTcast_Metadata_Updater)

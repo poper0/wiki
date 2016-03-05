@@ -51,3 +51,4 @@ Previous Holders
 1.  1. [Station Mascot](#Station_Mascot)
 2.  2. [Previous Holders](#Previous_Holders)
 
+[Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Station_Mascot)

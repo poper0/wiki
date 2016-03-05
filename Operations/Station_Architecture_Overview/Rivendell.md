@@ -591,3 +591,4 @@ and enter the password if logged in remotely as wmfo-admin.
     2.  3.2. [Restart Rivendell Remotely](#Restart_Rivendell_Remotely)
 
 
+[Page Attachments](https://wiki-files.wmfo.org/Operations/Station_Architecture_Overview/Rivendell)

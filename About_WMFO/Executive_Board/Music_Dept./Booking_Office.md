@@ -80,3 +80,4 @@ Previous Coordinator
 2.  2. [](#)
 3.  3. [Previous Coordinator](#Previous_Coordinator)
 
+[Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Booking_Office)
