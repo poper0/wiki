@@ -154,3 +154,8 @@ Previous AGMs
 2.  2. [Previous AGMs](#Previous_AGMs)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/GM%27s_Office/Asst._GM%27s_Office)
+![GavinBeef.png](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/GM%27s_Office/Asst._GM%27s_Office/GavinBeef.png)
+![chase.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/GM%27s_Office/Asst._GM%27s_Office/chase.jpg)
+![1170787_10152447346990016_945724697_n.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/GM%27s_Office/Asst._GM%27s_Office/1170787_10152447346990016_945724697_n.jpg)
+![10551701_10204721148890095_1374049659404474452_o.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/GM%27s_Office/Asst._GM%27s_Office/10551701_10204721148890095_1374049659404474452_o.jpg)
+![alex.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/GM%27s_Office/Asst._GM%27s_Office/alex.jpg)

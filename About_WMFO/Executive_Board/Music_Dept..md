@@ -180,3 +180,7 @@ Previous Directors
 2.  2. [Previous Directors](#Previous_Directors)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept.)
+![10339454_10202331112784007_1465612706663486059_o.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./10339454_10202331112784007_1465612706663486059_o.jpg)
+![394173_10151375600117307_1309327532_n.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./394173_10151375600117307_1309327532_n.jpg)
+![YOLO.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./YOLO.jpg)
+![jonathan.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./jonathan.jpg)

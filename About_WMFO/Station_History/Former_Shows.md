@@ -24,3 +24,6 @@ WMFO prides itself on a freeform schedule, giving its volunteer DJs complete cho
 3.  3. [Worlds of Music](#Worlds_of_Music)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Station_History/Former_Shows)
+![1974schedule.JPG](https://wiki-files.wmfo.org/About_WMFO/Station_History/Former_Shows/1974schedule.JPG)
+![WMFO79paper.jpg](https://wiki-files.wmfo.org/About_WMFO/Station_History/Former_Shows/WMFO79paper.jpg)
+![1991Springschedule.JPG](https://wiki-files.wmfo.org/About_WMFO/Station_History/Former_Shows/1991Springschedule.JPG)

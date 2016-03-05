@@ -108,3 +108,4 @@ Previous GMs
 2.  2. [Previous GMs](#Previous_GMs)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/GM%27s_Office)
+![IMG_8377.JPG](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/GM%27s_Office/IMG_8377.JPG)

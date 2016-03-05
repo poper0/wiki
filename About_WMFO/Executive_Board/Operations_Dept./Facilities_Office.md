@@ -75,3 +75,7 @@ Previous Directors
 2.  2. [Previous Directors](#Previous_Directors)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Facilities_Office)
+![max_drill.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Facilities_Office/max_drill.jpg)
+![Kevin.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Facilities_Office/Kevin.jpg)
+![connorwmfo.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Facilities_Office/connorwmfo.jpg)
+![jesse.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Operations_Dept./Facilities_Office/jesse.jpg)

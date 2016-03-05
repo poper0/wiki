@@ -302,3 +302,4 @@ The L/R main outputs are what go to the Studio A board. You can hear what the DJ
 
 
 [Page Attachments](https://wiki-files.wmfo.org/Training/Studio_B/Allen_%26_Heath)
+![Allen&Heath.JPG](https://wiki-files.wmfo.org/Training/Studio_B/Allen_%26_Heath/Allen&Heath.JPG)

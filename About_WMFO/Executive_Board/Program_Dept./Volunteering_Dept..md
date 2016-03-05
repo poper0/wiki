@@ -92,3 +92,5 @@ Previous Directors
 2.  2. [Previous Directors](#Previous_Directors)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Program_Dept./Volunteering_Dept.)
+![221287_10151224531268760_178917888_o.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Program_Dept./Volunteering_Dept./221287_10151224531268760_178917888_o.jpg)
+![michelle_wmfo.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Program_Dept./Volunteering_Dept./michelle_wmfo.jpg)

@@ -77,3 +77,6 @@ Previous Coordinators
 2.  2. [Previous Coordinators](#Previous_Coordinators)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Tickets_Office)
+![3dfd2ede-db91-4ad3-8097-a594e91d3113.png](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Tickets_Office/3dfd2ede-db91-4ad3-8097-a594e91d3113.png)
+![andrew.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Tickets_Office/andrew.jpg)
+![ben.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Tickets_Office/ben.jpg)

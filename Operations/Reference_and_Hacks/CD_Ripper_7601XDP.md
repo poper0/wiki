@@ -99,3 +99,5 @@ Previous issues with this unit include:
 
 
 [Page Attachments](https://wiki-files.wmfo.org/Operations/Reference_and_Hacks/CD_Ripper_7601XDP)
+![LoadingJam1.jpg](https://wiki-files.wmfo.org/Operations/Reference_and_Hacks/CD_Ripper_7601XDP/LoadingJam1.jpg)
+![LoadingJam2.jpg](https://wiki-files.wmfo.org/Operations/Reference_and_Hacks/CD_Ripper_7601XDP/LoadingJam2.jpg)

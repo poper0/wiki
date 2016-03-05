@@ -106,3 +106,5 @@ Previous Coordinators
 2.  2. [Previous Coordinators](#Previous_Coordinators)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./Events_Office)
+![3541692_300.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./Events_Office/3541692_300.jpg)
+![Sawyer.jpg](https://wiki-files.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./Events_Office/Sawyer.jpg)
