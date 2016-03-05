@@ -42,4 +42,4 @@ This power up order should make sure LiveWire & Rivendell come up without hassle
 
 The entire shutdown sequence takes around ~~20~~ minutes (45 if the Windows machine updates take forever). Start 1 hour before outage and don't have people planning on DJing until  :45-1 hour after. You may wish to fetch a hard copy of important wiki pages because the wiki will be down. You may want to grab a flashlight from tech. Expect not to get into any card access door while the power is out, as the card reader battery backup dies quickly. Log that we're off-air to Spinitron and the [station log](https://wiki.wmfo.org/Operations/Regulatory/Station_Log "Station Log") afterwards. Best practice is to lock Studios A and C while they are offline (the "technologically confident" DJs will begin to throw switches haphazardly).
 
-*No headers*
+*

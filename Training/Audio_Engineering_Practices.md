@@ -16,4 +16,4 @@ Resources
 
 [Report Hours](https://spreadsheets.google.com/a/wmfo.org/viewform?hl=en&formkey=dHhsaHpqa01WZi14U2VyNWdKdUFfVlE6MQ#gid=0 "https://spreadsheets.google.com/a/wmfo.org/viewform?hl=en&formkey=dHhsaHpqa01WZi14U2VyNWdKdUFfVlE6MQ#gid=0") : Report any hours here for work you do recording - for paid jobs only.
 
-*No headers*
+*

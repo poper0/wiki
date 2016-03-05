@@ -8,4 +8,4 @@ To change the side banner on wmfo.org follow these steps:
 4.  Upload rightbar.php back up to the site, overwriting the old version.
 5.  Test and make sure it works.
 
-*No headers*
+*

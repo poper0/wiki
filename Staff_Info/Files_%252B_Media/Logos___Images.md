@@ -2,7 +2,7 @@ This page contins various WMFO loges used over the years. Permission for use of 
 
 The 2013 logo uses typefaces Alba Super and BlairMdlTC TT.
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Files_%252B_Media/Logos___Images)
 
 ![WMFO-logo-2012-small.png](https://wiki-files.wmfo.org/Staff_Info/Files_%252B_Media/Logos___Images/WMFO-logo-2012-small.png)

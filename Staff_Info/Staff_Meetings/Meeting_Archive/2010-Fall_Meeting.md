@@ -7,5 +7,5 @@ Scheduling forms ([DJ Agreement](https://wiki.wmfo.org/@api/deki/files/76/=WMFO_
 **Meeting Video:**
  *(This may take a moment to start playing depending on the speed of you connection)*
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2010-Fall_Meeting)

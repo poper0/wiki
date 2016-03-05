@@ -12,4 +12,4 @@ At all times, the level of profanity, indecency, and explicit content shall be j
 
 The WMFO executive board and Programming Director will enforce this policy to the extent allowed in the constitution, including written warnings, suspensions, and mandatory retraining. All questions about this policy and potentially obscene material should be directed to the Program Director at [pd@wmfo.org](mailto:pd@wmfo.org "mailto:pd@wmfo.org").
 
-*No headers*
+*

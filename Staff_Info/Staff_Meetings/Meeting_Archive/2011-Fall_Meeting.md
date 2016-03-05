@@ -8,7 +8,7 @@ A copy of the graphic presented at the meeting can be found [here](https://wiki.
 
 The new schedule will go into effect at 12:01 AM on Monday, September 19th.
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2011-Fall_Meeting)
 
 ![visu2.png](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2011-Fall_Meeting/visu2.png)

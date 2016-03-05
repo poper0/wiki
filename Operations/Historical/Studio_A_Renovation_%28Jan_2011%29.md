@@ -90,4 +90,4 @@ Friday - Sunday - Move back in
 -   hang studio A inner door
 -   clean up the station
 
-*No headers*
+*

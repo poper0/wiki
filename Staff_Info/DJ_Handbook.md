@@ -8,5 +8,5 @@ Answering Phones: [http://www.youtube.com/watch?\<wbr\>v=HSbkJlxPFWU\</wbr\>](h
 
 Change Channels on the Board: [http://www.youtube.com/watch?\<wbr\>v=mMhFJGZyF28\</wbr\>](http://www.youtube.com/watch?v=mMhFJGZyF28 "http://www.youtube.com/watch?v=mMhFJGZyF28")
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/DJ_Handbook)

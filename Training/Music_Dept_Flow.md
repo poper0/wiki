@@ -9,4 +9,4 @@ For CDs that you suspect people are waiting for and may covet, try to rip them b
 
 [get list of office hours for MD and people who can pick up mail]
 
-*No headers*
+*

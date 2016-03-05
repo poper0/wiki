@@ -6,5 +6,5 @@ Scheduling forms ([DJ Agreement](/@api/deki/files/385/=WMFO_DJ_Agreement_Form_SP
 
 The new schedule will go into effect at 12:01 AM on Monday, January 30th.
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2012-Spring_Meeting)

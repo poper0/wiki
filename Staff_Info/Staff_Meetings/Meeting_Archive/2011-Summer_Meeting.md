@@ -6,5 +6,5 @@ Scheduling forms ([DJ Agreement](/@api/deki/files/340/=WMFO_DJ_Agreement_Form.pd
 
 The new sechedule will go into effect at 12:01 AM on Monday, May 16th.
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2011-Summer_Meeting)

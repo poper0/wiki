@@ -6,5 +6,5 @@ The 2011/2012 Executive Board has been elected. The [results](https://wiki.wmfo.
 
 Scheduling forms ([DJ Agreement](https://wiki.wmfo.org/@api/deki/files/233/=WMFO_DJ_Agreement_Form.pdf "WMFO DJ Agreement Form.pdf") & [Show Form](https://wiki.wmfo.org/@api/deki/files/234/=WMFO_Show_Scheduling_Form.pdf "WMFO Show Scheduling Form.pdf")) are also attached below and are due under the GM door by **noon on Wednesday, January 26th**.
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2011-Spring_Meeting)

@@ -3,4 +3,4 @@ WMFO prides itself in sponsoring a number of events each semester. For more info
 -   [Past Events](https://wiki.wmfo.org/About_WMFO/Events/Past_Events "About_WMFO/Events/Past_Events")
 -   [Upcoming Events](https://wiki.wmfo.org/About_WMFO/Events/Upcoming_Events "About_WMFO/Events/Upcoming_Events")
 
-*No headers*
+*

@@ -25,4 +25,4 @@ Guests
 -   Rivendell-test
 -   scriptbox - used to handle routine tasks, scripts, anything remotely bash-y or hack-y, for example automatically propogating SSH keys between all other hosts as one host is updated
 
-*No headers*
+*

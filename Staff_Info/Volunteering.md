@@ -8,4 +8,4 @@ If you are unable to attend a [scheduled WMFO volunteering session or event](ht
 
 For more information regarding these requirements, please contact the [Volunteer Coordinator](https://wiki.wmfo.org/About_WMFO/Executive_Board/Programming_Dept./Volunteering_Dept. "Volunteering Dept.") at [volunteer@wmfo.org](mailto:volunteer@wmfo.org "mailto:volunteer@wmfo.org").
 
-*No headers*
+*

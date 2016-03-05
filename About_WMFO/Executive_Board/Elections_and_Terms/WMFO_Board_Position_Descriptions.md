@@ -38,4 +38,4 @@ The **Select Board** is the operational and project-focused body of the WMFO Joi
 9.  The [**New Media Director**](https://wiki.wmfo.org/About_WMFO/Executive_Board/Publicity_Dept./New_Media_Office "New Media Office")'s main task is to maintain and update the Wordpress blog of the website, the WMFO Facebook page and WMFO Twitter account. They also have to coordinate the unruly mass of bloggers that submit posts to the blog on a not-very-regular basis. The New Media director reports to the Publicity Director.
 10. The [**Tickets Coordinator**](https://wiki.wmfo.org/About_WMFO/Executive_Board/Music_Dept./Tickets_Office "Tickets Office") acquires promotional tickets from various venues to be given away on air. The Tickets Coordinator reports to the Music Director
 
-*No headers*
+*

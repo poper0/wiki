@@ -6,4 +6,4 @@ This is a working document to log standard operating procedures for troubleshoot
 2.  Close all windows of browser then log back in (multiple sessions may exist)
 3.  Make sure you are logged in to correct account and logging to "Live on-air" playlist
 
-*No headers*
+*

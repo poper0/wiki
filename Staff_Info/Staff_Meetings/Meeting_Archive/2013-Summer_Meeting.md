@@ -6,7 +6,7 @@ Scheduling forms ([DJ Agreement](https://wiki.wmfo.org/@api/deki/files/486/=WMFO
 
 The old schedule will end at 11:59 p.m. on May 17th. The new schedule will go into effect at 12:01 a.m. on May 18th.
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2013-Summer_Meeting)
 
 ![WmfoSummer2013Meeting_Medium_17.jpg](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2013-Summer_Meeting/WmfoSummer2013Meeting_Medium_17.jpg)

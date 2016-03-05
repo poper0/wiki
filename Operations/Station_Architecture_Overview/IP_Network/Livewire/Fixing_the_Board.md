@@ -13,4 +13,4 @@ This is your crazed 3AM guide to getting WMFO back on the air after an unexpecte
 
 Do not power cycle the Furman because this takes down the analog node too, and one time the board did not like not having it. The Element power supply and Studio Enginer should be power cycled as a pair, but if you can get to the Element web page you may be able to reboot it gently. The rightmost 4 faders are a diferent style module than the others (in order to answer the phones) and for some reason they don't come up as cleanly as the others. Also, it appears that the Studio C board is more likely to come up cleanly after a power outage (it's newer and the hardware is in one place) so you can generally stick the DJ in there while you work. You can even do the changeover (step 1) [remotely](https://wiki.wmfo.org/Operations/Credentials/Remote_Access "Remote Access").
 
-*No headers*
+*

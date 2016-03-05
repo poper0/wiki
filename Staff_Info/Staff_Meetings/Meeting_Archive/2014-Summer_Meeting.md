@@ -14,7 +14,7 @@ The existing spring schedule will end on **May**** 18th at 11:59 p.m.**, and t
 
  
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2014-Summer_Meeting)
 
 ![WmfoSummer2014Meeting_Medium_23.jpg](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2014-Summer_Meeting/WmfoSummer2014Meeting_Medium_23.jpg)

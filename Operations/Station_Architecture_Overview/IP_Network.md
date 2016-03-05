@@ -8,4 +8,4 @@ We have three switches
 
 The Cisco switches are bridged by a run of Single Mode fiber between Curtis and Ballou to provide full gigabit. In addition, there are currently two 100mbps media converters that run individual devices in Ballou (the PDU is run separately to allow hard rebooting the switch without losing ability to control the PDU).
 
-*No headers*
+*

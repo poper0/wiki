@@ -66,4 +66,4 @@ Typical SSL config in an Apache 2 + openSSL setup virtualhost:
 
 Some threads on this: [wmfo-ops] thread called "Re: [wmfo-ops] Certificates" dated 3/14/12 and "[wmfo-ops] wiki permissions struggles" dated 11/27/12. (But ignore them, this page is correct. --Nick)
 
-*No headers*
+*

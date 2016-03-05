@@ -15,4 +15,4 @@ Thus, you can query the routing selecting. The query above will tell you whether
 
 This query will set Input 2 on the COND1 to Axia channel 10500.
 
-*No headers*
+*

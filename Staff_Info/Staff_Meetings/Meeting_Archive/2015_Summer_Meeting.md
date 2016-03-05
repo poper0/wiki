@@ -70,7 +70,7 @@ New Media    Helen Sibila
 
 Sandbox    Jamie Juviler
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2015_Summer_Meeting)
 
 ![WmfoSummer2015Meeting_Medium_14.jpg](https://wiki-files.wmfo.org/Staff_Info/Staff_Meetings/Meeting_Archive/2015_Summer_Meeting/WmfoSummer2015Meeting_Medium_14.jpg)

@@ -62,5 +62,5 @@ Based on this note Texp is out of a 6 minute period and therefore there is no da
 
 **Note: these calculations do not apply to anyone in direct contact with the antenna, tower, antenna feed, guy wires,  antenna grounding wire, or any other conductive materials connected to the antenna.  If contact with any such object is required or if any modifications or adjustments are to be made to any of these objects transmitter shut down is mandated.**
 
-*No headers*
+*
 [Page Attachments](https://wiki-files.wmfo.org/Operations/Regulatory/Radiation_Exposeure)

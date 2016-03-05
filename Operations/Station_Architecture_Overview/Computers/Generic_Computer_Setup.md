@@ -31,4 +31,4 @@ Disable the avahi service daemon to enable .local domain resolution
 
 Follow "For New Installs" on Rivendell.
 
-*No headers*
+*
