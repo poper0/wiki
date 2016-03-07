@@ -36,13 +36,13 @@ We're also looking into setting this up as a Github Pages site with Jekyll. Stay
 
 I'm sure you also came here to find the official final tally on the geeks who did the most editing on WMFO Wiki v1:
 
-```AndySayler (879 edits)
-MaxGoldstein (848 edits)
-nicholasandre (499 edits)
-JesseWeeks (351 edits)
-GavinMatthews (206 edits)
-RebeccaAlpert (139 edits)
-MarshallMoutenot (108 edits)
-Administrator (100 edits)
-LauraRathsmill (57 edits)
-BenYu (52 edits)```
++ [Andy Sayler](https://github.com/asayler) (879 edits)
++ [Max Goldstein](https://github.com/mgold) (848 edits)
++ [Nicholas Andre](https://github.com/nickandre) (499 edits)
++ Jesse Weeks (351 edits)
++ Gavin Matthews (206 edits)
++ [Rebecca Alpert](https://github.com/rebeccaalpert) (139 edits)
++ [Marshall Moutenot](https://github.com/mmoutenot) (108 edits)
++ [Administrator](https://github.com/wmfo-ops) (100 edits)
++ Laura Rathsmill (57 edits)
++ [Ben Yu](https://github.com/byu146) (52 edits)
