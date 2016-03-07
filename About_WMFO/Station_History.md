@@ -1,18 +1,5 @@
 Beginning broadcasts in January of 1970, WMFO sought to become a premier freeform, noncommercial, and publicly beneficial radio station. Continuing this tradition, 40 years of primary sources, manuals, photographs, flyers, tapes, and countless other pieces of media are stored at the station. The effort of the Office of Archives is to catalogue, digitize, and share this collection with the world at large. The Station History section houses the [Former Executive Board](https://wiki.wmfo.org/History/Station_History/Former_Executive_Board "History/Station History/Former Executive Board"), [Former Shows](https://wiki.wmfo.org/History/Station_History/Former_Shows "History/Station History/Former Shows"), and [Promotional Materials](https://wiki.wmfo.org/History/Station_History/Promotional_Materials "History/Station History/Promotional Materials").
 
-Contents
---------
-
-1.  1. [Contents](https://wiki.wmfo.org/About_WMFO/Station_History#Contents)
-    1.  1.1. [Early History](https://wiki.wmfo.org/About_WMFO/Station_History#Early_History)
-    2.  1.2. [Shutdown](https://wiki.wmfo.org/About_WMFO/Station_History#Shutdown)
-    3.  1.3. [Reincarnation as WTUR](https://wiki.wmfo.org/About_WMFO/Station_History#Reincarnation_as_WTUR)
-    4.  1.4. [Second Shutdown](https://wiki.wmfo.org/About_WMFO/Station_History#Second_Shutdown)
-    5.  1.5. [WMFO](https://wiki.wmfo.org/About_WMFO/Station_History#WMFO)
-    6.  1.6. [Fire](https://wiki.wmfo.org/About_WMFO/Station_History#Fire)
-
-2.  2. [References](https://wiki.wmfo.org/About_WMFO/Station_History#References)
-
 ### Early History
 
 WMFO's earlies iteration came as WTCR (Tufts Community Radio), an amateur radio station between 1956 and 1961. After becoming a campus-sponsored organization, WTCR operated out of Braker Hall. The station broadcast on AM bands, reaching the campus proper at peak power.<sup>[1](#endnote_1)</sup>
@@ -49,16 +36,6 @@ References
 [1. ↑](#ref_1) Tufts Digital Library - [http://dl.tufts.edu/view\_text.jsp?pi...chapter=W00022](http://dl.tufts.edu/view_text.jsp?pid=tufts:UA069.005.DO.00001&chapter=W00022 "http://dl.tufts.edu/view_text.jsp?pid=tufts:UA069.005.DO.00001&chapter=W00022")
 
 [2. ↑](#ref_2) Tufts Digital Library - [http://hdl.handle.net/10427/778](http://hdl.handle.net/10427/778 "http://hdl.handle.net/10427/778")
-
-1.  1. [Contents](#Contents)
-    1.  1.1. [Early History](#Early_History)
-    2.  1.2. [Shutdown](#Shutdown)
-    3.  1.3. [Reincarnation as WTUR](#Reincarnation_as_WTUR)
-    4.  1.4. [Second Shutdown](#Second_Shutdown)
-    5.  1.5. [WMFO](#WMFO)
-    6.  1.6. [Fire](#Fire)
-
-2.  2. [References](#References)
 
 [Page Attachments](https://wiki-files.wmfo.org/About_WMFO/Station_History)
 
