@@ -22,13 +22,20 @@ Disable the avahi service daemon to enable .local domain resolution
 
 -   Install google-chrome (online download)
 -   apt-get install git tmux vim openssh-server curl htop
--   ssh-keygen -t rsa -C "carlos"
--   ssh-copy-id duke (repeat for super, smooth, adele, etc)
+
+## SSH Key Setup
+
+-   `ssh-keygen -t rsa`
+-   add or update the /etc/hosts file on the router to include your server. You may have to restart dnsmasq to update the changes with `/etc/init.d/dnsmasq restart`
+-   `ssh util` and add your device to the `~/.ssh/computers` file (don't copy the key yet)
+-   on util, `ssh-copy-id` to your new hostname; verify login works without password
+-   on your machine, `ssh-copy-id util` (this will trigger util to copy the updated authorized_hosts file to your device)
+-   verify the ~/.ssh/authorized_hosts file is updated on your machine
+
+## Misc
 -   mkdir \~/src (for keeping all your source files for things)
 -   git clone [https://github.com/WMFO/rivendell.git](https://github.com/WMFO/rivendell.git "https://github.com/WMFO/rivendell.git") (into your \~/src)
 
  
 
-Follow "For New Installs" on Rivendell.
-
-*
+Follow "For New Installs" on Rivendell if this is to be one of those devices
