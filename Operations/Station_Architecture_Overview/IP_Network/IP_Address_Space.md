@@ -5,19 +5,27 @@ page not found
 IPv4 Local Network Info
 -----------------------
 
-Subnet Mask: 255.255.0.0
+ Subnet Mask: 255.255.0.0
+ 
  Net Address: 192.168.0.0
+ 
  Broadcast: 192.168.255.255
+ 
  Min Address: 192.168.0.1
+ 
  Max Address: 192.168.255.254
 
 ### Internal DHCP Info
 
-Addresses: 192.168.10.\*
+```Addresses: 192.168.10.\*
+
  Subnet Mask: 255.255.0.0
+ 
  Router: 192.168.0.10
- DNS: 192.168.0.210
- Search domains: wmfo.local
+ 
+ DNS: 192.168.0.10
+ 
+ Search domains: wmfo.local```
 
 Basic IPv4 Conventions
 ----------------------
@@ -28,8 +36,9 @@ A method for the madness... Set as of 05/2012. The conventions are desgined to a
 
 *Designates Device Location*
 
-||
+
 |**Device Location**|**IPv4 Base Address**|
+--- | --- 
 |Master Control|192.168.0.XXX|
 |Studio A|192.168.1.XXX|
 |Studio B|192.168.2.XXX|
@@ -48,8 +57,9 @@ A method for the madness... Set as of 05/2012. The conventions are desgined to a
 
 #### *General Device Class Ranges*
 
-||
+
 |**Device Type**|**IPv4 Address Range**|**Notes**|
+--- | --- | ---
 |Network Device|192.168.YYY.0XX|Start at bottom of range, work up|
 |"Other" Device|192.168.YYY.0XX|Start at top of range, work down|
 |Livewire/Axia Device|192.168.YYY.1XX|See Subclass Range Info|
@@ -57,8 +67,8 @@ A method for the madness... Set as of 05/2012. The conventions are desgined to a
 
 ##### Network Device Subclass Ranges
 
-||
 |**Device Subtype**|**IPv4 Address Range**|**Notes**|
+--- | --- | ---
 |Switch/Router|192.168.YYY.00X|-|
 |Gateway/Router|192.168.YYY.01X|-|
 |PDU|192.168.YYY.02X|-|
@@ -70,8 +80,8 @@ A method for the madness... Set as of 05/2012. The conventions are desgined to a
 
 ##### Livewire/Axia Device Subclass Ranges
 
-||
 |**Device Subtype**|**IPv4 Address Range**|**Notes**|
+--- | --- | ---
 |Analog Node|192.168.YYY.10X|-|
 |Digital Node|192.168.YYY.11X|-|
 |Router Selector Node|192.168.YYY.12X|-|
@@ -83,8 +93,8 @@ A method for the madness... Set as of 05/2012. The conventions are desgined to a
 
 ##### General Computer/Server Subclass Ranges
 
-||
 |**Device Subtype**|**IPv4 Address Range**|**Notes**|
+--- | --- | ---
 |Linux Based (Primary OS)|192.168.YYY.20X|-|
 |Windows Based (Primary OS)|192.168.YYY.21X|-|
 |VPN clients|192.168.YYY.22X|-|
@@ -162,21 +172,14 @@ IPv4 Address Space
 
 ### WMFO Server-to-Server
 
-||
-|**IPv4 Address**|**FQDN**|**Computer**|**Adapter**|**Description**|**Speed**|**MAC**|
-|10.0.0.201|-|Ringo|Supermicro Mobo|-|10/100/1000|0c:c4:7a:68:87:f9|
-|10.0.0.210|-|Supertramp|Marvell Yukon 88E8056|Server PCI|10/100/1000|00:24:8C:19:69:35|
-|10.0.4.210|-|Smoothcriminal|Intel PRO/1000 GT|Server PCI|10/100/1000|00:1B:21:C1:F1:44|
-
 IPv4 DNS Servers
 ----------------
 
 In order of preference. Linux config is done in `/etc/resolv.conf​` or `/etc/dhcp3/dhclient.conf` if using DHCP
 
-||
 |**Address**|**Name**|
-|192.168.0.210|wmfo.local - SuperTramp|
-|192.168.0.10|Local Gateway DNS Relay|
+--- | ---
+|192.168.0.10|Ubiquiti Gateway DNS Relay|
 |130.64.25.5|Tufts|
 |130.64.35.5|Tufts|
 |8.8.8.8|Google|
@@ -186,28 +189,11 @@ NTP Servers
 
 In order of preference. Linux config is done in `/etc/ntp.conf`
 
-||
 |**Address**|**Name**|
+--- | ---
 |192.168.0.210|Supertramp|
 |192.43.244.18|[time.nist.gov](http://www.pool.ntp.org/scores/192.43.244.18 "http://www.pool.ntp.org/scores/192.43.244.18")|
 |24.56.178.140|[www.nist.gov](http://tf.nist.gov/tf-cgi/servers.cgi "http://tf.nist.gov/tf-cgi/servers.cgi")|
 
-1.  1. [IPv4 Local Network Info](#IPv4_Local_Network_Info)
-    1.  1.1. [Internal DHCP Info](#Internal_DHCP_Info)
 
-2.  2. [Basic IPv4 Conventions](#Basic_IPv4_Conventions)
-    1.  2.1. [IPv4 Third Byte](#IPv4_Third_Byte)
-    2.  2.2. [IPv4 Fourth Byte Ranges](#IPv4_Fourth_Byte_Ranges)
-        1.  2.2.1. [General Device Class Ranges](#General_Device_Class_Ranges)
-            1.  2.2.1.1. [Network Device Subclass Ranges](#Network_Device_Subclass_Ranges)
-            2.  2.2.1.2. [Livewire/Axia Device Subclass Ranges](#Livewire.2FAxia_Device_Subclass_Ranges)
-            3.  2.2.1.3. [General Computer/Server Subclass Ranges](#General_Computer.2FServer_Subclass_Ranges)
-
-3.  3. [IPv4 Address Space](#IPv4_Address_Space)
-    1.  3.1. [WMFO LAN](#WMFO_LAN)
-    2.  3.2. [WMFO WAN](#WMFO_WAN)
-    3.  3.3. [WMFO Server-to-Server](#WMFO_Server-to-Server)
-
-4.  4. [IPv4 DNS Servers](#IPv4_DNS_Servers)
-5.  5. [NTP Servers](#NTP_Servers)
 
