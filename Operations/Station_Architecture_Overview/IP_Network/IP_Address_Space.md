@@ -166,7 +166,9 @@ IPv4 Address Space
 |130.64.87.45|[wmfo-wiki.orgs.tufts.edu](http://wmfo-wiki.orgs.tufts.edu "http://wmfo-wiki.orgs.tufts.edu/")|DeltekWiki|Intel PRO/1000 GT|Wiki VM|10/100/1000|00:0C:29:C7:57:E9|
 |130.64.87.46|wmfo-super.orgs.tufts.edu|Supertramp|Intel PRO/1000 GT|Web Server PCI|10/100/1000|00:1B:21:2F:E1:B8|
 |130.64.87.48|wmfo-duke.orgs.tufts.edu|ThinWhiteDuke|D-Link DGE-560T|Linux Server PCI-E|10/100/1000| 00:21:91:19:94:CF|
-|130.64.20.48|wmfo-ringo.orgs.tufts.edu|Ringo|?|File Server|10/100/1000|00:1B;21:C4:12:43|
+|130.64.87.20|wmfo-ringo.orgs.tufts.edu|Ringo|?|File Server|10/100/1000|00:1B;21:C4:12:43|
+|130.64.29.251|wmfo-http.orgs.tufts.edu|wmfo-http|?|Web Server|10/100/1000|52:54:00:00:47:5b|
+|130.64.29.252|wmfo-webstream.orgs.tufts.edu|wmfo-webstream|?|Webstream Server|10/100/1000|52:54:00:62:35:5b|
 |DHCP|-|MOBZP1|LiveWire RJ-45|Telos Zepher|10/100|00:E0:4B:1B:D7:08|
 |DHCP|-|MOBZP1 dongle|IOgear WiFi USB 2.0|WiFi dongle|?|00:21:79:C3:19:ED|
 
