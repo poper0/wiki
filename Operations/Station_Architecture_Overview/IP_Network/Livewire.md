@@ -21,9 +21,11 @@ In addition, Livewire provides a very efficient way of getting around the networ
 
 If Livewire behaved like a standard (unicast) service, the network would quickly become flooded. If I am sending audio data from a microphone and 12 people on the network want that data, I would have to send 12 copies of that. Imagine adding 100s of sources and you'll see that we'll run out of bandwidth. Just for example, a standard webstream like the one that serves listeners the WMFO webstream operates in this fashion; the number of listeners is limited by available bandwidth.
 
+There are two types of livewire streams: standard streams incur a relatively high amount of a delay because of the nature of packeting - if we wait for a standard payload on a 1500 byte packet to fill, there's a certain amount of latency incurred. By contrast, Live streams keep the packet size very small to minimize latency, but this also increases network load so they should only be used on critical sources like microphones and airfeeds. CD players can easily get by with more latency so they should use standard streams.
+
 Livewire is the protcol that all Axia/Telos equipment uses. For more information see the WMFO Operations Mandatory Reading *Introduction to Livewire* and other [manuals](http://axiaaudio.com/manuals "http://axiaaudio.com/manuals") published by Axia.
 
-### Entering and Leavin the Livewire Network
+### Entering and Leaving the Livewire Network
 
 All audio devices on the network operate using the Livewire protocol to get data in between them. However, we need to be able to connect standard audio sources to the network:
 
