@@ -22,11 +22,11 @@ Here is your crash course wiki curriculum:
     3. secondary-backup
     4. Terminals
 4.  IP Network
-    1.  Switches
+    1.  [Switches](https://wiki.wmfo.org/Reference/Switch_Config)
     2.  Router
     3.  WiFi
     4.  Host list and IP Schema
-5.  Signal Chain Overview
+5.  Signal Chain Overview - [Diagram](https://docs.google.com/a/wmfo.org/drawings/d/1ZioPk_CP5EZg8U6Jix9IY1ol_1xH6u0A_kD7RZt3h1g/edit)
     1.  Analog/Digital Nodes
     2.  StudioHub
     3.  Element/Studio Engine (Studio A)
@@ -40,9 +40,7 @@ Here is your crash course wiki curriculum:
     1.  PDUs
     2.  CD Players
     3.  Amplifiers
+7.  [Backups](https://wiki.wmfo.org/Reference/Backups)
 
-This section details tables and explanations related to the ops department. Some of this content is accessible only by logging in with an account of the appropriate credential level. The best way to get information is to contact the ops list, [wmfo-ops@googlegroups.com](mailto:wmfo-ops@googlegroups.com "wmfo-ops@googlegroups.com") and be trained by existing ops volunteers.
-
-
-The [Rivendell](https://wiki.wmfo.org/Operations/Rivendell "Rivendell") page provides a good overview of the [signal chain](https://docs.google.com/a/wmfo.org/drawings/d/1ZioPk_CP5EZg8U6Jix9IY1ol_1xH6u0A_kD7RZt3h1g/edit "https://docs.google.com/a/wmfo.org/drawings/d/1ZioPk_CP5EZg8U6Jix9IY1ol_1xH6u0A_kD7RZt3h1g/edit"). [LiveWire](https://wiki.wmfo.org/Operations/Axia_and_Telos "Axia and Telos") is the protocol that routes audio through the station, and is used by all Axia equipment (and their parent company, Telos). You can get a sense of the network from the [I](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/IP_Address_Space "IP Address Space")[P table](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/IP_Address_Space "IP Address Space") and and get details from the [normal tables](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/Axia_Normal_Tables "Axia Normal Tables"). Most of our code is or will/should be on [Github](https://github.com/organizations/WMFO "https://github.com/organizations/WMFO"). And sometimes you just need to [fix the board](https://wiki.wmfo.org/Operations/Axia_and_Telos/Fixing_the_Board "Fixing the Board").
+In addition, there is a private Github repository of credentials. The best way to get information is to contact the ops list, [wmfo-ops@googlegroups.com](mailto:wmfo-ops@googlegroups.com "wmfo-ops@googlegroups.com") and be trained by existing ops volunteers.
 
