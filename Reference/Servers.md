@@ -50,3 +50,21 @@ This host runs the [webstream](https://wiki.wmfo.org/Reference/Webstream/). It d
 * Repositories
 
 ## rivendell.wmfo.local (tupac vm)
+
+## ringo.wmfo.local
+
+Ringo is the primary file server for WMFO.
+
+The main RAID is installed on top of 8x6TB WD Red drives. These are all grouped under a single RAIDZ pool using the ZFS filesystem.
+
+Ringo's primary duty is to expose network fileshares:
+
+-   Rivendell: mounted only on rivendell share
+-   tobeImported: mounted on Floodland for ripping and Duke for import
+-   Backup: mounted on Duke and Devolution for backups
+
+Fileshares can be exposed from within ZFS in either Samba or NFS, NFS being preferred for Linux clients and Samba required for Windows.
+
+Ringo has an IPMI interface (ringo-ipmi.wmfo.local) for out of band reboots and an external NIC. 
+
+Ringo also manages backups.
