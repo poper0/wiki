@@ -7,6 +7,7 @@ Important WMFO-related Destinations:
 - [History](https://github.com/WMFO/wiki/blob/master/About_WMFO/Station_History.md)
 - [Staff Meeting Notes](https://legacy-wiki.wmfo.org/Staff_Info/Staff_Meetings)
 - [Staff Newsgroups](https://github.com/wmfo/wiki/blob/master/Staff_Info/Staff_Newsgroups.md)
+- [Learn how the station works](https://wiki.wmfo.org/ops-README)
 
 ## Browsing the current Wiki
 
