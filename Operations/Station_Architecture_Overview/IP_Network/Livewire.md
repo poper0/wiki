@@ -3,6 +3,14 @@ Livewire's Layers of Abstraction
 
 Livewire is an Audio over IP standard. Basically it allows any device on the network to access any stream, regardless of the location (so a router selector node can pull up the microphone in Studio A from Ballou and listen to it).
 
+For clarity, there are three types of audio transmission methods:
+
+1. Analog (usually balanced) audio, for instance XLR
+2. AES Digital, transferred over XLR connectors - the professional method for transferring fully digital audio in stereo up to 192 KHz at 24 bit.
+3. Livewire Audio-over-IP, a software-defined audio transmission method
+
+To make this a little more confusing, we use CAT cables and RJ45 connectors for all three, but you can't interchange them. The term digital can be confusing becuase Livewire is technically "digital" but you cannot directly plug the network into a standard digital AES source.
+
 In general, all Livewire interface happens through proprietary dedicated devices. These perform one of two functions:
 
 1.  A node performs a bridge between a standard protocol (analog balanced audio, digital AES audio, or PCM digital audio inside our computer in the case of the ASI card) and the Livewire network. Basically, this bridges standard non-Livewire audio with a fully routable Livewire stream.
