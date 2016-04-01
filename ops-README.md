@@ -10,8 +10,8 @@ The Ops Director or any former operations directors are great starting points if
 Here is your crash course wiki curriculum:
 
 1.  [Livewire](https://wiki.wmfo.org/Reference/Livewire)
-2.  Rivendell
-3.  Servers
+2.  [Rivendell](https://wiki.wmfo.org/Reference/Rivendell)
+3.  [Servers](https://wiki.wmfo.org/Reference/Servers)
     1. Tupac (hypervisor)
         1.  Webstream
         2.  http
