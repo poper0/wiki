@@ -18,3 +18,5 @@ The default config is a bit weird for the 2960s and I've asked Telos support abo
 Live Stream gets CoS 6 and goes into Queue 4. Queue 4 is given "strict" mode therefore its traffic will always be forwarded first.
 
 Standard Stream gets CoS 5 and goes into Queue 3. We can then use strict or wrr to prioritize the data. Wrr and srr both function based on the ratio of the numbers. Usually you would use "shared" mode for each in which quotas are guaranteed but will provide maximum bandwidth available, whereas "shaped" would enforce the limit regardless of whether the channel was completely open.
+
+The ports must be configured to trust the CoS tag on the incoming packets. (There are other ways to classify packets into queues, like by port or by DSCP tag.)
