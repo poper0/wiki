@@ -33,9 +33,9 @@ This page receives all information from index.php and should not be accessed dir
 
 ### wmfolog.php 
 
-(page not viewed. stores POST data from options.php and POSTs to SallieMae)
+(page not viewed. stores POST data from options.php and POSTs to TouchNet)
 
-This page firsts dumps the necessary post data into the WMFO database in mysql.wmfo.org. It loads a hidden form on the page. Onload, javascript on the page automatically submits the form which POSTs the data contained in hidden form elements according to SallieMae's specifications (which are populated by the php script from the POST data received from options.php) to the salliemae URL.
+This page firsts dumps the necessary post data into the WMFO database in mysql.wmfo.org. It loads a hidden form on the page. Onload, javascript on the page automatically submits the form which POSTs the data contained in hidden form elements according to TouchNet's specifications (which are populated by the php script from the POST data received from options.php) to the salliemae URL.
 
 As it inserts into the database, it fetches the ID of the field and places it into the ACCOUNT post field to the SallieMae database. The ACCOUNT\_EDT is set to N to prevent people from altering the account number on SallieMae. This number is used to validate the post back.
 
