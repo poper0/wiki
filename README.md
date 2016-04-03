@@ -2,7 +2,7 @@ WMFO Wiki => Github
 ===================
 Important WMFO-related Destinations:
 - [Contact Information](http://www.wmfo.org/?page_id=2)
-- [DJ Handbook](https://wiki-files.wmfo.org/Staff_Info/DJ_Handbook/)
+- [DJ Handbook](https://docs.google.com/document/d/1K4ZUeF1CYjk6BDiEqFmx1pf-geqkG0avD8ppCqqe6Ws/edit#heading=h.4xee883hy3v5)
 - Getting involved (on-air DJ or otherwise): email training@wmfo.org.
 - [History](https://github.com/WMFO/wiki/blob/master/About_WMFO/Station_History.md)
 - [Staff Meeting Notes](https://legacy-wiki.wmfo.org/Staff_Info/Staff_Meetings)
