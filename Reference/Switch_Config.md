@@ -13,7 +13,21 @@ We can simply separate out livewire audio by its CoS tag, configured on the node
 
 The 2960 series switches support Shared-Round-Robin or srr scheduling, whereas the SG500 series support weighted-round-robin or wrr scheduling. See the relevant ops list thread, but these are apparently almost the same except that srr is "better" in that it ends up sending traffic more evenly as opposed to wrr sending traffic more bursty.
 
-The default config is a bit weird for the 2960s and I've asked Telos support about it but I don't know that I have a justification. Realistically, a more sane configuration is as follows:
+###2960 vs 2960-S
+
+The 2960-S is a stackable switch. It does not support ingress queueing, only egress. The 2960C 8 port switch supports both ingress and egress queueing.
+
+The 2960 supports a single `priority-queue` which accomplishes the same thing as the `strict` setting on the SG500, however (confusingly) the `priority-queue` is applied to Queue 1 instead of starting at Queue 4 in the SG500. Packets entering into Queue 1 when enabled in priority-queue mode are then serviced before any other packet. The mapping is as follows:
+
+```
+CONS48#show mls qos maps cos-output-q
+   Cos-outputq-threshold map:
+              cos:  0   1   2   3   4   5   6   7
+              ------------------------------------
+  queue-threshold: 2-1 2-1 3-1 3-1 4-1 3-1 1-1 1-1
+```
+
+### SG500 Setup
 
 Live Stream gets CoS 6 and goes into Queue 4. Queue 4 is given "strict" mode therefore its traffic will always be forwarded first.
 
