@@ -21,17 +21,15 @@ Note: Access card systems can take 45 minutes to come online; take that into acc
 
 This power up order should make sure LiveWire & Rivendell come up without hassle:
 
-1.  Annex: Smooth UPS, Nick UPS, boot both
-2.  Control Furman
-3.  Control UPS
-4.  Return to Studio A, wait for element and computer to boot
+1.  Control Furman and UPS
+2.  Boot Studio C, Studio B, GM terminal, MD terminal while you wait
+3.  Return to Studio A, check that all systems are go. You will probably have to press the source select button on the monitor (second from the right on rear) to get the computer to display. If not, power it on manually.
+4.  If you get "rivendell daemons failed to start" or whatever, you'll need to `su wmfo-admin` and then `sudo service rivendell start`, entering the password twice.
 5.  If element doesn't boot, replace CMOS battery and reprogram BIOS to autostart (see ops list thread and doc)
 6.  Once all systems are go on Element, check to ensure you can play music over the monitors.
 7.  If right four element channels aren't online or the element is being wonky, refer to the [troubleshooting page](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/IP_Network/Livewire/Fixing_the_Board "Fixing the Board").
 8.  If Studio A can broadcast and the internet is working, power transmitter on and record time. If Studio A does not come up, consider broadcasting from C.
-9.  Studio C: replug, UPS, computer
-10. Studio B and MD UPSs
-11. Any lingering power strips.
-12. Elvis backup computer (lest you get angry cron emails)
+9. Any lingering power strips.
+10. Elvis backup computer in Control (lest you get angry cron emails)
 
 The entire shutdown sequence takes around 20 minutes (45 if the Windows machine updates take forever). Start 1 hour before outage and don't have people planning on DJing until 1-1.5 hours after. You may want to grab a flashlight from tech. Expect not to get into any card access door while the power is out, as the card reader battery backup dies quickly. Log that we're off-air to Spinitron and the [station log](https://wiki.wmfo.org/Operations/Regulatory/Station_Log "Station Log") afterwards. Best practice is to lock Studios A and C while they are offline (the "technologically confident" DJs will begin to throw switches haphazardly).
