@@ -8,8 +8,9 @@ See [Axia Normal Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagr
 
 ### Sources:
 
-||
+
 |**Port**|**Name**|[**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")|**Shareable**|**Mode**|**Gain**|**Direct Wire**|**Direct Device**|**Terminal Device**|
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 |1|-|10000|N|D|0.0|-|-|-|
 |2|-|10001|N|D|0.0|-|-|-|
 |3|AphexCompOut|10002|N|LS|0.0|-|-|Apex - O|
@@ -21,8 +22,8 @@ See [Axia Normal Tables](https://wiki.wmfo.org/index.php?title=Operations/Diagr
 
 ### Destinations:
 
-||
 |**Port**|**Name**|[**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")|**Type**|**Load**|**Gain**|**Direct Wire**|**Direct Device**|**Terminal Device**|
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 |1|-|0|FS|hi-Z|0.0|-|-|-|
 |2|-|0|FS|hi-Z|0.0|-|-|-|
 |3|AphexCompIn|10107|FS|hi-Z|0.0|-|-|Apex - I|
