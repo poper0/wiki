@@ -41,4 +41,17 @@ Channel| RJ-45 Device | Patch Device | Notes
 15 | SA-TT1 | SAA1-I7 | RCA SH => TT amp in cabinet
 16 | SA-Rec-Out | SAA1-O4 | RCA SH
 
+## SA Modular Jack
+
+There are 6 ports of terminated CAT6 in Studio A. All six are patched to CONS1. 
+
+Jack | Device
+--- | ---
+1 | SAA1 (Analog node)
+2 | SAEGP1 (Element controller)
+3 | Adele
+4 | SAPDU (Remote controlled PDU)
+5 | SAD1 (Digital xNode)
+6 | -
+
 [Page Attachments](https://wiki-files.wmfo.org/Operations/Station_Architecture_Overview/Signal_Chain_%26_Peripherals/StudioHub_Peripherals/SASHP)
