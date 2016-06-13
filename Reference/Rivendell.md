@@ -1,37 +1,5 @@
 WMFO runs Rivendell as its primary radio automation and playout softeware. This page briefly lists resources maintained by the Rivendell community, and then explains WMFO's technical setup in some detail. Many custom scripts interact with Rivendell in some way, with this page providing an "ecosystem" level view; full information can be found on Github. Finally, this page provides instructions for installing and updating Rivendell.
 
-1.  1. [General References](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#General_References)
-2.  2. [WMFO Setup](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#WMFO_Setup)
-    1.  2.1. [Architecture](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Architecture)
-        1.  2.1.1. [Servers](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Servers)
-        2.  2.1.2. [Clients](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Clients)
-        3.  2.1.3. [ASI SoundCard](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#ASI_SoundCard)
-
-    2.  2.2. [Configuration](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Configuration)
-        1.  2.2.1. [Processes](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Processes)
-        2.  2.2.2. [Network Share Mounts](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Network_Share_Mounts)
-
-    3.  2.3. [Scripts](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Scripts)
-        1.  2.3.1. [Watchdog](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Watchdog)
-        2.  2.3.2. [Import](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Import)
-        3.  2.3.3. [Spinitron and Automation](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Spinitron_and_Automation)
-
-    4.  2.4. [How To...](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#How_To...)
-        1.  2.4.1. [Start and/or Stop Rivendell](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Start_and.2For_Stop_Rivendell)
-        2.  2.4.2. [Import a Track Manually](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Import_a_Track_Manually)
-        3.  2.4.3. [View library remotely](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#View_library_remotely)
-        4.  2.4.4. [Add/Remove/Verify SMB Mounts](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Add.2FRemove.2FVerify_SMB_Mounts)
-        5.  2.4.5. [Recompile the ASI driver](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Recompile_the_ASI_driver)
-        6.  2.4.6. [Building the ASI driver using DKMS](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Building_the_ASI_driver_using_DKMS)
-        7.  2.4.7. [Remove Duplicates](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Remove_Duplicates)
-        8.  2.4.8. [Run donations PSAs in automation](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Run_donations_PSAs_in_automation)
-        9.  2.4.9. [Backup/restore the mySQL Database](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Backup.2Frestore_the_mySQL_Database)
-
-3.  3. [Build Rivendell from Source](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Build_Rivendell_from_Source)
-    1.  1.  2.  3.1.2. [For New Installs](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#For_New_Installs)
-
-    2.  3.2. [Restart Rivendell Remotely](https://wiki.wmfo.org/Operations/Station_Architecture_Overview/Rivendell#Restart_Rivendell_Remotely)
-
 General References
 ------------------
 
@@ -85,7 +53,13 @@ Prior to getting the card, Rivendell out was done from Tinmachine's  S/PDIF and
 
 ##### Virtual GPIO
 
-The soundcard also provides eight channels of GPIO. We currently use two of them for Rivendell preview to enable the board's external preview. You can telnet into the card at port 93 to gain access to the GPIO interface. Commands: ADD GPI and ADD GPO which display the status of each pin whenever they change. A capital letter means it just changed; lowercase means it's been like that. The pins are active low, so hhLhh means pin 3 just became active. You can also do LOGIN and the GPI 2 xxLH to set channel 2 pin 3 to low and pin 4 to high while leaving the others alone. This can (and is) scripted using Rivendell, so `rmlsend GO\ 3\ O\ 8\ 1\ 0\!` will send to matrix 3 an Output on port 8, setting to active, indefinitely. Matrix 3 is the ASI card as configured for Coulton (rdadmin-\>ManageHosts-\>Switchers GPIO). The O is an output of Rivendell and an input of the ASI card. Source 8 is pin 3 on channel 2 (5 pins to a channel). 1 means active so low. 0 means indefinte; you can supply a time in miliseconds.
+The soundcard also provides eight channels of GPIO. 
+
+Virtual GPIO is used for two purposes: first, GPIO signals travel from Rivendell to the Element to trigger the Rivendell Monitoring on rdairplay's button press. In this manner, pressing Play on the rdairplay search box triggers the headphones to switch to the respective RD Preview. There are four Macro carts (two for SA and two for SC) that trigger the GPIO, which is sent to the board over the first two channels on the Tower ASI card.
+
+The third and fourth channel correspond to the RD Main channels on the TOWASI1 card for each of SA and SC. They are responsible for shutting off automation if the user presses the off button on the RD Main channel. The automation_OFF.sh script in /opt/wmfo/macro_sh registers the GPI and maps it to the Automation OFF cart. It selects the GPIO switcher based upon a text version of the hostname (and it's case sensitive, so be careful changing the hostname). When the board, which has the RD Main source, has that particular channel shut off, the 5th pin of the GPO from the board registers a pulse. This pulse is used to shut off automation.
+
+You can telnet into the card at port 93 to gain access to the GPIO interface. Commands: ADD GPI and ADD GPO which display the status of each pin whenever they change. A capital letter means it just changed; lowercase means it's been like that. The pins are active low, so hhLhh means pin 3 just became active. You can also do LOGIN and the GPI 2 xxLH to set channel 2 pin 3 to low and pin 4 to high while leaving the others alone. This can (and is) scripted using Rivendell, so `rmlsend GO\ 3\ O\ 8\ 1\ 0\!` will send to matrix 3 an Output on port 8, setting to active, indefinitely. Matrix 3 is the ASI card as configured for Carlos (rdadmin-\>ManageHosts-\>Switchers GPIO). The O is an output of Rivendell and an input of the ASI card. Source 8 is pin 3 on channel 2 (5 pins to a channel). 1 means active so low. 0 means indefinte; you can supply a time in miliseconds.
 
 We use another two channels to turn off automation when the board fader is turned off. The state of automation is recorded by the presence of absence of /var/lock/automation\_is\_on.lock and a blank log is only loaded if the file is present. If the file is not present, this means someone turned off the fader (or clicked the button) when automation was off. Because they could have manually cued songs, we do not overwrite them with a blank log.
 
