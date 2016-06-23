@@ -37,9 +37,28 @@ win10 host: Log in with Windows credentials to lan.wmfo.org port 9638.
 
 ### Alternate Route
 
-You may SSH into wmfo-primary or wmfo-secondary and use SOCKS forwarding:
+lan.wmfo.org refers to the wmfo-secondary.orgs.tufts.edu router in Ballou. Over HTTPS, it uses the standard Linux credentials. Port forwarding is set up:
 
-ssh wmfo-admin@wmfo-secondary.orgs.tufts.edu -p 2234 -D 8888
+SSH:
+
+- Adele (studio a) - port 2234
+- Carlos (studio c) - 2235
+- Util (sandbox server) - 2241
+- Ringo (fileserver) - 2239
+- Elvis (backup fileserver) - 2238
+- Tupac (hypervisor) - 2236
+- Rivendell - 2237
+
+Other:
+
+- win10 RDP 9638
+
+See the lan.wmfo.org router config on NAT forwarding for all ports.
+
+#### SOCKS
+
+ssh wmfo-admin@lan.wmfo.org -p 2234 -D 8888
 
 Once authenticated, use FoxyProxy with Chrome to redirect to the localhost:8888 port. All traffic in Chrome will pass through the router.
 
+ssh -X will enable X forwarding.
