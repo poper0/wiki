@@ -35,7 +35,6 @@ At this point, this Windows computer's role is done for recording.
 - I encountered problems with getting the batch file to run as a service. I will look more into this.
 - If we decide we don't like windows, this service could be easily removed to the Rivendell host with the caveat that the Rivendell host may have more downtime and result in more lost archive time.
 - We had a Samba crash due to a bug in samba on Ringo that resulted in a soft lockup. Rivendell and the archives both died. This bug should have been fixed by the update I ran (as it was a known bug). We probably want to do some hardening against errors such as these and maybe configure a failover to local storage.
-- 
 
 ## Serving the Archives
 
