@@ -7,6 +7,19 @@ This page is designed to facilitate the ops learning process. There's a lot of i
 
 The Ops Director or any former operations directors are great starting points if you have trouble finding information, but you can find most of what there is to know within this Wiki.
 
+Video Parts:
+
+- Network
+- Livewire overview (multicast, stream types, terminology) 
+- Computers, vms (intro)
+- Signal Chain
+- Rivendell
+- GPIO
+- Transmitter
+- Webstream
+- Archives
+- Phones
+
 Here is your crash course wiki curriculum:
 
 1.  [Livewire](https://wiki.wmfo.org/Reference/Livewire)
