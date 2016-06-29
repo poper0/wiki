@@ -12,9 +12,9 @@ Common Signal Chain
 
 ### Transmitter
 
-1.  The Tower Omnia with the FM image provides processing of the audio data. It compresses the everything to increase signal volume and compensate for DJ incompetence. This device outputs AES audio directly to the transmitter.
+1.  The transmitter-omnia with the FM image provides processing of the audio data. It compresses the everything to increase signal volume and compensate for DJ incompetence. This device outputs AES audio directly to the transmitter.
 2.  The transmitter takes the AES data and converts it to a composite signal.
-    1.  The transmitter outputs the multiplex signal to the Inovonics RDS encoder. The RDS encoder gets RDS data from a script on Duke which receives Spinitron Push data and formats it for the RDS 64 character Radio Text string. It generates the RDS subcarrier which is returned to the Transmitter to the Aux input port.
+    1.  The transmitter outputs the multiplex signal to the Inovonics RDS encoder. The RDS encoder gets RDS data from a script on wmfo-http's push.wmfo.org which receives Spinitron Push data and formats it for the RDS 64 character Radio Text string. It generates the RDS subcarrier which is returned to the Transmitter to the Aux input port.
 
 3.  The transmitter feeds a Coaxial output which is connected to the antenna on the roof.
 4.  The feed is monitored by the Modulation Monitors in the Tower and in Studio A.
@@ -22,10 +22,6 @@ Common Signal Chain
 ### Webstream
 
 1.  The control Omnia compresses the audio data and feeds it back to the Livewire network.
-2.  The stream is captured via the Duke ASI card and encoded for webstream distribution on Shoutcast.
-
-1.  1. [Common Signal Chain](#Common_Signal_Chain)
-    1.  1.1. [Transmitter](#Transmitter)
-    2.  1.2. [Webstream](#Webstream)
+2.  The stream is captured via the wmfo-webstream AoIP license and encoded for webstream distribution on Shoutcast. (See the webstream doc for more info)
 
 
