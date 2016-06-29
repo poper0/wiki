@@ -3,9 +3,9 @@
 WMFO serves its webstream through a shoutcast server. The signal chain is as follows:
 
 1. EAS Output from COND1 is sent to webstream-omnia in the tower
-2. The webstream omnia runs AGC and multiband compression to increase the loudness of the track up from a normal of -12 dB to full scale. This is necessary because the codecs that compress the audio down to a low bitrate tend to destroy quiet signals.
+2. The webstream omnia runs AGC and multiband compression to increase the loudness of the track up from a normal of -12 dB to full scale (or rather, whatever the DJ decides to send). This is necessary because the codecs that compress the audio down to a low bitrate tend to destroy quiet signals and with limited dynamic range and quality it's important to use more of it.
 3. The output of the webstream-omnia is sent to the input of wmfo-webstream.orgs.tufts.edu. The webstream host uses a 4 channel license of Axia's AoIP Windows Driver to pull audio off the network.
-4. The Shoutcast Server runs as a Windows Service. It can be accessed through webstream.wmfo.org and using the admin login (password is configured in the Windows configuration file c:\Users\wmfo-admin\Documents\SHOUTcast\sc_serv.ini). It's configured to bind to a few extra ports for legacy compatibility with the old streaming setup which used three separate servers on port 8000 8002 8004 for each quality.
+4. The Shoutcast Server runs as a Windows Service. It can be accessed through webstream.wmfo.org and using the admin login (password is configured in the Windows configuration file c:\Users\wmfo-admin\Documents\SHOUTcast\sc_serv.ini). It's configured to bind to a few extra ports for legacy compatibility with the old streaming setup which used three separate servers on port 8000 8002 8004 for each quality. Eventually we can remove those (once the iOS app is retired).
 
 The three streams are:
 
@@ -68,3 +68,4 @@ This has performed pretty well. There are several possible improvements:
 
 1. Send estimated file size when we serve partial. Some programs don't like having no idea how big the file will be.
 2. Allow serving a subpart of the file (sometimes players can implement lazy loading etc.)
+3. Start transcode after every spinitron show concludes - SoX transcodes don't work particularly well with the lazy loading system we have built. Some filetypes embed the file length in the file header (I believe FLAC included) so SoX will fseek back to the beginning and add that at the conclusion of the transcode. The only other option would be to explicitly force the user to wait for transcode to complete, which is probably worse.
