@@ -7,8 +7,8 @@ There are multiple methods for handling these events:
 - Simple phone remotes using a cell phone or landline connection. Quality will be lame.
 - VoLTE remotes where someone ties their iPhone into the board and we use a separate iPhone for the broadcast. Has the benefit of being easy to carry, plus VoLTE should be quite reliable as VZW controls the whole network. Procuring an Apogee Duet interface would be beneficial.
 - Skype remotes using the Skype application. Again, using an audio interface will be of great benefit.
-
-The Zephyr / IP units allows us to do remote broadcasts. The system consists of two units. The stationary unit is mounted in Bay B, between Control and Studio A. The mobile unit resides in the Annex when not in use. The units can "call" each other over the internet, and send audio in each direction.
+- Use the Zephyr / IP units. The system consists of two devices: stationary unit is mounted in Bay B, between Control and Studio A and the mobile unit resides in the Annex when not in use. The units can "call" each other over the internet, and send audio in each direction. They are equipped with a variety of codecs for remote use and transmit in stereo in both directions.
+- ipDTL which offers a laptop + Google Chrome web browser solution as well as ISDN interoperability. Could be easily deployed in Studio C etc.
 
 Log
 ---
@@ -19,6 +19,7 @@ Log uses and test calls of the Zephyrs here and report any problems. This allows
 |:---|:----|:----|
 |11/6/12|Election Night @ Campus Center|Wired connection held high bitrate for hours.|
 |3/30/13|Ops meeting| |
+|June 2016| Nick was able to remote broadcast from his bedroom in Newbury MA| WiFi from within NAT without port forwarding over a Comcast connection. Set up with RemoteRivMix from CONSE1 which is a mix of both Rivendell from the main server output and the remote source. Backfeed was just the RD-All from rivendell and used VNC to control rdairplay|
 
 
 # Physical Setup
