@@ -1,6 +1,6 @@
 # Instructions to DJs
 
-(Watch the video)[https://www.youtube.com/watch?v=VA58rh5cP2U&index=1&t=8m55s&list=PLP5F7bT61v2tx_MKfE0UVFV1dXid4YE5M]
+[Watch the video](https://www.youtube.com/watch?v=VA58rh5cP2U&index=1&t=8m55s&list=PLP5F7bT61v2tx_MKfE0UVFV1dXid4YE5M)
 
 To **answer the phone**, press the phone button (Set). Then hold talkback, press preview, then release both buttons. Then talk to the caller off-air.
 
