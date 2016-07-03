@@ -1,25 +1,25 @@
 This page will detail routing and equipment information from the WMFO equipment in Ballou. Signal chain will read roughly down the page, with some exceptions.
 
-### PDU
+# PDU
 
 This device is a network accessible power distributor, which runs off of a dedicated fibox line and will soon run out of the UPS. This allows you to remotely power cycle many devices in the tower for troubleshooting purposes. Obviously the prime candidate here is the Omnia which has shown some flakiness. You shouldn't need to use it, but it's here as a hard kill switch. Outlets are labeled in software.
 
 1.  Omnia MPX Generator
 2.  Inovonics 531 Mod Meter
-3.  Cisco 2960G-8
+3.  Cisco SG500X-24 switch
 4.  unused
 5.  unused
 6.  unused
 7.  unused
 8.  Mozart Transmitter
 
-### Router Selector
+# Router Selector
 
 Currently also sends the output of the Inovonics Model 531 modulation meter back down as RF-TOW-MON livewire source. This will give garbage audio if the transmitter powers down, and can serve as a substitute for the Belar if need arises.
 
 Allows you to listen to various sources over headphones which is good.
 
-### Omnia FM
+# Omnia FM (transmitter-omnia.wmfo.local)
 
 Input: Livewire EAS Output
 
@@ -27,7 +27,15 @@ Output: AES audio (primary) and Livewire (secondary)
 
 Also has other I/O and failover support.
 
-Basically just slams our normalized audio up to maximum volume and adds compression. Then the 
+Basically just slams our normalized audio up to maximum volume and adds compression.
+
+# Webstream Omnia (webstream-omnia.wmfo.local)
+
+Input: LW EAS Out
+
+Output: Livewire (primary)
+
+Slams the audio upwards in prep for webstream codecs
 
 #### Functionality:
 
@@ -52,9 +60,9 @@ which is modulated onto the 91.5 mHz carrier in the Heterodyne Modulator. This s
 We have an IP enabled Inovonics RDS encoder. It is configured over IP Telnet (and a Windows utility installed on Smooth).
 
 1.  Data pushed to spinitron by user or Rivendell
-2.  Spinitron pushes data to Duke
-3.  Script on Duke generates a string
-4.  String pushed to RDS encoder
+2.  Spinitron pushes data to wmfo-http
+3.  Script generates a string
+4.  String pushed to RDS encoder over UDP
 5.  RDS encoder receives MPX output from Mozart
 6.  RDS encoder generates 57 KHz RDS output
 7.  RDS input to Mozart
@@ -72,27 +80,15 @@ Terminates this into our antenna which is a 50 ohm load. VSWR is the ratio of fo
 
 ### Rereceive/Modulation Meter
 
-This is an Inovonics Model 531 FM modulation monitor ([manual](http://www.inovonicsbroadcast.com/wp-content/uploads/catablog/downloads/531Manual.pdf "http://www.inovonicsbroadcast.com/wp-content/uploads/catablog/downloads/531Manual.pdf")). Shows up on RF-TOW-MON channel. Can also give you a real time modulation indication.
+This is a DaySequerra M4FM mod monitor. We also have an Inovonics Model 531 FM modulation monitor ([manual](http://www.inovonicsbroadcast.com/wp-content/uploads/catablog/downloads/531Manual.pdf "http://www.inovonicsbroadcast.com/wp-content/uploads/catablog/downloads/531Manual.pdf")) back in studio A. The DaySequerra shows up on RF-TOW-MON channel. Can also give you a real time modulation indication.
 
 To calibrate modulation:
 
-1.  Adjust the Composite 1 output voltage on the Omnia Remote Control Java Applet until the modulation hovers around 100%. The peak light may light, but only ocasionally (less than 10 times/minute is acceptable). There is probably some room above this for more modulation (see notes below).
-2.  Switch to pilot tone measurement and adjust the 19 kHz pilot tone injection level until it reads about 9% on that meter. If you had to increase this measurement, best check that the overall increase in modulation hasn't significantly altered the readings.
-3.  Switch back to regular modulation metering and make sure everything still looks good.
+1. Establish modulation baseline - since we have an RDS encoder at 6% of our modulation, we're allowed additional modulation over 100% (usually 103%).
+2. Due to an issue with the limiter in the Mozart (i.e. it doesn't appear to do anything), we back off the AES output to reduce the effective modulation. This has proved pretty reliable - the control is on the transmitter-omnia remote control java applet.
+3.  Switch to pilot tone measurement and adjust the 19 kHz pilot tone injection level until it reads about 9% on that meter. If you had to increase this measurement, best check that the overall increase in modulation hasn't significantly altered the readings.
+4.  Switch back to regular modulation metering and make sure everything still looks good.
 
-#### Notes on Modulation Measurements:
+# Notes on Modulation Measurements with the Inovonics 531:
 
 The manual specifies the integration time of the modulation calculator is by default set to 100 microseconds, and can be adjusted with an internal modulator up to 1 millisecond. Increasing the integration time has the effect of lowering the overall modulation reading for given content by averaging more readings together. The manual (also an excellent resource on calibrating FM transmitters) says that 1 ms is generally safe most all of the time. The safest bet here is to use a separate antenna to compare our off-air signal with that of local commercial stations and set our modulation to tend to be a little lower than theirs.
-
-1.  1. [PDU](#PDU)
-2.  2. [Router Selector](#Router_Selector)
-3.  3. [Omnia FM](#Omnia_FM)
-    1.  3.1. [Functionality:](#Functionality:)
-    2.  3.2. [MPX Signal Lesson:](#MPX_Signal_Lesson:)
-
-4.  4. [Inovonics RDS Encoder](#Inovonics_RDS_Encoder)
-5.  5. [DB Broadcast Mozart 100 Transmitter](#DB_Broadcast_Mozart_100_Transmitter)
-6.  6. [Rereceive/Modulation Meter](#Rereceive.2FModulation_Meter)
-    1.  6.1. [Notes on Modulation Measurements:](#Notes_on_Modulation_Measurements:)
-
-
