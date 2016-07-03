@@ -22,6 +22,7 @@
 -   Water bubbler w/ plumbing
 -   New B rack equipment (500 series, compression, etc)
 -   Headphone monitor solution for Dee
+-   [Remote Broadcast Headset](http://www.bswusa.com/Headsets-Audio-Technica-BPHS1-P736.aspx)
 
 # Tower
 
