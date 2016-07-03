@@ -1,19 +1,33 @@
 This page is a listing of all lines running to the patch bays in the control room.  The numbering scheme is as follows (not all lines have been run, space has been left for expansion):
 
 1 -  8 : Studio A Shielded Cat5e
+
  9 - 16 : Studio A Cat6
+ 
  17 - 24 : Studio B Shielded Cat5e
+ 
  25 - 32 : Studio B Cat6
+ 
  33 - 40 : Studio C Shielded Cat5e
+ 
  41 - 48 : Studio C Cat6
+ 
  49 - 52 : Annex Shielded Cat5e
+ 
  53 - 56 : Annex Cat6
+ 
  57 - 60 : MD Shielded Cat5e
+ 
  61 - 64 : MD Cat6
+ 
  65 - 68 : GM Shielded Cat5e
+ 
  69 - 72 : GM Cat6
+ 
  73 - 76 : Air Monitor Shielded Cat5e
+ 
  77 - 80 : Bay B Shielded Cat5e
+ 
  81 - 84 : Bay B Cat6
 
 All wires rows in the table below correspond to a wire that has been run from Control to its destination, even if not connected to.
@@ -23,8 +37,9 @@ Control Room Wire Routing Table
 
 Legend: SHP - StudioHub+/Shielded Patch, P1 - Cat6 Patch 1 (24 port), P2 - Cat6 Patch 2 (16 port), END - RJ45 Male Connector, I - Input, O - Output, NC - Not Connected, POW - Line is connected to +/- 15VDC or +/- 5VDC power (decouple before servicing), CUBE - Line goes though a PS-CUBE in Control and is at +/- 15VDC (decouple before servicing), NUM - Non-Control end wire number needs to be updated.
 
-||
+
 |**Wire Number**|**Control Terminus**|**Destination Terminus**|**Control Device**|**Destination Device**|**Note**|
+--- | --- | --- | --- | --- | ---
 |1|SHP 1|SASHP 1|COND1-I1|SA-CD1|POW|
 |2|SHP 2|SASHP 2|COND1-I2|SA-CD2|POW|
 |3|SHP 3|SASHP 3|COND1-I3|SA-CD3|POW|
@@ -75,6 +90,4 @@ Legend: SHP - StudioHub+/Shielded Patch, P1 - Cat6 Patch 1 (24 port), P2 - Cat6 
 |79|END|END|CONA1-O4|BB-Belar-O| |
 |81|END|END|CONS1|BB-EAS| |
 |82|END|END|CONS1|BB-ZEYPHR| |
-
-1.  1. [Control Room Wire Routing Table](#Control_Room_Wire_Routing_Table)
 
