@@ -56,6 +56,3 @@ Air Conditioners
 4.  GM: 8K unit \~8 Amps
 5.  A: 12K unit \~10 Amps
 
-1.  1. [AC Electrical Service](#AC_Electrical_Service)
-2.  2. [Air Conditioners](#Air_Conditioners)
-
