@@ -27,7 +27,7 @@ Channel| RJ-45 Device | Patch Device | Notes
 1 | - | CONSHP1 | to control, disconnected
 2 | - | CONSHP2 | 
 3 | - | CONSHP3 | 
-4 | - | - | nothing patched
+4 | SA-Comp-In | SAA1-O6 | SA Skype Input on Computer, uses SH Line Converter with adjustments to match level, configured as To send from the SA-Comp-D source to get mix-minus 
 5 | SA-CD3 | SAD1-I3 | CD3 needs S/PDIF to AES converter
 6 | SA-COMP-D | SAD1-I4 | S/PDIF optical converter in cabinet
 7 | SA-DJ-HP Amp | SAA1-O1 | That box on the far side that has a bunch of headphone jacks in it
