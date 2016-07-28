@@ -3,8 +3,15 @@ To contact WMFO, please use one of the methods listed below. You can also contac
 Phone Numbers
 -------------
 
-**Studio Line** - 617-627-3800
- **Studio Line** - 508-507-WMFO (508-507-9636)
+**Studio Line** - 855-915-WMFO (855-915-9636)
+
+Options for on-air DJ, PD mailbox, and Ops team paging.
+
+**Local Number** - 781-350-3264
+
+**MD/Access Line** - 617-627-3800
+
+Rings station phones. Voicemail for MD department and miscellaneous. 
 
 USPS Mailing Address
 --------------------
